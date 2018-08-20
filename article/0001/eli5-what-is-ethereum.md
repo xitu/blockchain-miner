@@ -54,7 +54,7 @@ Obviously tried to keep it short and simple.
 
 well, Ethereum has the power of a 90s cell phone currently. Not really a super computer, yet. With sharding in the future it will really speed up. Golem may bring a supercomputing level processing layer on top of Ethereum sooner. But it's not Ethereum itself that does the computation, just the minimum coordination.
 
-> **[https://www.reddit.com/user/rsynnest](rsynnest):**
+> **[rsynnest](https://www.reddit.com/user/rsynnest):**
 >
 > It has the speed of a 90s cell phone, yes. The processing power however is that of a modern supercomputer. The problem is all that power goes toward mining instead of problem solving computing. Proof of stake is the biggest hope to stop wasting all those CPUs on mining and put them to use for on demand computation.
 
