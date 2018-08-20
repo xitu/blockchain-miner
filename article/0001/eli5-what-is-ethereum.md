@@ -1,7 +1,7 @@
 > * 原文地址：[ELI5: What is Ethereum?](https://www.reddit.com/r/ethereum/comments/60hhjm/eli5_what_is_ethereum/)
 > * 原文作者：[reddit](https://www.reddit.com/r/ethereum/comments/60hhjm/eli5_what_is_ethereum/)
 > * 译文出自：[掘金翻译计划 — 区块链分舵](https://github.com/xitu/blockchain-miner)
-> * 本文永久链接：[https://github.com/xitu/blockchain-miner/tree/master/article/0001/what-is-ethereum.md](https://github.com/xitu/blockchain-miner/tree/master/article/0001/what-is-ethereum.md)
+> * 本文永久链接：[https://github.com/xitu/blockchain-miner/tree/master/article/0001/eli5-what-is-ethereum.md](https://github.com/xitu/blockchain-miner/tree/master/article/0001/eli5-what-is-ethereum.md)
 > * 译者：
 > * 校对者：
 
