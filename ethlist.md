@@ -1,4 +1,12 @@
-# EthList: The Crowdsourced Ethereum Reading List</p>
+> * 原文地址：[EthList: The Crowdsourced Ethereum Reading List](https://github.com/Scanate/EthList)
+> * 原文作者：[Scanate](https://github.com/Scanate)
+> * 译文出自：[掘金翻译计划 — 区块链分舵](https://github.com/xitu/blockchain-miner)
+> * 本文永久链接：[https://github.com/xitu/blockchain-miner/blob/master/ethlist.md](https://github.com/xitu/blockchain-miner/blob/master/ethlist.md)
+> * 译者：
+> * 校对者：
+
+# EthList: The Crowdsourced Ethereum Reading List
+
 ### Found a great resource? Add it by submitting a Pull Request!
 
 Contributors: Phil Kurtland (Scanate), Robert Hackett (Fortune Magazine), Jorge Izquierdo and Luis Cuende (Aragon), Jake Brukhman (CoinFund), Maksim Balashevich (Santiment), Michal Brazewicz (Status), Nate Rush, Krishna Aradhi, Justin Poirier, Griff Green (Giveth.io), Eeks, Anonymous
@@ -396,3 +404,10 @@ Contributors: Phil Kurtland (Scanate), Robert Hackett (Fortune Magazine), Jorge 
 )
 
 ![Ethereum](https://upload.wikimedia.org/wikipedia/commons/b/b7/ETHEREUM-YOUTUBE-PROFILE-PIC.png)
+
+> 如果发现译文存在错误或其他需要改进的地方，欢迎到 [掘金翻译计划 — 区块链分舵](https://github.com/xitu/blockchain-miner) 对译文进行修改并 PR，也可获得相应奖励积分。文章开头的 **本文永久链接** 即为本文在 GitHub 上的 MarkDown 链接。
+
+
+---
+
+> [掘金翻译计划](https://github.com/xitu/gold-miner) 是一个翻译优质互联网技术文章的社区，文章来源为 [掘金](https://juejin.im) 上的英文分享文章。内容覆盖 [Android](https://github.com/xitu/gold-miner#android)、[iOS](https://github.com/xitu/gold-miner#ios)、[前端](https://github.com/xitu/gold-miner#前端)、[后端](https://github.com/xitu/gold-miner#后端)、[区块链](https://github.com/xitu/gold-miner#区块链)、[产品](https://github.com/xitu/gold-miner#产品)、[设计](https://github.com/xitu/gold-miner#设计)、[人工智能](https://github.com/xitu/gold-miner#人工智能)等领域，想要查看更多优质译文请持续关注 [掘金翻译计划](https://github.com/xitu/gold-miner)、[官方微博](http://weibo.com/juejinfanyi)、[知乎专栏](https://zhuanlan.zhihu.com/juejinfanyi)。
