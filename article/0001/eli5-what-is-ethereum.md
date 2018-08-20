@@ -13,7 +13,7 @@ Bonus question: ELI5 Investing in Ethereum (owning ETH) is investing what exactl
 
 ---
 
-> **[cryptopascal](https://www.reddit.com/user/cryptopascal):**
+**[cryptopascal](https://www.reddit.com/user/cryptopascal):**
 
 A world-wide computer that is formed by lots of computers talking to each other.
 
@@ -41,12 +41,12 @@ You can change super computer to the next version of the web if you like.
 
 Obviously tried to keep it short and simple.
 
-    **[somali_yacht_club](https://www.reddit.com/user/somali_yacht_club):**
-    I'll add, from an investing standpoint:
-    Bitcoin is like digital gold, it is valuable because people agree to exchange it for other things of value.
-    Ethereum is like digital oil, it is valuable for the work it is able to do.
-
-    If this iteration of the world-wide supercomputer succeeds, having some rights to the commodity that it runs on may prove to be a good investment.
+> **[somali_yacht_club](https://www.reddit.com/user/somali_yacht_club):**
+> I'll add, from an investing standpoint:
+> Bitcoin is like digital gold, it is valuable because people agree to exchange it for other things of value.
+> Ethereum is like digital oil, it is valuable for the work it is able to do.
+>
+> If this iteration of the world-wide supercomputer succeeds, having some rights to the commodity that it runs on may prove to be a good investment.
 
 ---
 
@@ -54,9 +54,9 @@ Obviously tried to keep it short and simple.
 
 well, Ethereum has the power of a 90s cell phone currently. Not really a super computer, yet. With sharding in the future it will really speed up. Golem may bring a supercomputing level processing layer on top of Ethereum sooner. But it's not Ethereum itself that does the computation, just the minimum coordination.
 
-    **[https://www.reddit.com/user/rsynnest](rsynnest):**
-
-    It has the speed of a 90s cell phone, yes. The processing power however is that of a modern supercomputer. The problem is all that power goes toward mining instead of problem solving computing. Proof of stake is the biggest hope to stop wasting all those CPUs on mining and put them to use for on demand computation.
+> **[https://www.reddit.com/user/rsynnest](rsynnest):**
+>
+> It has the speed of a 90s cell phone, yes. The processing power however is that of a modern supercomputer. The problem is all that power goes toward mining instead of problem solving computing. Proof of stake is the biggest hope to stop wasting all those CPUs on mining and put them to use for on demand computation.
 
 ---
 
