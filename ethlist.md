@@ -167,87 +167,87 @@
 - [以太坊一周新闻](http://www.weekinethereum.com/)
 - [Dapp 日报](https://dappdaily.com/)
 - [Consensys 媒体](https://media.consensys.net/)
-- [The Etherian](https://etherian.world/)
+- [The Etherian](https://etherian.world/) （Stella：下面这三个链接好像都失效了）
 - [The Control](https://thecontrol.co/)
 - [HEAT Crypto Roundup](http://heatledger.ghost.io/)
 
 #### YouTube 频道
 - [Crypt0's News —— 每日视频博客](https://www.youtube.com/user/obham001/videos)
 - [Ameer Rosic](https://www.youtube.com/user/AmeerRosic/videos)
-- [Decypher Media](https://www.youtube.com/channel/UC8CB0ZkvogP7tnCTDR-zV7g)
-- [Ivan on Tech](https://www.youtube.com/c/IvanOnTech)
+- [Decypher 媒体](https://www.youtube.com/channel/UC8CB0ZkvogP7tnCTDR-zV7g)
+- [Ivan 聊技术](https://www.youtube.com/c/IvanOnTech)
 
 #### 新闻
-- [CoinTelegraph](https://cointelegraph.com)
-- [ETHNews](https://www.ethnews.com)
-- [CoinDesk (owned by Digital Currency Group, which has a stake in a competing cryptocurrency)](http://www.coindesk.com/)
+- [币报](https://cointelegraph.com)
+- [ETH 新闻](https://www.ethnews.com)
+- [CoinDesk （Digital Currency Group 所有，它的报道对竞品数字货币有利益偏向。）](http://www.coindesk.com/)
 
-#### Ethereum Block Explorers
+#### 以太坊区块浏览器
 - [Etherscan](https://etherscan.io)
 - [Ethplorer](https://ethplorer.io)
-- [Trivial Token Explorer](https://www.trivial.co/)
+- [小币浏览器](https://www.trivial.co/)
 
-#### Wallets
-- [My Ether Wallet](https://myetherwallet.com)
-- [MetaMask Chrome Extension](https://metamask.io/)
-- [Multi-platform Jaxx Wallet](https://jaxx.io/)
-- [Mist Wallet](https://github.com/ethereum/mist/releases/latest)
-- [Parity Wallet](https://github.com/paritytech/parity/releases/latest)
-- [Harmony Wallet](https://github.com/ether-camp/ethereum-harmony/releases/latest)
+#### 钱包
+- [My Ether Wallet](https://myetherwallet.com) （译者注：很多时候会以 MEW 缩写来表示，所以不予翻译。）
+- [MetaMask 谷歌浏览器插件](https://metamask.io/)
+- [跨平台 Jaxx 钱包](https://jaxx.io/)
+- [Mist 钱包](https://github.com/ethereum/mist/releases/latest)
+- [Parity 钱包](https://github.com/paritytech/parity/releases/latest)
+- [Harmony 钱包](https://github.com/ether-camp/ethereum-harmony/releases/latest)
 - [imToken](https://token.im/)
-- [Toshi Wallet + Dapp Browser + Messenger](https://toshi.org)
-- [Trust Wallet + Dapp Browser](https://trustwalletapp.com)
+- [Toshi 钱包 + Dapp 浏览器 + 通讯器](https://toshi.org)
+- [Trust 钱包 + Dapp 浏览器](https://trustwalletapp.com)
 
-#### Hardware Wallets
+#### 硬件钱包
 - [Ledger Nano S](https://theethereum.wiki/w/index.php/Ledger_Nano_S)
 - [Trezor](https://blog.trezor.io/trezor-integration-with-myetherwallet-3e217a652e08)
 
-#### ICOs (Initial Coin Offerings):
-- [ICO Calendar](https://github.com/avadhootkulkarni/UltimateICOCalendar)
+#### ICOs （原始代币发售）：
+- [ICO 日历](https://github.com/avadhootkulkarni/UltimateICOCalendar)
 - [Smith and Crown](https://www.smithandcrown.com/icos/)
 - [TokenMarket](https://tokenmarket.net/)
 - [imToken ICO Dapp](https://ico.token.im/)
 
-## Thought Pieces
-- [Why Decentralization Matters](https://medium.com/@cdixon/why-decentralization-matters-5e3f79f7638e)
-- [Possibilities of Decentralized Technology](https://www.reddit.com/r/ethtrader/comments/4dvfcm/serious_question_can_anyone_actually_think_of/d1uskh1/)
-- [Risks of Ethereum](https://www.reddit.com/r/ethtrader/wiki/risks)
-- [Ethereum Community Values](https://www.reddit.com/r/ethereum/comments/57hqyg/thoughts_on_our_values_as_a_community/)
-- [Growth of the Ethereum Ecosystem](https://blog.coinbase.com/the-coinbase-secret-master-plan-f4d644443301#.xdoe2er8i)
-- [The Internet of Agreements: Building the Hyperconnected Future on Blockchains](http://internetofagreements.com/files/WorldGovernmentSummit-Dubai2017.pdf)
-- [Money, Blockchains, and Social Scalability](http://unenumerated.blogspot.com/2017/02/money-blockchains-and-social-scalability.html)
+## 思想碎片
+- [为什么去中心化很重要](https://medium.com/@cdixon/why-decentralization-matters-5e3f79f7638e)
+- [去中心化技术的发展可能性](https://www.reddit.com/r/ethtrader/comments/4dvfcm/serious_question_can_anyone_actually_think_of/d1uskh1/)
+- [以太坊的风险](https://www.reddit.com/r/ethtrader/wiki/risks)
+- [以太坊社区的价值](https://www.reddit.com/r/ethereum/comments/57hqyg/thoughts_on_our_values_as_a_community/)
+- [以太坊生态的成长](https://blog.coinbase.com/the-coinbase-secret-master-plan-f4d644443301#.xdoe2er8i)
+- [协议组成的互联网： 构建在区块链上的超连接未来](http://internetofagreements.com/files/WorldGovernmentSummit-Dubai2017.pdf)
+- [货币、区块链和社交的扩容](http://unenumerated.blogspot.com/2017/02/money-blockchains-and-social-scalability.html)
 
-#### Decentralized Apps/Protocols
-- [Crypto Tokens and the Coming Age of Protocol Innovation](http://continuations.com/post/148098927445/crypto-tokens-and-the-coming-age-of-protocol)
-- [The Golden Age Of Open Protocols](http://avc.com/2016/07/the-golden-age-of-open-protocols/)
-- [Thoughts on Tokens](https://medium.com/@balajis/thoughts-on-tokens-436109aabcbe)
-- [Fat Protocols](http://www.usv.com/blog/fat-protocols)
-- [Decentralized organizations can solve the world’s worst problems](https://blog.aragon.one/decentralized-organizations-can-solve-the-worlds-worst-problems-840db6255d12)
-- [Blockchain Tokens and the dawn of the Decentralized Business Model](https://blog.coinbase.com/app-coins-and-the-dawn-of-the-decentralized-business-model-8b8c951e734f#.qxh3d0hh2)
-- [The Business Case for Dapps – Decentralization as a Strategy](http://mattgoldenberg.net/2016/01/02/the-business-case-for-dapps-decentralization-as-a-strategy/)
-- [‘Decentralised’ is the new black, or a short history of dapps](http://www.coinfox.info/news/reviews/5805-decentralised-is-the-new-black-or-a-short-history-of-dapps)
-- [Cryptoeconomics Is Hard](https://blog.coinfund.io/cryptoeconomics-is-hard-ad401b2428b9)
+#### 去中心化应用或协议
+- [数字通证和即将到来的协议创新时代](http://continuations.com/post/148098927445/crypto-tokens-and-the-coming-age-of-protocol)
+- [开放协议的黄金纪元](http://avc.com/2016/07/the-golden-age-of-open-protocols/)
+- [关于通证的思考](https://medium.com/@balajis/thoughts-on-tokens-436109aabcbe)
+- [“胖” 式协议](http://www.usv.com/blog/fat-protocols)
+- [去中心化组织可以解决世界上最难的问题](https://blog.aragon.one/decentralized-organizations-can-solve-the-worlds-worst-problems-840db6255d12)
+- [区块链上的通证和去中心化商业模式的黎明](https://blog.coinbase.com/app-coins-and-the-dawn-of-the-decentralized-business-model-8b8c951e734f#.qxh3d0hh2)
+- [Dapp 的商业案例 —— 把去中心化当成一种策略](http://mattgoldenberg.net/2016/01/02/the-business-case-for-dapps-decentralization-as-a-strategy/)
+- [“去中心化” 给 DApp 带来了一个短而新的黑暗时代](http://www.coinfox.info/news/reviews/5805-decentralised-is-the-new-black-or-a-short-history-of-dapps)
+- [数字经济的难点](https://blog.coinfund.io/cryptoeconomics-is-hard-ad401b2428b9)
 
-#### Crowdsales
-- [Introducing the Blockchain Token Securities Law Framework](https://blog.coinbase.com/2016-12-07-blockchain-token-securities-law-a66ef03c383f#.7xhadylu3)
-- [Blockchain investments and the new problem asset for conventional VCs](https://blog.coinfund.io/blockchain-investments-and-the-new-problem-asset-for-conventional-vcs-b65bfc7ca75)
-- [How to Raise Money on a Blockchain with a Token](https://blog.gdax.com/how-to-raise-money-on-a-blockchain-with-a-token-510562c9cdfa#.z69j53rkx)
-- [Exploring Continuous Token Models: Towards a Million Networks of Value](https://media.consensys.net/exploring-continuous-token-models-towards-a-million-networks-of-value-fff153175776)
-- [Trick or Treat? Investment in Blockchain Cryptoassets](https://medium.com/@flexthought/trick-or-treat-investment-in-blockchain-cryptoassets-b1ad47ef58c#.49xq4x4hh)
-- [AGAINST TOKENS (AND TOKEN CROWDSALES)](https://prestonbyrne.com/2016/08/12/against-crowdsales/)
-- [How Cryptocurrencies and Blockchain-based Startups Are Turning The Traditional Venture Capital Model on Its Head](http://startupmanagement.org/2016/10/06/how-cryptocurrencies-and-blockchain-based-startups-are-turning-the-traditional-venture-capital-model-on-its-head/)
-- [How to Evaluate an Initial Cryptocurrency Offering (ICO)](http://startupmanagement.org/2016/11/24/how-to-evaluate-an-initial-cryptocurrency-offering-ico/)
-- [ICO 2.0 — what is the ideal ICO?](https://medium.com/iconominet/why-icos-fail-1f9530a6d135#.6uw69odix)
-- [Blockchain investment vehicles: the future of global retail investment](https://blog.coinfund.io/blockchain-investment-vehicles-3ca285797060)
+#### 众筹
+- [区块链证券式代币适用的法律框架简介](https://blog.coinbase.com/2016-12-07-blockchain-token-securities-law-a66ef03c383f#.7xhadylu3)
+- [区块链投资和新型资产给现代风投机构带来的问题](https://blog.coinfund.io/blockchain-investments-and-the-new-problem-asset-for-conventional-vcs-b65bfc7ca75)
+- [如何使用代币在区块链上募资](https://blog.gdax.com/how-to-raise-money-on-a-blockchain-with-a-token-510562c9cdfa#.z69j53rkx)
+- [探索连续性代币模型：面向百万级网络的价值](https://media.consensys.net/exploring-continuous-token-models-towards-a-million-networks-of-value-fff153175776)
+- [不给糖就捣蛋？区块链上数字资产的投资](https://medium.com/@flexthought/trick-or-treat-investment-in-blockchain-cryptoassets-b1ad47ef58c#.49xq4x4hh)
+- [向代币（和代币众筹）说不](https://prestonbyrne.com/2016/08/12/against-crowdsales/)
+- [数字货币和区块链初创公司是如何使传统风头机构转向的？](http://startupmanagement.org/2016/10/06/how-cryptocurrencies-and-blockchain-based-startups-are-turning-the-traditional-venture-capital-model-on-its-head/)
+- [如何衡量一个（项目的）原始代币发售价值 (ICO)？](http://startupmanagement.org/2016/11/24/how-to-evaluate-an-initial-cryptocurrency-offering-ico/)
+- [ICO 2.0 —— 什么是理想的 ICO?](https://medium.com/iconominet/why-icos-fail-1f9530a6d135#.6uw69odix)
+- [搭上区块链投资的快车：全球零售化投资的未来](https://blog.coinfund.io/blockchain-investment-vehicles-3ca285797060)
 
-## Trading
-- [Learn Forex Trading at the School of Pipsology (Very applicable to crypto trading)](http://www.babypips.com/school)
-- [Paradigm Shift: Technical Analysis in the Altcoins & Bitcoin Market, & Introduction to Market Cycle, Structure & Manipulation](https://alunacrypto.blogspot.ca/2014/05/technical-analysis-altcoins-bitcoin-trading-market-structure-cycle-manipulation.html)
-- [CryptoCurrency Market Capitalizations](https://coinmarketcap.com/)
+## 交易
+- [在 Pipsology 学院中学习外汇交易（非常适用于数字货币交易）](http://www.babypips.com/school)
+- [范式转换：比特币和山寨币市场的技术分析，市场周期、结构和操纵的简介](https://alunacrypto.blogspot.ca/2014/05/technical-analysis-altcoins-bitcoin-trading-market-structure-cycle-manipulation.html)
+- [数字货币市场资本状况](https://coinmarketcap.com/)
 
-#### Exchanges
+#### 交易所
 
-##### Decentralized Exchanges (Mostly Eth assets)
+##### 去中心化交易所 （大部分基于以太坊资产）
 [OasisDex](https://oasisdex.com/)
 
 [EtherDelta](https://etherdelta.github.io/)
@@ -260,55 +260,56 @@
 
 [Radex](https://radex.ai/welcome)
 
-##### [0x Relayers](https://0xproject.com/):
+##### [0x Relayers](https://0xproject.com/): 
+（译者注：去中心化交易所的市场平台）
 [Paradex](https://paradex.io/)
 
 [RadarRelay](https://radarrelay.com/)
 
 [Ethfinex](https://www.ethfinex.com/)
 
-## Programming
-- [The ultimate end-to-end tutorial to create and deploy a fully decentralized Dapp in ethereum](https://medium.com/@merunasgrincalaitis/the-ultimate-end-to-end-tutorial-to-create-and-deploy-a-fully-descentralized-dapp-in-ethereum-18f0cf6d7e0e)
-- [The ultimate guide to audit a Smart Contract + Most dangerous attacks in Solidity](https://medium.com/@merunasgrincalaitis/how-to-audit-a-smart-contract-most-dangerous-attacks-in-solidity-ae402a7e7868)
-- [Dapps 101: How do I start developing on Ethereum?](https://blog.andreacoravos.com/dapps-101-how-do-i-start-developing-on-ethereum-da0d38ed973f)
-- [Build your own crypto-currency with Ethereum](https://www.ethereum.org/token)
-- [Raise funds from friends without a third party](https://www.ethereum.org/crowdsale)
-- [Build a democracy on the blockchain](https://www.ethereum.org/dao)
-- [Build **your first DApp** in ten steps](https://github.com/paritytech/parity/wiki/Tutorial-Part-I)
-- [Ethereum DApp devolpment (videos)](http://decypher.tv/series/ethereum-development)
-- [Monitor the network status](https://ethstats.net/) ([mirror](http://stats.parity.io/)) and [the gas price market](http://ethgasstation.info/)
-- [Read the documentation](http://ethdocs.org/en/latest/) (for Homestead)
-- [Check out some **DApps**, that run on Ethereum](http://dapps.ethercasts.com/)
-- [Learn **Solidity**, an Ethereum smart contract language](https://solidity.readthedocs.io/)
-- [Check out **Truffle**, a smart contract development framework](http://truffleframework.com/)
-- [Browse the Ethereum Ecosystem Business Directory](http://ethereumall.com/)
-- [Ask questions at **Ethereum Stack Exchange**](http://ethereum.stackexchange.com/)
-- [Live chat with Ethereum developer teams and community](https://gitter.im/orgs/ethereum/rooms)
-- [Check out Ethereum **Meetups** in your area](https://www.meetup.com/topics/ethereum/)
-- [A 101 Noob Intro to Programming Smart Contracts on Ethereum](https://medium.com/@ConsenSys/a-101-noob-intro-to-programming-smart-contracts-on-ethereum-695d15c1dab4#.ieo0yl4jr)
-- [Where can I learn how to develop DApps using the solidity programming language?](https://medium.com/@ConsenSys/a-101-noob-intro-to-programming-smart-contracts-on-ethereum-695d15c1dab4#.ieo0yl4jr)
-- [Learning to Code in Ethereum](https://www.reddit.com/r/ethereum/comments/4z4y81/any_advice_on_learning_to_code_in_ethereum/)
-- [Getting started with Ethereum & Solidity on Windows — part 1](https://medium.com/@wslyvh/get-started-with-ethereum-solidity-on-windows-1672e9953a1)
-- [Getting started with Ethereum, Solidity & Geth — part 2](https://medium.com/@wslyvh/getting-started-with-ethereum-solidity-geth-part-2-d195144fe6c7)
-- [CryptoZombies.io - Learn Solidity by Making a Game](https://cryptozombies.io/)
-- [How to deploy Smart Contract using Geth](https://medium.com/@thenanobyte/how-to-deploy-the-smart-contract-on-private-ethereum-network-using-geth-66586b53b06e)
-- [3 part series on building a full stack Ethereum voting dapp](https://medium.com/@mvmurthy/full-stack-hello-world-voting-ethereum-dapp-tutorial-part-1-40d2d0d807c2)
-- [Ethereum Development Guide — Part 1. Developing an Ethereum Document Certification Contract](https://medium.com/@sbeyer_31150/ethereum-development-guide-part-1-ad0c77c3683f)
-- [Ethereum Development Guide — Part 2. Interacting with smart contracts](https://medium.com/@sbeyer_31150/ethereum-development-guide-part-2-d2d8ac67e51d)
-- [Ethereum Development Guide — Part 3. Developing web interfaces for smart contracts](https://medium.com/@sbeyer_31150/ethereum-development-guide-part-3-c5a402bf8815)
-- [Developing an Ethereum Blockchain Application - Research project that is very useful and detailed](http://www.delaat.net/rp/2015-2016/p53/report.pdf)
-- [Ethereum Smart Contract Security](https://medium.com/@sbeyer_31150/ethereum-smart-contract-security-73b0ede73fa8)
-- [Ethereum Smart Contract Best Practices](https://consensys.github.io/smart-contract-best-practices/)
-- [Discover Ethereum & Solidity – Complete online course](https://www.ludu.co/course/ethereum)
+## 编程
+- [在以太坊上创建并部署一个完全去中心化 DApp 的终极版由头到尾的指南](https://medium.com/@merunasgrincalaitis/the-ultimate-end-to-end-tutorial-to-create-and-deploy-a-fully-descentralized-dapp-in-ethereum-18f0cf6d7e0e)
+- [审计智能合约的终极指南 + Solidity 上的危险攻击](https://medium.com/@merunasgrincalaitis/how-to-audit-a-smart-contract-most-dangerous-attacks-in-solidity-ae402a7e7868)
+- [Dapp 全简介：我如何在以太坊上开始开发？](https://blog.andreacoravos.com/dapps-101-how-do-i-start-developing-on-ethereum-da0d38ed973f)
+- [在以太坊上发行你自己的数字货币](https://www.ethereum.org/token)
+- [不借用第三方从朋友处募资](https://www.ethereum.org/crowdsale)
+- [在区块链上建立民主机制](https://www.ethereum.org/dao)
+- [只需十步就构建出**你第一个 DApp**](https://github.com/paritytech/parity/wiki/Tutorial-Part-I)
+- [以太坊 DApp 开发（视频）](http://decypher.tv/series/ethereum-development)
+- [监测网络状态](https://ethstats.net/) ([镜像站](http://stats.parity.io/)) 和 [gas 费用市场状况](http://ethgasstation.info/)
+- [阅读技术文档](http://ethdocs.org/en/latest/) （Homestead 版本）
+- [试试一些在以太坊上运行的 **DApp** 吧](http://dapps.ethercasts.com/)
+- [学习 **Solidity**，以太坊智能合约语言](https://solidity.readthedocs.io/)
+- [试试 **Truffle** 吧！一个智能合约开发框架](http://truffleframework.com/)
+- [以太坊商业生态路径一览](http://ethereumall.com/)
+- [在**以太坊 Stack Exchange** 上问问题吧](http://ethereum.stackexchange.com/)
+- [与以太坊开发者队伍、社区在线通话](https://gitter.im/orgs/ethereum/rooms)
+- [发现你附近的以太坊 **Meetup**](https://www.meetup.com/topics/ethereum/)
+- [在以太坊上开发智能合约的菜鸟全简介](https://medium.com/@ConsenSys/a-101-noob-intro-to-programming-smart-contracts-on-ethereum-695d15c1dab4#.ieo0yl4jr)
+- [我可以在哪里学习如何使用 Solidity 语言开发 DApp 呢？](https://medium.com/@ConsenSys/a-101-noob-intro-to-programming-smart-contracts-on-ethereum-695d15c1dab4#.ieo0yl4jr)
+- [学习在以太坊上编程](https://www.reddit.com/r/ethereum/comments/4z4y81/any_advice_on_learning_to_code_in_ethereum/)
+- [Windows 平台上以太坊、Solidity 和 Geth 的入门 —— part 1](https://medium.com/@wslyvh/get-started-with-ethereum-solidity-on-windows-1672e9953a1)
+- [以太坊、Solidity 和 Geth 的入门 —— part 2](https://medium.com/@wslyvh/getting-started-with-ethereum-solidity-geth-part-2-d195144fe6c7)
+- [CryptoZombies.io —— 以制作游戏的方法学习 Solicity](https://cryptozombies.io/)
+- [如何使用 Geth 部署智能合约](https://medium.com/@thenanobyte/how-to-deploy-the-smart-contract-on-private-ethereum-network-using-geth-66586b53b06e)
+- [开发一个完整的以太坊投票 DApp 的三部曲](https://medium.com/@mvmurthy/full-stack-hello-world-voting-ethereum-dapp-tutorial-part-1-40d2d0d807c2)
+- [以太坊开发指南 —— Part 1. 开发一个以太坊文件认证合约](https://medium.com/@sbeyer_31150/ethereum-development-guide-part-1-ad0c77c3683f)
+- [以太坊开发指南 — Part 2. 与智能合约交互](https://medium.com/@sbeyer_31150/ethereum-development-guide-part-2-d2d8ac67e51d)
+- [以太坊开发指南 — Part 3. 为智能合约开发网页界面](https://medium.com/@sbeyer_31150/ethereum-development-guide-part-3-c5a402bf8815)
+- [开发以太坊区块链应用 —— 实用且详尽的研究项目](http://www.delaat.net/rp/2015-2016/p53/report.pdf)
+- [以太坊智能合约安全](https://medium.com/@sbeyer_31150/ethereum-smart-contract-security-73b0ede73fa8)
+- [以太坊智能合约最佳实践案例](https://consensys.github.io/smart-contract-best-practices/)
+- [探索以太坊和智能合约 —— 完全版在线课程](https://www.ludu.co/course/ethereum)
 
 
-## Legal
-- [BitLegal Map](http://map.bitlegal.io/)
-- [Introducing the Blockchain Token Securities Law Framework](https://blog.coinbase.com/2016-12-07-blockchain-token-securities-law-a66ef03c383f#.7xhadylu3)
-- [Securities Law Framework for Blockchain Tokens](https://docs.google.com/spreadsheets/d/1QxOV2dgxO3C_TyVE0-41ZwLlzPmB-EE1NNshJGuedCU/edit#gid=0)
-- [The Law and Legality of Smart Contracts](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2959166)
-- [IRS Virtual Currency Guidance : Virtual Currency Is Treated as Property for U.S. Federal Tax Purposes; General Rules for Property Transactions Apply](https://www.irs.gov/uac/newsroom/irs-virtual-currency-guidance)
-- [Legality of Bitcoin by Country](https://en.wikipedia.org/wiki/Legality_of_bitcoin_by_country)
+## 法务
+- [比特法律地图](http://map.bitlegal.io/)
+- [区块链证券式代币适用的法律框架简介](https://blog.coinbase.com/2016-12-07-blockchain-token-securities-law-a66ef03c383f#.7xhadylu3)
+- [区块链代币适用的证券法律框架](https://docs.google.com/spreadsheets/d/1QxOV2dgxO3C_TyVE0-41ZwLlzPmB-EE1NNshJGuedCU/edit#gid=0)
+- [智能合约适用的法律和合法性](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2959166)
+- [IRS 虚拟货币指引：为保证美国联保税收，虚拟货币被定义成资产；适用于资产交易的一般规则](https://www.irs.gov/uac/newsroom/irs-virtual-currency-guidance)
+- [比特币在不同国家的合法性](https://en.wikipedia.org/wiki/Legality_of_bitcoin_by_country)
 
 ![Ethereum](https://upload.wikimedia.org/wikipedia/commons/b/b7/ETHEREUM-YOUTUBE-PROFILE-PIC.png)
 
