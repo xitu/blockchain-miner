@@ -2,206 +2,182 @@
 > * 原文作者：[Scanate](https://github.com/Scanate)
 > * 译文出自：[掘金翻译计划 — 区块链分舵](https://github.com/xitu/blockchain-miner)
 > * 本文永久链接：[https://github.com/xitu/blockchain-miner/blob/master/ethlist.md](https://github.com/xitu/blockchain-miner/blob/master/ethlist.md)
-> * 译者：
+> * 译者：[StellaBauhinia](https://github.com/StellaBauhinia)
 > * 校对者：
 
-# EthList: The Crowdsourced Ethereum Reading List
+# EthList: 众包维护的以太坊阅读清单
 
-### Found a great resource? Add it by submitting a Pull Request!
+### 发现了一个很棒的资源吗？提交一个 Pull 请求就可以加入进来了！
 
-Contributors: Phil Kurtland (Scanate), Robert Hackett (Fortune Magazine), Jorge Izquierdo and Luis Cuende (Aragon), Jake Brukhman (CoinFund), Maksim Balashevich (Santiment), Michal Brazewicz (Status), Nate Rush, Krishna Aradhi, Justin Poirier, Griff Green (Giveth.io), Eeks, Anonymous
+贡献者： Phil Kurtland (Scanate), Robert Hackett (Fortune Magazine), Jorge Izquierdo and Luis Cuende (Aragon), Jake Brukhman (CoinFund), Maksim Balashevich (Santiment), Michal Brazewicz (Status), Nate Rush, Krishna Aradhi, Justin Poirier, Griff Green (Giveth.io), Eeks, Anonymous
 
-<a href="http://twitter.com/home?status=Check%20out%20this%20awesome%20Ethereum%20Reading%20List:%20www.scanate.co/eth">Tweet about this list!</a>
+<a href="http://twitter.com/home?status=Check%20out%20this%20awesome%20Ethereum%20Reading%20List:%20www.scanate.co/eth">在推特上发布这个清单吧！</a>
 
-| [Introduction](#introduction) | [Getting Started](#getting-started) | [Ecosystem](#ecosystem) | [Thought Pieces](#thought-pieces) | [Trading](#trading) | [Programming](#programming) | [Legal](#legal)
+| [简介](#introduction) | [入门](#getting-started) | [生态](#ecosystem) | [思想碎片](#thought-pieces) | [交易](#trading) | [编程](#programming) | [法务](#legal)
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 
 
-## Introduction
+## 简介
 
-#### Simple explanations of Ethereum
-- [Blockchain Demo - Visual demonstration of blockchain technologies](https://blockchaindemo.io)
-- [Minimal Blockchain Learning Hands-on CLI](https://github.com/daxeel/blockshell)
-- [Coin Demo - Visual demonstration of cryptocurrency technologies](https://coindemo.io)
-- [Visual demonstration of a blockchain](https://anders.com/blockchain/)
-- [Ethereum the world computer](https://www.youtube.com/watch?v=j23HnORQXvs) (video)
-- [Vitalik Buterin explains Ethereum](https://www.youtube.com/watch?v=TDGq4aeevgY) (video)
-- [Joseph Lubin's interview on building decentralized applications](https://www.youtube.com/watch?v=MgLmY9oedTM) (video)
-- [BBC explains Ethereum](https://www.youtube.com/watch?v=0X33lgMbvdI) (video)
-- [Techcrunch on Ethereum](https://www.youtube.com/watch?v=WfULutvxvzY) (video)
-- [What is Ethereum?](https://blockgeeks.com/guides/what-is-ethereum/)
-- [ELI5: What is Ethereum?](https://www.reddit.com/r/ethereum/comments/60hhjm/eli5_what_is_ethereum/)
-- [Ethereum: The not-Bitcoin cryptocurrency that could help replace Uber](http://mashable.com/2017/03/24/ethereum-bitcoin-explainer/)
-- [Introduction to Ethereum: The Internet’s Government](https://media.consensys.net/introduction-to-ethereum-the-internets-government-35bdd25f572a#.5me0m455w)
-- [A beginner’s guide to Ethereum](https://blog.coinbase.com/a-beginners-guide-to-ethereum-46dd486ceecf)
-- [What is Ethereum?](https://cointelegraph.com/ethereum-for-beginners/what-is-ethereum)
-- [Just enough Bitcoin for Ethereum](https://media.consensys.net/time-sure-does-fly-ed4518792679#.xclr74isu)
-- [Ethereum: Bitcoin Plus Everything](https://medium.com/@ConsenSys/ethereum-bitcoin-plus-everything-a506dc780106#.v7s0ganew)
-- [An Introduction to Ethereum and Smart Contracts: a Programmable Blockchain](https://auth0.com/blog/an-introduction-to-ethereum-and-smart-contracts-part-2/)
-- [A Very Non-technical Explanation of Ethereum (aka Yet Another Ethereum Explanation)](https://medium.com/connext/yet-another-ethereum-explanation-32cc31a91092)
-- [WTF is Ethereum?](http://whatthefuckisethereum.com/)
-- [Super Beginner's Guide to Ethereum](https://medium.com/@NickDodson/super-beginners-guide-to-ethereum-cc592c8b3c32)
-- [Blockchain: The New Technology of Trust](http://www.goldmansachs.com/our-thinking/pages/blockchain/)
-- [Ethereum for Web Developers](https://medium.com/@mvmurthy/ethereum-for-web-developers-890be23d1d0c)
+#### 以太坊的简单解释
+- [区块链演示 —— 区块链技术的视效演示](https://blockchaindemo.io)
+- [精简的区块链学习实操命令行界面](https://github.com/daxeel/blockshell)
+- [虚拟货币演示 —— 数字货币技术的视效演示](https://coindemo.io)
+- [区块链的演示](https://anders.com/blockchain/)
+- [以太坊，世界的计算机](https://www.youtube.com/watch?v=j23HnORQXvs) （视频）
+- [Vitalik Buterin 解释以太坊](https://www.youtube.com/watch?v=TDGq4aeevgY) （视频）
+- [Joseph Lubin 对于构建去中心化应用的访谈](https://www.youtube.com/watch?v=MgLmY9oedTM) （视频）
+- [BBC 解释以太坊](https://www.youtube.com/watch?v=0X33lgMbvdI) （视频）
+- [以太坊上的技术难题](https://www.youtube.com/watch?v=WfULutvxvzY) （视频）
+- [什么是以太坊？](https://blockgeeks.com/guides/what-is-ethereum/)
+- [ELI5 ：什么是以太坊？](https://www.reddit.com/r/ethereum/comments/60hhjm/eli5_what_is_ethereum/)
+（ 译者注：ELI5 是 Explain Like I'm 5 的缩写，引申义为 “向小白解释”）
+- [以太坊：与比特币不同的、可以取代 Uber 服务的数字货币](http://mashable.com/2017/03/24/ethereum-bitcoin-explainer/)
+- [以太坊简介：互联网自治](https://media.consensys.net/introduction-to-ethereum-the-internets-government-35bdd25f572a#.5me0m455w)
+- [以太坊初学者指南](https://blog.coinbase.com/a-beginners-guide-to-ethereum-46dd486ceecf)
+- [什么是以太坊？](https://cointelegraph.com/ethereum-for-beginners/what-is-ethereum)
+- [足以用来理解以太坊的比特币知识](https://media.consensys.net/time-sure-does-fly-ed4518792679#.xclr74isu)
+- [以太坊：比特币加上一切](https://medium.com/@ConsenSys/ethereum-bitcoin-plus-everything-a506dc780106#.v7s0ganew)
+- [以太坊和智能合约简介：一个可编程的区块链](https://auth0.com/blog/an-introduction-to-ethereum-and-smart-contracts-part-2/)
+- [一个非常不技术的以太坊解释 （又名 另一个以太坊的解释）](https://medium.com/connext/yet-another-ethereum-explanation-32cc31a91092)
+- [以太坊特么到底是个啥？](http://whatthefuckisethereum.com/)
+- [以太坊的初学者超级指南](https://medium.com/@NickDodson/super-beginners-guide-to-ethereum-cc592c8b3c32)
+- [区块链：关于信任的新技术](http://www.goldmansachs.com/our-thinking/pages/blockchain/)
+- [给 Web 开发者的以太坊知识](https://medium.com/@mvmurthy/ethereum-for-web-developers-890be23d1d0c)
 
-#### Deeper explanations of Ethereum
-- [How does Ethereum work anyway?](https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369)
-- [Minimum Viable Blockchain](https://www.igvita.com/2014/05/05/minimum-viable-block-chain/)
-- General [White Paper](https://github.com/ethereum/wiki/wiki/White-Paper), Technical [Yellow Paper](https://ethereum.github.io/yellowpaper/paper.pdf) (pdf)
-- [Programmable Blockchains in context: Ethereum](https://media.consensys.net/programmable-blockchains-in-context-ethereum-s-future-cd8451eb421e)
-- [Ethereum: Platform Overview](https://static1.squarespace.com/static/55f73743e4b051cfcc0b02cf/t/57506f387da24ff6bdecb3c1/1464889147417/Ethereum_Paper.pdf)
-- [Vitalik Buterin's Ethereum introduction at Devcon 1](https://www.youtube.com/watch?v=gjwr-7PgpN8) (video)
-- [Thinking outside the Blocks](https://www.bcg.com/blockchain/thinking-outside-the-blocks.html?linkId=32278919)
-- [Understanding Ethereum Report](https://forum.daohub.org/uploads/default/original/2X/b/b583e2bb2e6998bfec40d488b1709deb53abdc4a.pdf) (PDF)
-- [Very deep-dive on Ethereum Reading List](https://medium.com/@ConsenSys/very-deep-dive-on-ethereum-reading-list-f5b1122e5990)
-- [Dissecting Ponzi schemes on Ethereum: identification, analysis, and impact](https://arxiv.org/abs/1703.03779)
-- [Full Ethereum Syllabus with Detailed Summaries and Resources](https://novicedock.com/learn/cryptocurrency/ethereum)
+#### 以太坊的深入解释
+- [以太坊到底是怎么运作的？](https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369)
+- [最简可行的区块链](https://www.igvita.com/2014/05/05/minimum-viable-block-chain/)
+- 大众版 [白皮书](https://github.com/ethereum/wiki/wiki/White-Paper), 技术版 [黄皮书](https://ethereum.github.io/yellowpaper/paper.pdf) （PDF）
+- [在区块链的内容中编程：以太坊](https://media.consensys.net/programmable-blockchains-in-context-ethereum-s-future-cd8451eb421e)
+- [以太坊：平台概况](https://static1.squarespace.com/static/55f73743e4b051cfcc0b02cf/t/57506f387da24ff6bdecb3c1/1464889147417/Ethereum_Paper.pdf)
+- [Vitalik Buterin 在第一次以太坊开发者大会上对以太坊的介绍](https://www.youtube.com/watch?v=gjwr-7PgpN8) （视频）
+- [立于区块之外思考](https://www.bcg.com/blockchain/thinking-outside-the-blocks.html?linkId=32278919)
+- [理解以太坊报告](https://forum.daohub.org/uploads/default/original/2X/b/b583e2bb2e6998bfec40d488b1709deb53abdc4a.pdf) （PDF）
+- [非常深入的以太坊阅读清单](https://medium.com/@ConsenSys/very-deep-dive-on-ethereum-reading-list-f5b1122e5990)
+- [剖析以太坊中的庞氏骗局：身份认证，分析和影响](https://arxiv.org/abs/1703.03779)
+- [全面的以太坊学习大纲，附带总结和资源分享](https://novicedock.com/learn/cryptocurrency/ethereum)
 
-#### History Articles:
-- [Can This 22-year-old Coder Out-Bitcoin Bitcoin?](http://fortune.com/ethereum-blockchain-vitalik-buterin/)
-- [The Uncanny Mind That Built Ethereum](https://www.wired.com/2016/06/the-uncanny-mind-that-built-ethereum/)
+#### 历史文章：
+- [这个 22 岁的程序员能基于比特币、突破比特币吗？](http://fortune.com/ethereum-blockchain-vitalik-buterin/)
+- [这个怪异的天才造就了以太坊](https://www.wired.com/2016/06/the-uncanny-mind-that-built-ethereum/)
 
-### I want more in-depth details!
+### 我想要更多深入的细节！
 
-#### The annual Ethereum Developer Conference (Devcon):
+#### 以太坊年度开发者大会（Devcon）:
 
-- [Devcon 0 (Berlin, 2014) talks and videos](https://www.youtube.com/watch?v=_BvvUlKDqp0&amp;list=PLJqWcTqh_zKEjpSej3ddtDOKPRGl_7MhS)
-- [Devcon 1 (London, 2015) talks and videos](https://www.youtube.com/watch?v=BUARih8_f68&list=PLJqWcTqh_zKHQUFX4IaVjWjfT2tbS4NVk)
-- [Devcon 2 (Shanghai, 2016) talks and videos](https://www.youtube.com/watch?v=1wayaZ1-iBE&list=PLaM7G4Llrb7xqzgOwbvNv63_KM7VH84Rd)
-- [Devcon 3 (Cancún, 2017) talks and videos](https://www.youtube.com/channel/UCNOfzGXD_C9YMYmnefmPH0g/playlists)
+- [Devcon 0 （柏林，2014） 座谈会和视频](https://www.youtube.com/watch?v=_BvvUlKDqp0&amp;list=PLJqWcTqh_zKEjpSej3ddtDOKPRGl_7MhS)
+- [Devcon 1 （伦敦，2015） 座谈会和视频](https://www.youtube.com/watch?v=BUARih8_f68&list=PLJqWcTqh_zKHQUFX4IaVjWjfT2tbS4NVk)
+- [Devcon 2 （上海，2016） 座谈会和视频](https://www.youtube.com/watch?v=1wayaZ1-iBE&list=PLaM7G4Llrb7xqzgOwbvNv63_KM7VH84Rd)
+- [Devcon 3 （坎昆，2017） 座谈会和视频](https://www.youtube.com/channel/UCNOfzGXD_C9YMYmnefmPH0g/playlists)
 
-#### List of protocol updates and hard-forks:
+#### 协议更新列表和硬分叉：
+（译者注：下文中的 EIP 为 Ethereum Improvement Proposal 的缩写，意思是以太坊优化计划，按数字分了不同的计划或者提议。）
 
-- Olympic pre-release (Testnet, Chain #0 - May 9, 2015)
-  - [Blog post](https://blog.ethereum.org/2015/05/09/olympic-frontier-pre-release/)
-- **Frontier** public release (Ethereum Genesis, Chain #1 - July 30, 2015)
-  - [Blog post](https://blog.ethereum.org/2015/07/30/ethereum-launches/)
-- **Homestead** (Block #1,150,000 - March 14, 2016)
-  - [Blog post](https://blog.ethereum.org/2016/02/29/homestead-release/), [EIP-2](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-2.mediawiki), [EIP-7](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-7.md), [EIP-8](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-8.md)
-- DAO Fork (Block #1,920,000 - July 20, 2016)
-  - [Blog post](https://blog.ethereum.org/2016/07/20/hard-fork-completed/), opposition at r/EthereumClassic
-- DoS Fork (Block #2,463,000 - October 18, 2016)
-  - [Blog post](https://blog.ethereum.org/2016/10/18/faq-upcoming-ethereum-hard-fork/), [EIP-150](https://github.com/ethereum/EIPs/issues/150), [EIP-158](https://github.com/ethereum/EIPs/issues/158)
-- Spurious Dragon (Block #2,675,000 - November 22, 2016)
-  - [Blog post](https://blog.ethereum.org/2016/11/18/hard-fork-no-4-spurious-dragon/), [EIP-155](https://github.com/ethereum/EIPs/issues/155), [EIP-160](https://github.com/ethereum/EIPs/issues/160), [EIP-161](https://github.com/ethereum/EIPs/issues/161), [EIP-170](https://github.com/ethereum/EIPs/issues/170)
-- **Metropolis** will be [scheduled end of June, 2017](https://github.com/ethereum/pm/blob/master/All%20Core%20Devs%20Meetings/Meeting%2012.md#5-metropolis-update) (_to be announced_)
-  - _work in progress_: [EIP-86](https://github.com/ethereum/EIPs/pull/208), [EIP-96](https://github.com/ethereum/EIPs/pull/210), [EIP-98](https://github.com/ethereum/EIPs/issues/98), [EIP-100](https://github.com/ethereum/EIPs/issues/100), [EIP-140](https://github.com/ethereum/EIPs/pull/206), [EIP-196](https://github.com/ethereum/EIPs/pull/213), [EIP-197](https://github.com/ethereum/EIPs/pull/212), [EIP-198](https://github.com/ethereum/EIPs/pull/198)
-- **Serenity** _to be announced_ (2018)
-  - [Why does Ethereum plan to move to Proof of Stake](http://ethereum.stackexchange.com/questions/9)?
+- Olympic（奥运） 预发布版本 （测试网，Chain #0 —— 5 月 9 日，2015）
+  - [发布博客](https://blog.ethereum.org/2015/05/09/olympic-frontier-pre-release/)
+- **Frontier（前沿）** 公开发布版本 （包含以太坊创始区块，Chain #1 —— 7 月 30 日，2015）
+  - [发布博客](https://blog.ethereum.org/2015/07/30/ethereum-launches/)
+- **Homestead（家园）** （区块编号至 1,150,000 —— 3 月 14 日，2016）
+  - [发布博客](https://blog.ethereum.org/2016/02/29/homestead-release/), [EIP-2](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-2.mediawiki), [EIP-7](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-7.md), [EIP-8](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-8.md)
+- DAO 分叉 （区块编号至 1,920,000 —— 7 月 20 日，2016）
+  - [发布博客](https://blog.ethereum.org/2016/07/20/hard-fork-completed/)，分叉的反对者停留在了 r/EthereumClassic （译者注：即 ETC，该分叉由著名的 DAO 攻击引致。）
+- DoS 分叉 （区块编号至 2,463,000 —— 10 月 18 日，2016）
+  - [发布博客](https://blog.ethereum.org/2016/10/18/faq-upcoming-ethereum-hard-fork/), [EIP-150](https://github.com/ethereum/EIPs/issues/150), [EIP-158](https://github.com/ethereum/EIPs/issues/158)
+- 伪龙分叉 （区块编号至 2,675,000 —— 11 月 22 日， 2016）（译者注：该分叉为 DoS 分叉的后续，应对的是相似的问题。）
+  - [发布博客](https://blog.ethereum.org/2016/11/18/hard-fork-no-4-spurious-dragon/), [EIP-155](https://github.com/ethereum/EIPs/issues/155), [EIP-160](https://github.com/ethereum/EIPs/issues/160), [EIP-161](https://github.com/ethereum/EIPs/issues/161), [EIP-170](https://github.com/ethereum/EIPs/issues/170)
+- **Metropolis（大都会）** 会 [按计划于 2017 年 6 月](https://github.com/ethereum/pm/blob/master/All%20Core%20Devs%20Meetings/Meeting%2012.md#5-metropolis-update) (_to be announced_)
+  - **工作进行中**： [EIP-86](https://github.com/ethereum/EIPs/pull/208), [EIP-96](https://github.com/ethereum/EIPs/pull/210), [EIP-98](https://github.com/ethereum/EIPs/issues/98), [EIP-100](https://github.com/ethereum/EIPs/issues/100), [EIP-140](https://github.com/ethereum/EIPs/pull/206), [EIP-196](https://github.com/ethereum/EIPs/pull/213), [EIP-197](https://github.com/ethereum/EIPs/pull/212), [EIP-198](https://github.com/ethereum/EIPs/pull/198)
+（译者注：现在已经是 2018 年中了，这个版本还没发布，不知道 2019 年能不能出，更别提楼下的最终版了。）
+- **Serenity（宁静）** **等待宣布** （2018）
+  - [为什么以太坊计划迁移到权益证明模式？](http://ethereum.stackexchange.com/questions/9)?
 
 
-#### List of public testnets:
+#### 公开的测试网列表：
 
-- Olympic, pre-release public test network with ID #0 (replaced by Morden)
-- Morden, Fontier-based public test network with ID #2 ([replaced by Ropsten](https://blog.ethereum.org/2016/11/20/from-morden-to-ropsten/))
-- **Ropsten**, Homestead-based public test network with ID #3 ([recently revived](https://www.reddit.com/r/ethereum/comments/61bawv/ropsten_revived_thanks_to_generous_miners/))
-- ConsenSys, Proof-of-Work [public test network](https://github.com/ConsenSys/ConsenSys.github.io/wiki/ConsenSys-public-testnet)
-- **Kovan**, Proof-of-Authority [public test network](https://github.com/kovan-testnet/proposal)
-- Rinkeby, Proof-of-Authority, _to be announced_ ([EIP-225](https://github.com/ethereum/EIPs/issues/225))
+- Olympic，预发布的公开测试网，网络编号为 0 （已被 Morden 取代)
+- Morden，基于 Fontier 的公开测试网，网络编号为 2 ([已被 Ropsten 取代](https://blog.ethereum.org/2016/11/20/from-morden-to-ropsten/))
+- **Ropsten**，基于 Homestead 的公开测试网，网络编号为 3 ([刚刚重启](https://www.reddit.com/r/ethereum/comments/61bawv/ropsten_revived_thanks_to_generous_miners/))
+- ConsenSys，工作量证明模式的 [公开测试网](https://github.com/ConsenSys/ConsenSys.github.io/wiki/ConsenSys-public-testnet)
+- **Kovan**， 权威证明模式的 [公开测试网](https://github.com/kovan-testnet/proposal)
+- Rinkeby，权威证明模式，**等待宣布** ([EIP-225](https://github.com/ethereum/EIPs/issues/225))
+（译者注：现在已经是 2018 年中了，ConsenSys 已经凉了，Rinkeby 上线也很久了。）
 
-#### Faucets:
-- [Ropsten Faucet](http://faucet.ropsten.be:3001/)
-- [Rinkeby Faucet](https://faucet.rinkeby.io/)
+#### 测试币水龙头：
+- [Ropsten 水龙头](http://faucet.ropsten.be:3001/)
+- [Rinkeby 水龙头](https://faucet.rinkeby.io/)
 
-#### Misc Collections:
+#### 杂文收集：
 
-- [Learn about the Blockchain](https://www.reddit.com/r/Entrepreneur/comments/3l7gj2/i_want_to_learn_everything_about_the_blockchain/)
-- [Some Blockchain Reading](https://thecontrol.co/some-blockchain-reading-1d98ec6b2f39)
-- [How to Invest in Ethereum ETH Tokens](https://www.ethadvisor.com/)
-- [Reading Guide on Ethereum](https://medium.com/@paulgambill/reading-guide-on-ethereum-27d006c82792#.vtek62s0k)
-- [Ethereum Reading List for Prospective Dapp Developers](https://dappdaily.com/ethereum-reading-list-for-prospective-dapp-developers-15d515383b23)
-- [r/ethereum’s Guide](https://www.reddit.com/r/ethereum/comments/61y5ix/welcome_to_rethereum_the_reddit_front_page_of_the/)
-- [The Ethereum Wiki](https://theethereum.wiki/w/index.php/Main_Page)
-- [Ethereum Stack Exchange](https://ethereum.stackexchange.com)
-- [The Ultimate Reading List for Blockchain, Token and Cryptocurrency Sources](http://startupmanagement.org/2017/06/06/the-ultimate-reading-list-for-blockchain-token-and-cryptocurrency-sources/)
-- [Curated List of Blockchain-related Academic Papers](https://github.com/decrypto-org/blockchain-papers)
+- [了解区块链](https://www.reddit.com/r/Entrepreneur/comments/3l7gj2/i_want_to_learn_everything_about_the_blockchain/)
+- [一些区块链读物](https://thecontrol.co/some-blockchain-reading-1d98ec6b2f39)
+- [如何投资以太坊上基于以太币的代币](https://www.ethadvisor.com/)
+- [以太坊的阅读指南](https://medium.com/@paulgambill/reading-guide-on-ethereum-27d006c82792#.vtek62s0k)
+- [为潜在的 Dapp 开发者准备的以太坊阅读清单](https://dappdaily.com/ethereum-reading-list-for-prospective-dapp-developers-15d515383b23)
+- [Reddit 的以太坊指南](https://www.reddit.com/r/ethereum/comments/61y5ix/welcome_to_rethereum_the_reddit_front_page_of_the/)
+- [以太坊 Wiki](https://theethereum.wiki/w/index.php/Main_Page)
+- [以太坊 Stack Exchange（问答平台）](https://ethereum.stackexchange.com)
+- [区块链、代币和数字货币的终极版阅读清单](http://startupmanagement.org/2017/06/06/the-ultimate-reading-list-for-blockchain-token-and-cryptocurrency-sources/)
+- [区块链相关学术文章的初创列表](https://github.com/decrypto-org/blockchain-papers)
 
-## [Research](https://ethresear.ch/)
-- [Making Sense of Ethereum’s Layer 2 Scaling Solutions: State Channels, Plasma, and Truebit](https://medium.com/l4-media/making-sense-of-ethereums-layer-2-scaling-solutions-state-channels-plasma-and-truebit-22cb40dcc2f4)
-### Proof of Stake (PoS)
-- [Proof of Stake FAQ](https://github.com/ethereum/wiki/wiki/Proof-of-Stake-FAQ)
-- [Casper FFG Paper](https://arxiv.org/abs/1710.09437)
-- [Alpha Casper FFG Testnet Instructions](http://notes.eth.sg/MYEwhswJwMzAtADgCwEYBM9kAYBGJ4wBTETKdGZdXAVmRvUQDYg=?view)
+## [研究](https://ethresear.ch/)
+- [以太坊第二层的扩容解决思路的实际方案：状态通道、Plasma、和 Truebit](https://medium.com/l4-media/making-sense-of-ethereums-layer-2-scaling-solutions-state-channels-plasma-and-truebit-22cb40dcc2f4)
+### 权益证明 (PoS)
+- [权益证明模式的问与答](https://github.com/ethereum/wiki/wiki/Proof-of-Stake-FAQ)
+- [Casper FFG 文章](https://arxiv.org/abs/1710.09437) （译者注：FFG 为 Friendly Finality Gadget 的缩写，直译为 “友好的终结工具”。）
+- [Alpha 版 Casper FFG 测试网操作指南](http://notes.eth.sg/MYEwhswJwMzAtADgCwEYBM9kAYBGJ4wBTETKdGZdXAVmRvUQDYg=?view)
 ### Plasma
-- [Plasma Whitepaper](https://plasma.io)
-- [Minimal Viable Plasma](https://ethresear.ch/t/minimal-viable-plasma/426)
-### Sharding
-- [Sharding Research](https://ethresear.ch/c/sharding)
-- [Sharding GitHub Repo](https://github.com/ethereum/sharding)
+（译者注：一种以太坊外链解决方案）
+- [Plasma 白皮书](https://plasma.io)
+- [最简可行版的 Plasma](https://ethresear.ch/t/minimal-viable-plasma/426)
+### Sharding（分片技术）
+- [Sharding 研究](https://ethresear.ch/c/sharding)
+- [Sharding 在 GitHub 上的代码库](https://github.com/ethereum/sharding)
 
-## Getting Started
+## 入门
 
-- [Easy Guide to Using Ethereum
-](https://medium.com/ethertime/the-easy-guide-to-using-ethereum-d482b6c3d3a4
-)
-- [Ethereum - Getting Started - Australian Edition
-](http://ashleyknowles.net/2017/05/ethereum-getting-started-aussie-edition/
-)
-- [Words are Hard: Defining Common Terms in the Ethereum / Crypto Space](https://www.reddit.com/r/ethereum/comments/6kvp87/words_are_hard_defining_common_terms_in_the/)
-- [Getting up to speed on Ethereum](https://medium.com/@mattcondon/getting-up-to-speed-on-ethereum-63ed28821bbe)
+- [使用以太坊的简易指南](https://medium.com/ethertime/the-easy-guide-to-using-ethereum-d482b6c3d3a4)
+- [以太坊 —— 入门 —— 澳大利亚版](http://ashleyknowles.net/2017/05/ethereum-getting-started-aussie-edition/)
+- [这些词好难啊：以太坊 / 密码界中常用词的定义](https://www.reddit.com/r/ethereum/comments/6kvp87/words_are_hard_defining_common_terms_in_the/)
+- [在以太坊中快速起航](https://medium.com/@mattcondon/getting-up-to-speed-on-ethereum-63ed28821bbe)
 
-#### Security:
-- [The Crypto-Trader’s Guide to Online Security
-](https://medium.com/santiment/the-crypto-traders-guide-to-online-security-8eeffa6839ed
-)
-- [My guide to securing your digital life
-](https://medium.com/@pipermerriam/my-guide-to-solid-digital-security-fb76cb19c536#.hmz8imwe6
-)
-- [It’s Time to Get Real: Stop Relying on Third Parties to Protect You & Your Funds. You are responsible for your security.
-](https://www.reddit.com/r/ethereum/comments/556frk/its_time_to_get_real_stop_relying_on_third/
-)
-- [Cold Storage for Dummies
-](https://www.reddit.com/r/ethereum/comments/55k8w2/cold_storage_for_dummies_does_a_simple_guide_exist/
-)
+#### 安全：
+- [给数字货币交易者的线上安全指南](https://medium.com/santiment/the-crypto-traders-guide-to-online-security-8eeffa6839ed)
+- [给你的数字生活的私人安全指引](https://medium.com/@pipermerriam/my-guide-to-solid-digital-security-fb76cb19c536#.hmz8imwe6)
+- [是时候实现了：请停止依赖第三方来保护你和你的资产，你可以对你的安全负责。](https://www.reddit.com/r/ethereum/comments/556frk/its_time_to_get_real_stop_relying_on_third/)
+- [傻瓜式的离线存储方式](https://www.reddit.com/r/ethereum/comments/55k8w2/cold_storage_for_dummies_does_a_simple_guide_exist/)
 
-## Ecosystem
+## 生态
 
-- [Women in Blockchain Series](https://medium.com/@Melt_Dem)
-- [Where Can I Join The Ethereum Community?
-](https://medium.com/blockchannel/where-can-i-join-the-ethereum-community-3aa5c795b1e5
-)
-- [State of the Dapps
-](http://dapps.ethercasts.com/
-)
-- [Ethereum Business Directory
-](http://ethereumall.com/business-directory/page/9/?wpbdp_view=all_listings
-)
+- [区块链行业中的女性](https://medium.com/@Melt_Dem)
+- [我可以在哪里加入以太坊社区？](https://medium.com/blockchannel/where-can-i-join-the-ethereum-community-3aa5c795b1e5)
+- [Dapp 的状况](http://dapps.ethercasts.com/)
+（译者注：Dapp 为 decentralized application 的缩写，意思是 “去中心化应用”。）
+- [以太坊商业指南](http://ethereumall.com/business-directory/page/9/?wpbdp_view=all_listings)
 
-#### Other conferences, workshops, meetups, or tutorials:
+#### 其他的会议，工作坊，meetups（线下聚会）或者教程：
 
-- [European Ethereum Development Conference](https://www.youtube.com/channel/UC5NL-IbFyN72qme66EqX5-A/videos) (EDCON)
-- [London Ethereum](https://www.youtube.com/watch?v=Uya2rd5pN0o&list=PLaM7G4Llrb7xTHkSwbDfDP9MeZ_6WKI6Z) (meetup)
-- [Berlin Ethereum](https://www.youtube.com/watch?v=KWeNSvori4I&list=PLaM7G4Llrb7wPiT2G75tj2JQr8qg6P5hi) (meetup)
-- [Ethereum Core Developer Meetings](https://www.youtube.com/watch?v=ex51Gb3SVqo&list=PLaM7G4Llrb7zfMXCZVEXEABT8OSnd4-7w) (call)
-- [Building Ethereum DApps using Solidity](https://www.youtube.com/watch?v=9_coM_g7Dbg&list=PLH4m2oS2ratdoHFEkGvwvd7TkeTv4sa7Z) (tutorial)
+- [欧洲以太坊开发会议](https://www.youtube.com/channel/UC5NL-IbFyN72qme66EqX5-A/videos) （EDCON）
+- [伦敦以太坊](https://www.youtube.com/watch?v=Uya2rd5pN0o&list=PLaM7G4Llrb7xTHkSwbDfDP9MeZ_6WKI6Z) （meetup）
+- [柏林以太坊](https://www.youtube.com/watch?v=KWeNSvori4I&list=PLaM7G4Llrb7wPiT2G75tj2JQr8qg6P5hi) （meetup）
+- [以太坊核心开发者会议](https://www.youtube.com/watch?v=ex51Gb3SVqo&list=PLaM7G4Llrb7zfMXCZVEXEABT8OSnd4-7w) （电话会议）
+- [用 Solidity 构建以太坊 DApp](https://www.youtube.com/watch?v=9_coM_g7Dbg&list=PLH4m2oS2ratdoHFEkGvwvd7TkeTv4sa7Z) （教程）
 
-#### Newsletters
-- [Week in Ethereum
-](http://www.weekinethereum.com/
-)
-- [Dapp Daily
-](https://dappdaily.com/
-)
-- [Consensys Media
-](https://media.consensys.net/
-)
-- [The Etherian
-](https://etherian.world/
-)
-- [The Control
-](https://thecontrol.co/
-)
-- [HEAT Crypto Roundup
-](http://heatledger.ghost.io/
-)
+#### 时讯
+- [以太坊一周新闻](http://www.weekinethereum.com/)
+- [Dapp 日报](https://dappdaily.com/)
+- [Consensys 媒体](https://media.consensys.net/)
+- [The Etherian](https://etherian.world/)
+- [The Control](https://thecontrol.co/)
+- [HEAT Crypto Roundup](http://heatledger.ghost.io/)
 
-#### YouTube Channels
-- [Crypt0's News - Daily Video Blog](https://www.youtube.com/user/obham001/videos)
+#### YouTube 频道
+- [Crypt0's News —— 每日视频博客](https://www.youtube.com/user/obham001/videos)
 - [Ameer Rosic](https://www.youtube.com/user/AmeerRosic/videos)
 - [Decypher Media](https://www.youtube.com/channel/UC8CB0ZkvogP7tnCTDR-zV7g)
 - [Ivan on Tech](https://www.youtube.com/c/IvanOnTech)
 
-#### News
+#### 新闻
 - [CoinTelegraph](https://cointelegraph.com)
 - [ETHNews](https://www.ethnews.com)
 - [CoinDesk (owned by Digital Currency Group, which has a stake in a competing cryptocurrency)](http://www.coindesk.com/)
@@ -227,103 +203,47 @@ Contributors: Phil Kurtland (Scanate), Robert Hackett (Fortune Magazine), Jorge 
 - [Trezor](https://blog.trezor.io/trezor-integration-with-myetherwallet-3e217a652e08)
 
 #### ICOs (Initial Coin Offerings):
-- [ICO Calendar
-](https://github.com/avadhootkulkarni/UltimateICOCalendar
-)
-- [Smith and Crown
-](https://www.smithandcrown.com/icos/
-)
-- [TokenMarket
-](https://tokenmarket.net/
-)
+- [ICO Calendar](https://github.com/avadhootkulkarni/UltimateICOCalendar)
+- [Smith and Crown](https://www.smithandcrown.com/icos/)
+- [TokenMarket](https://tokenmarket.net/)
 - [imToken ICO Dapp](https://ico.token.im/)
 
 ## Thought Pieces
 - [Why Decentralization Matters](https://medium.com/@cdixon/why-decentralization-matters-5e3f79f7638e)
-- [Possibilities of Decentralized Technology
-](https://www.reddit.com/r/ethtrader/comments/4dvfcm/serious_question_can_anyone_actually_think_of/d1uskh1/
-)
-- [Risks of Ethereum
-](https://www.reddit.com/r/ethtrader/wiki/risks
-)
-- [Ethereum Community Values
-](https://www.reddit.com/r/ethereum/comments/57hqyg/thoughts_on_our_values_as_a_community/
-)
-- [Growth of the Ethereum Ecosystem
-](https://blog.coinbase.com/the-coinbase-secret-master-plan-f4d644443301#.xdoe2er8i
-)
-- [The Internet of Agreements: Building the Hyperconnected Future on Blockchains
-](http://internetofagreements.com/files/WorldGovernmentSummit-Dubai2017.pdf
-)
+- [Possibilities of Decentralized Technology](https://www.reddit.com/r/ethtrader/comments/4dvfcm/serious_question_can_anyone_actually_think_of/d1uskh1/)
+- [Risks of Ethereum](https://www.reddit.com/r/ethtrader/wiki/risks)
+- [Ethereum Community Values](https://www.reddit.com/r/ethereum/comments/57hqyg/thoughts_on_our_values_as_a_community/)
+- [Growth of the Ethereum Ecosystem](https://blog.coinbase.com/the-coinbase-secret-master-plan-f4d644443301#.xdoe2er8i)
+- [The Internet of Agreements: Building the Hyperconnected Future on Blockchains](http://internetofagreements.com/files/WorldGovernmentSummit-Dubai2017.pdf)
 - [Money, Blockchains, and Social Scalability](http://unenumerated.blogspot.com/2017/02/money-blockchains-and-social-scalability.html)
 
 #### Decentralized Apps/Protocols
-- [Crypto Tokens and the Coming Age of Protocol Innovation
-](http://continuations.com/post/148098927445/crypto-tokens-and-the-coming-age-of-protocol
-)
-- [The Golden Age Of Open Protocols
-](http://avc.com/2016/07/the-golden-age-of-open-protocols/
-)
+- [Crypto Tokens and the Coming Age of Protocol Innovation](http://continuations.com/post/148098927445/crypto-tokens-and-the-coming-age-of-protocol)
+- [The Golden Age Of Open Protocols](http://avc.com/2016/07/the-golden-age-of-open-protocols/)
 - [Thoughts on Tokens](https://medium.com/@balajis/thoughts-on-tokens-436109aabcbe)
 - [Fat Protocols](http://www.usv.com/blog/fat-protocols)
-- [Decentralized organizations can solve the world’s worst problems
-](https://blog.aragon.one/decentralized-organizations-can-solve-the-worlds-worst-problems-840db6255d12
-)
-- [Blockchain Tokens and the dawn of the Decentralized Business Model
-](https://blog.coinbase.com/app-coins-and-the-dawn-of-the-decentralized-business-model-8b8c951e734f#.qxh3d0hh2
-)
-- [The Business Case for Dapps – Decentralization as a Strategy
-](http://mattgoldenberg.net/2016/01/02/the-business-case-for-dapps-decentralization-as-a-strategy/
-)
-- [‘Decentralised’ is the new black, or a short history of dapps
-](http://www.coinfox.info/news/reviews/5805-decentralised-is-the-new-black-or-a-short-history-of-dapps
-)
-- [Cryptoeconomics Is Hard
-](https://blog.coinfund.io/cryptoeconomics-is-hard-ad401b2428b9
-)
+- [Decentralized organizations can solve the world’s worst problems](https://blog.aragon.one/decentralized-organizations-can-solve-the-worlds-worst-problems-840db6255d12)
+- [Blockchain Tokens and the dawn of the Decentralized Business Model](https://blog.coinbase.com/app-coins-and-the-dawn-of-the-decentralized-business-model-8b8c951e734f#.qxh3d0hh2)
+- [The Business Case for Dapps – Decentralization as a Strategy](http://mattgoldenberg.net/2016/01/02/the-business-case-for-dapps-decentralization-as-a-strategy/)
+- [‘Decentralised’ is the new black, or a short history of dapps](http://www.coinfox.info/news/reviews/5805-decentralised-is-the-new-black-or-a-short-history-of-dapps)
+- [Cryptoeconomics Is Hard](https://blog.coinfund.io/cryptoeconomics-is-hard-ad401b2428b9)
 
 #### Crowdsales
-- [Introducing the Blockchain Token Securities Law Framework
-](https://blog.coinbase.com/2016-12-07-blockchain-token-securities-law-a66ef03c383f#.7xhadylu3
-)
-- [Blockchain investments and the new problem asset for conventional VCs
-](https://blog.coinfund.io/blockchain-investments-and-the-new-problem-asset-for-conventional-vcs-b65bfc7ca75
-)
-- [How to Raise Money on a Blockchain with a Token
-](https://blog.gdax.com/how-to-raise-money-on-a-blockchain-with-a-token-510562c9cdfa#.z69j53rkx
-)
-- [Exploring Continuous Token Models: Towards a Million Networks of Value
-](https://media.consensys.net/exploring-continuous-token-models-towards-a-million-networks-of-value-fff153175776
-)
-- [Trick or Treat? Investment in Blockchain Cryptoassets
-](https://medium.com/@flexthought/trick-or-treat-investment-in-blockchain-cryptoassets-b1ad47ef58c#.49xq4x4hh
-)
-- [AGAINST TOKENS (AND TOKEN CROWDSALES)
-](https://prestonbyrne.com/2016/08/12/against-crowdsales/
-)
-- [How Cryptocurrencies and Blockchain-based Startups Are Turning The Traditional Venture Capital Model on Its Head
-](http://startupmanagement.org/2016/10/06/how-cryptocurrencies-and-blockchain-based-startups-are-turning-the-traditional-venture-capital-model-on-its-head/
-)
-- [How to Evaluate an Initial Cryptocurrency Offering (ICO)
-](http://startupmanagement.org/2016/11/24/how-to-evaluate-an-initial-cryptocurrency-offering-ico/
-)
-- [ICO 2.0 — what is the ideal ICO?
-](https://medium.com/iconominet/why-icos-fail-1f9530a6d135#.6uw69odix
-)
-- [Blockchain investment vehicles: the future of global retail investment
-](https://blog.coinfund.io/blockchain-investment-vehicles-3ca285797060
-)
+- [Introducing the Blockchain Token Securities Law Framework](https://blog.coinbase.com/2016-12-07-blockchain-token-securities-law-a66ef03c383f#.7xhadylu3)
+- [Blockchain investments and the new problem asset for conventional VCs](https://blog.coinfund.io/blockchain-investments-and-the-new-problem-asset-for-conventional-vcs-b65bfc7ca75)
+- [How to Raise Money on a Blockchain with a Token](https://blog.gdax.com/how-to-raise-money-on-a-blockchain-with-a-token-510562c9cdfa#.z69j53rkx)
+- [Exploring Continuous Token Models: Towards a Million Networks of Value](https://media.consensys.net/exploring-continuous-token-models-towards-a-million-networks-of-value-fff153175776)
+- [Trick or Treat? Investment in Blockchain Cryptoassets](https://medium.com/@flexthought/trick-or-treat-investment-in-blockchain-cryptoassets-b1ad47ef58c#.49xq4x4hh)
+- [AGAINST TOKENS (AND TOKEN CROWDSALES)](https://prestonbyrne.com/2016/08/12/against-crowdsales/)
+- [How Cryptocurrencies and Blockchain-based Startups Are Turning The Traditional Venture Capital Model on Its Head](http://startupmanagement.org/2016/10/06/how-cryptocurrencies-and-blockchain-based-startups-are-turning-the-traditional-venture-capital-model-on-its-head/)
+- [How to Evaluate an Initial Cryptocurrency Offering (ICO)](http://startupmanagement.org/2016/11/24/how-to-evaluate-an-initial-cryptocurrency-offering-ico/)
+- [ICO 2.0 — what is the ideal ICO?](https://medium.com/iconominet/why-icos-fail-1f9530a6d135#.6uw69odix)
+- [Blockchain investment vehicles: the future of global retail investment](https://blog.coinfund.io/blockchain-investment-vehicles-3ca285797060)
 
 ## Trading
-- [Learn Forex Trading at the School of Pipsology (Very applicable to crypto trading)
-](http://www.babypips.com/school
-)
-- [Paradigm Shift: Technical Analysis in the Altcoins & Bitcoin Market, & Introduction to Market Cycle, Structure & Manipulation
-](https://alunacrypto.blogspot.ca/2014/05/technical-analysis-altcoins-bitcoin-trading-market-structure-cycle-manipulation.html
-)
-- [CryptoCurrency Market Capitalizations
-](https://coinmarketcap.com/
-)
+- [Learn Forex Trading at the School of Pipsology (Very applicable to crypto trading)](http://www.babypips.com/school)
+- [Paradigm Shift: Technical Analysis in the Altcoins & Bitcoin Market, & Introduction to Market Cycle, Structure & Manipulation](https://alunacrypto.blogspot.ca/2014/05/technical-analysis-altcoins-bitcoin-trading-market-structure-cycle-manipulation.html)
+- [CryptoCurrency Market Capitalizations](https://coinmarketcap.com/)
 
 #### Exchanges
 
@@ -366,8 +286,7 @@ Contributors: Phil Kurtland (Scanate), Robert Hackett (Fortune Magazine), Jorge 
 - [Live chat with Ethereum developer teams and community](https://gitter.im/orgs/ethereum/rooms)
 - [Check out Ethereum **Meetups** in your area](https://www.meetup.com/topics/ethereum/)
 - [A 101 Noob Intro to Programming Smart Contracts on Ethereum](https://medium.com/@ConsenSys/a-101-noob-intro-to-programming-smart-contracts-on-ethereum-695d15c1dab4#.ieo0yl4jr)
-- [Where can I learn how to develop DApps using the solidity programming language?](https://medium.com/@ConsenSys/a-101-noob-intro-to-programming-smart-contracts-on-ethereum-695d15c1dab4#.ieo0yl4jr
-)
+- [Where can I learn how to develop DApps using the solidity programming language?](https://medium.com/@ConsenSys/a-101-noob-intro-to-programming-smart-contracts-on-ethereum-695d15c1dab4#.ieo0yl4jr)
 - [Learning to Code in Ethereum](https://www.reddit.com/r/ethereum/comments/4z4y81/any_advice_on_learning_to_code_in_ethereum/)
 - [Getting started with Ethereum & Solidity on Windows — part 1](https://medium.com/@wslyvh/get-started-with-ethereum-solidity-on-windows-1672e9953a1)
 - [Getting started with Ethereum, Solidity & Geth — part 2](https://medium.com/@wslyvh/getting-started-with-ethereum-solidity-geth-part-2-d195144fe6c7)
@@ -384,24 +303,12 @@ Contributors: Phil Kurtland (Scanate), Robert Hackett (Fortune Magazine), Jorge 
 
 
 ## Legal
-- [BitLegal Map
-](http://map.bitlegal.io/
-)
-- [Introducing the Blockchain Token Securities Law Framework
-](https://blog.coinbase.com/2016-12-07-blockchain-token-securities-law-a66ef03c383f#.7xhadylu3
-)
-- [Securities Law Framework for Blockchain Tokens
-](https://docs.google.com/spreadsheets/d/1QxOV2dgxO3C_TyVE0-41ZwLlzPmB-EE1NNshJGuedCU/edit#gid=0
-)
-- [The Law and Legality of Smart Contracts
-](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2959166
-)
-- [IRS Virtual Currency Guidance : Virtual Currency Is Treated as Property for U.S. Federal Tax Purposes; General Rules for Property Transactions Apply
-](https://www.irs.gov/uac/newsroom/irs-virtual-currency-guidance
-)
-- [Legality of Bitcoin by Country
-](https://en.wikipedia.org/wiki/Legality_of_bitcoin_by_country
-)
+- [BitLegal Map](http://map.bitlegal.io/)
+- [Introducing the Blockchain Token Securities Law Framework](https://blog.coinbase.com/2016-12-07-blockchain-token-securities-law-a66ef03c383f#.7xhadylu3)
+- [Securities Law Framework for Blockchain Tokens](https://docs.google.com/spreadsheets/d/1QxOV2dgxO3C_TyVE0-41ZwLlzPmB-EE1NNshJGuedCU/edit#gid=0)
+- [The Law and Legality of Smart Contracts](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2959166)
+- [IRS Virtual Currency Guidance : Virtual Currency Is Treated as Property for U.S. Federal Tax Purposes; General Rules for Property Transactions Apply](https://www.irs.gov/uac/newsroom/irs-virtual-currency-guidance)
+- [Legality of Bitcoin by Country](https://en.wikipedia.org/wiki/Legality_of_bitcoin_by_country)
 
 ![Ethereum](https://upload.wikimedia.org/wikipedia/commons/b/b7/ETHEREUM-YOUTUBE-PROFILE-PIC.png)
 
