@@ -13,7 +13,7 @@
 
 # 官方指南
 
-[**推荐优质英文文章到掘金翻译计划**](https://github.com/xitu/blockchain-miner/issues/new?title=推荐优秀英文文章&body=-%20原文链接：推荐文章前%20Google%20一下，尽量保证本文未被翻译%0A-%20简要介绍：介绍一下好不好啦，毕竟小编也看不太懂哎_(:з」∠)_)
+[**推荐优质英文文章**](https://github.com/xitu/blockchain-miner/issues/new?title=推荐优秀英文文章&body=-%20原文链接：推荐文章前%20Google%20一下，尽量保证本文未被翻译%0A-%20简要介绍：介绍一下好不好啦，毕竟小编也看不太懂哎_(:з」∠)_)
 
 ### 翻译计划译者教程
 
