@@ -3,7 +3,7 @@
 > * 译文出自：[掘金翻译计划 — 区块链分舵](https://github.com/xitu/blockchain-miner)
 > * 本文永久链接：[https://github.com/xitu/blockchain-miner/tree/master/article/0001/what-is-ethereum.md](https://github.com/xitu/blockchain-miner/tree/master/article/0001/what-is-ethereum.md)
 > * 译者：[cdpath](https://github.com/cdpath)
-> * 校对者：
+> * 校对者：[davelet](https://github.com/davelet)
 
 # 以太坊初学者手把手教程
 
@@ -17,17 +17,17 @@
 
 尽管区块链的概念经常和[比特币](http://blockgeeks.com/guides/what-is-bitcoin-a-step-by-step-guide/)一起出现，也有很多区块链应用已经超越了数字货币的范畴。实际上，比特币只是当今几百种区块链应用中的一种。
 
-![以太坊初学者手把手教程](https://blockgeeks.com/wp-content/uploads/2016/10/Sally-Davies-FT-Technology-Reporter-1-150x150.png) **_「区块链之于比特币，就如同互联网之于电子邮件。区块链是一个巨大的电子系统，可以在其基础上构建应用。货币只是应用的一种。」_** [Sally Davies, FT 科技记者](https://twitter.com/daviesally)
+![以太坊初学者手把手教程](https://blockgeeks.com/wp-content/uploads/2016/10/Sally-Davies-FT-Technology-Reporter-1-150x150.png) **_「区块链之于比特币，就如同互联网之于电子邮件。区块链是一个巨大的电子系统，可以在其基础上构建应用。货币只是基于区块链的一种应用。」_** [Sally Davies, FT 科技记者](https://twitter.com/daviesally)
 
-不久之前，构建区块链应用仍然需要复杂的编程、加密和数学领域的背景知识，以及海量的（计算）资源（*注：这一句为意译*）。不过现在形势变了。先前无从想象的应用，从电子投票和数字记录资产，到守规（regulatory compliance）和交易都在以前所未有的速度被开发和部署。以太坊通过为开发者提供工具来构建去中心化的应用，让这一切成为可能。
+不久之前，构建区块链应用仍然需要复杂的编程、加密和数学领域的背景知识，以及海量的（计算）资源。不过现在形势变了。先前无从想象的应用，从电子投票和资产电子记录，到合规（regulatory compliance）和交易都在以前所未有的速度被开发和部署。以太坊通过为开发者提供工具来构建去中心化的应用，让这一切成为可能。
 
 ## 什么是初学者的以太坊教程？
 
-简单地讲，以太坊是基于区块链基数的开发软件平台，开发者可以在此平台上开发并部署去中心化应用。([点此购买以太坊](http://coinsquare.io/register?r=BLOCKGEEKS)) 
+简单地讲，以太坊是基于区块链技术的开放软件平台，开发者可以在此平台上开发并部署去中心化应用。([点此购买以太币](http://coinsquare.io/register?r=BLOCKGEEKS)) 
 
 **以太坊像比特币吗？有点儿像，但不完全一样。**
 
-以太坊和[比特币](http://blockgeeks.com/guides/what-is-bitcoin-a-step-by-step-guide/)都是分布式公共区块链网络。尽管有一些明显的技术差异，最值得注意的是比特币和以太坊在目的和能力上的本质区别。比特币只提出了一种区块链应用，即端到端电子现金系统，可以实现线上比特币支付。比特币的区块链用来追踪电子货币（比特币）的所有权，而以太坊的区块链专注于执行任何去中心化的应用的代码。
+以太坊和[比特币](http://blockgeeks.com/guides/what-is-bitcoin-a-step-by-step-guide/)都是分布式公共区块链网络。比特币和以太坊有一些明显的技术差异，不过最值得注意的是它们的目的和能力有本质区别。比特币只提出了一种区块链应用，即点到点电子现金系统，可以实现线上比特币支付。比特币的区块链用来追踪电子货币（比特币）的所有权，而以太坊的区块链专注于执行任何去中心化的应用的代码。
 
 在以太坊区块链中，矿工挖的不是比特币，而是以太币，一种给网络提供燃料的[加密货币](http://blockgeeks.com/guides/what-is-cryptocurrency-everything-you-need-to-know-ultimate-guide/)。以太币不仅是可交易的加密货币，应用的开发者还可以用以太币来支付交易费和以太坊网络的服务费。
 
@@ -42,7 +42,7 @@
 
 [智能合约](http://blockgeeks.com/guides/smart-contracts-the-blockchain-technology-that-will-replace-lawyers/)只是个惯用语，用来描述可以促进金钱、内容、财产、股份或任何有价物交易的计算机代码。运行在区块链上的智能合约就类似于自主操作的计算机程序，在满足特定条件时自动执行。因为智能合约运行在区块链上，它只会严格执行代码，没有审核、停机，欺诈的威胁，也不受第三方干扰。
 
-![什么是智能合约？初学者指南](https://blockgeeks.com/wp-content/uploads/2016/10/infographics-02-1-1.jpg) 尽管所有的区块链都有执行代码的能力，能力大都有限。以太坊不同。以太坊允许开发者创建任何需要的操作，而不仅仅提供有限的操作。这就意味着开发者可以创建数千种不同的应用，完全超出我们之前所见。
+![什么是智能合约？初学者指南](https://blockgeeks.com/wp-content/uploads/2016/10/infographics-02-1-1.jpg) 尽管所有的区块链都可以执行代码，不过能力大都有限。以太坊不同。以太坊允许开发者创建任何需要的操作，而不仅仅提供有限的操作。这就意味着开发者可以创建数千种不同的应用，完全超出我们之前所见。
 
 * * *
 
@@ -50,9 +50,9 @@
 
 ## 以太坊虚拟机
 
-在以太坊之前，区块链应用只能执行有限的操作。比如比特币和其他[加密货币](https://blockgeeks.com/guides/what-is-cryptocurrency/)都只能用作端到端数字货币。
+在以太坊之前，区块链应用只能执行有限的操作。比如比特币和其他[加密货币](https://blockgeeks.com/guides/what-is-cryptocurrency/)都只能用作点到点数字货币。
 
-不久开发者遇到了难题。要解决问题，要么扩展比特币以及其他应用提供的函数，这非常复杂也浪费时间，要么开发全新的区块链应用和平台。意识到这个困境之后，以太坊的创造者，Vitalik Buterin 找到了一个新的解决方法。
+不久开发者就遇到了麻烦。要解决问题，一个方法是扩展比特币和其他应用提供的函数，既复杂又浪费时间。另一个方法就是开发全新的区块链应用和平台。以太坊的创造者 Vitalik Buterin 针对这个问题提出了新的解决方法。
 
 * * *
 
@@ -97,7 +97,7 @@
 
 ## 区块链/以太坊课程：填补空缺
 
-工作市场正努力填补对区块链开发者的突发需求。一些大学和私人公司已做出了回应，提供了不少[区块链相关的课程](https://blockgeeks.com)以满足市场需求。
+市场紧缺区块链开发者，一些大学和私人公司为此提供了不少[区块链相关的课程](https://blockgeeks.com)以满足市场需求。
 
 根据比特币先驱 [Jered Kenna](https://news.bitcoin.com/former-tradehill-founder-dark-pool/) 的说法，有经验的区块链专家的年收入可超过 200,000 美元。
 
@@ -144,13 +144,13 @@
 
 ![caleb-chen: 什么是以太坊](https://blockgeeks.com/wp-content/uploads/2016/11/Caleb-Chen-150x150.png) **「以太坊是一个惊人的公共试验，展示了公共区块链上的智能合约的价值。这是突破式创新的结果亦是突破式创新的来源，自互联网早期以来鲜见。」 – **Caleb Chen [London Trust Media](http://londontrustmedia.com/)
 
-## DAO 攻击威胁了一切
+## The DAO 攻击威胁了一切
 
-还记得以太坊如何构建去中心化匿名组织吗？在 2016 年，出了件坏事。一个开发了名为 The DAO 的去中心化匿名组织项目的初创公司遭到黑客攻击。
+还记得如何用以太坊构建去中心化匿名组织吗？2016 年发生了一起恶性事件。一个开发了名为 The DAO 的去中心化匿名组织项目的初创公司遭到黑客攻击。
 
 The DAO 项目由初创公司 Slack.it 背后的团队打造。他们的目标是创建无人风投公司，投资者可以通过智能合约进行决策。The DAO 通过出售 Token 集资，最终从数千名出资人手中募集到了约 1.5 亿美元。
 
-募资结束后不久，The DAO 被未知攻击者攻击，一次性被盗走价值约 5000 万美元的以太坊。尽管被攻击的原因是 The DAO 自身的软件错误，与以太坊平台无关，以太坊的开发者和创始人仍然不得不为其擦屁股。
+募资结束后不久，The DAO 被未知攻击者攻击，一次性被盗走价值约 5000 万美元的以太币。尽管被攻击的原因是 The DAO 自身的软件错误，与以太坊平台无关，以太坊的开发者和创始人仍然不得不为其擦屁股。
 
 ## 即将到来的以太坊分叉 （fork）
 
