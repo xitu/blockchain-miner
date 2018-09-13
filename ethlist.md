@@ -20,21 +20,20 @@
 ## 简介
 
 #### 以太坊的简单解释
-- [区块链演示 —— 区块链技术的视效演示](https://blockchaindemo.io)
-- [精简的区块链学习实操命令行界面](https://github.com/daxeel/blockshell)
+- [区块链视频演示 —— 区块链技术的视效演示](https://blockchaindemo.io)
+- [精简区块链命令行学习实操](https://github.com/daxeel/blockshell)
 - [虚拟货币演示 —— 数字货币技术的视效演示](https://coindemo.io)
-- [区块链的演示](https://anders.com/blockchain/)
+- [区块链视频演示](https://anders.com/blockchain/)
 - [以太坊，世界的计算机](https://www.youtube.com/watch?v=j23HnORQXvs) （视频）
 - [Vitalik Buterin 解释以太坊](https://www.youtube.com/watch?v=TDGq4aeevgY) （视频）
 - [Joseph Lubin 对于构建去中心化应用的访谈](https://www.youtube.com/watch?v=MgLmY9oedTM) （视频）
 - [BBC 解释以太坊](https://www.youtube.com/watch?v=0X33lgMbvdI) （视频）
 - [以太坊上的技术难题](https://www.youtube.com/watch?v=WfULutvxvzY) （视频）
 - [什么是以太坊？](https://blockgeeks.com/guides/what-is-ethereum/)
-- [ELI5 ：什么是以太坊？](https://www.reddit.com/r/ethereum/comments/60hhjm/eli5_what_is_ethereum/)
-（ 译者注：ELI5 是 Explain Like I'm 5 的缩写，引申义为 “向小白解释”）
+- [向小白解释 ：什么是以太坊？](https://www.reddit.com/r/ethereum/comments/60hhjm/eli5_what_is_ethereum/)
 - [以太坊：与比特币不同的、可以取代 Uber 服务的数字货币](http://mashable.com/2017/03/24/ethereum-bitcoin-explainer/)
-- [以太坊简介：互联网自治](https://media.consensys.net/introduction-to-ethereum-the-internets-government-35bdd25f572a#.5me0m455w)
-- [以太坊初学者指南](https://blog.coinbase.com/a-beginners-guide-to-ethereum-46dd486ceecf)
+- [以太坊简介：互联网共治](https://media.consensys.net/introduction-to-ethereum-the-internets-government-35bdd25f572a#.5me0m455w)
+- [以太坊初学者入门](https://blog.coinbase.com/a-beginners-guide-to-ethereum-46dd486ceecf)
 - [什么是以太坊？](https://cointelegraph.com/ethereum-for-beginners/what-is-ethereum)
 - [足以用来理解以太坊的比特币知识](https://media.consensys.net/time-sure-does-fly-ed4518792679#.xclr74isu)
 - [以太坊：比特币加上一切](https://medium.com/@ConsenSys/ethereum-bitcoin-plus-everything-a506dc780106#.v7s0ganew)
@@ -59,7 +58,7 @@
 - [全面的以太坊学习大纲，附带总结和资源分享](https://novicedock.com/learn/cryptocurrency/ethereum)
 
 #### 历史文章：
-- [这个 22 岁的程序员能基于比特币、突破比特币吗？](http://fortune.com/ethereum-blockchain-vitalik-buterin/)
+- [这个 22 岁的程序员能基于突破比特币吗？](http://fortune.com/ethereum-blockchain-vitalik-buterin/)
 - [这个怪异的天才造就了以太坊](https://www.wired.com/2016/06/the-uncanny-mind-that-built-ethereum/)
 
 ### 我想要更多深入的细节！
@@ -153,7 +152,7 @@
 - [我可以在哪里加入以太坊社区？](https://medium.com/blockchannel/where-can-i-join-the-ethereum-community-3aa5c795b1e5)
 - [Dapp 的状况](http://dapps.ethercasts.com/)
 （译者注：Dapp 为 decentralized application 的缩写，意思是 “去中心化应用”。）
-- [以太坊商业指南](http://ethereumall.com/business-directory/page/9/?wpbdp_view=all_listings)
+- [以太坊商业目录](http://ethereumall.com/business-directory/page/9/?wpbdp_view=all_listings)
 
 #### 其他的会议，工作坊，meetups（线下聚会）或者教程：
 
