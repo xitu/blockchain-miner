@@ -142,7 +142,7 @@
 
 * * *
 
-![caleb-chen: 什么是以太坊](https://blockgeeks.com/wp-content/uploads/2016/11/Caleb-Chen-150x150.png) **「以太坊是一个惊人的公共试验，展示了公共区块链上的智能合约的价值。这是突破式创新的结果亦是突破式创新的来源，自互联网早期以来鲜见。」 – **Caleb Chen [London Trust Media](http://londontrustmedia.com/)
+![caleb-chen: 什么是以太坊](https://blockgeeks.com/wp-content/uploads/2016/11/Caleb-Chen-150x150.png) 「**以太坊是一个惊人的公共试验，展示了公共区块链上的智能合约的价值。这是突破式创新的结果亦是突破式创新的来源，自互联网早期以来鲜见。**」 – Caleb Chen [London Trust Media](http://londontrustmedia.com/)
 
 ## The DAO 攻击威胁了一切
 
