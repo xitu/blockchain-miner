@@ -5,7 +5,7 @@
 > * 译者：[cdpath](https://github.com/cdpath)
 > * 校对者：[davelet](https://github.com/davelet)
 
-# 以太坊初学者手把手教程
+# 什么是以太坊？以太坊初学者手把手教程
 
 如果你想要了解什么是以太坊，知道它的工作原理和用途，却不愿陷入技术细节，这个教程就是为你准备的。
 
