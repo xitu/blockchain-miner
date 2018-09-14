@@ -17,13 +17,13 @@
 
 尽管区块链的概念经常和[比特币](http://blockgeeks.com/guides/what-is-bitcoin-a-step-by-step-guide/)一起出现，也有很多区块链应用已经超越了数字货币的范畴。实际上，比特币只是当今几百种区块链应用中的一种。
 
-![以太坊初学者手把手教程](https://blockgeeks.com/wp-content/uploads/2016/10/Sally-Davies-FT-Technology-Reporter-1-150x150.png) **_「区块链之于比特币，就如同互联网之于电子邮件。区块链是一个巨大的电子系统，可以在其基础上构建应用。货币只是基于区块链的一种应用。」_** [Sally Davies, FT 科技记者](https://twitter.com/daviesally)
+![以太坊初学者手把手教程](https://blockgeeks.com/wp-content/uploads/2016/10/Sally-Davies-FT-Technology-Reporter-1-150x150.png) **「区块链之于比特币，就如同互联网之于电子邮件。区块链是一个巨大的电子系统，可以在其基础上构建应用。货币只是基于区块链的一种应用。」** [Sally Davies，FT 科技记者](https://twitter.com/daviesally)
 
 不久之前，构建区块链应用仍然需要复杂的编程、加密和数学领域的背景知识，以及海量的（计算）资源。不过现在形势变了。先前无从想象的应用，从电子投票和资产电子记录，到合规（regulatory compliance）和交易都在以前所未有的速度被开发和部署。以太坊通过为开发者提供工具来构建去中心化的应用，让这一切成为可能。
 
 ## 什么是初学者的以太坊教程？
 
-简单地讲，以太坊是基于区块链技术的开放软件平台，开发者可以在此平台上开发并部署去中心化应用。([点此购买以太币](http://coinsquare.io/register?r=BLOCKGEEKS)) 
+简单地讲，以太坊是基于区块链技术的开放软件平台，开发者可以在此平台上开发并部署去中心化应用。（[点此购买以太币](http://coinsquare.io/register?r=BLOCKGEEKS)）
 
 **以太坊像比特币吗？有点儿像，但不完全一样。**
 
@@ -35,8 +35,8 @@
 
 ![gavin-wood-smart-contracts](https://blockgeeks.com/wp-content/uploads/2016/10/Gavin-Wood.-Smart-Contracts-1-150x150.png) 
 
-**_「比特币是最早也是最重要的货币；是基于区块链的一种应用。然而，它并不是唯一的应用。用过去发生过的类似场景下的例子来说吧，电子邮件是互联网的一种应用，而且显然促进了互联网的发展，但互联网不仅有这一种应用。」_**
-[Dr Gavin Wood, 以太坊联合创始人](http://gavwood.com/)
+**「比特币是最早也是最重要的货币；是基于区块链的一种应用。然而，它并不是唯一的应用。用过去发生过的类似场景下的例子来说吧，电子邮件是互联网的一种应用，而且显然促进了互联网的发展，但互联网不仅有这一种应用。」**
+[Dr Gavin Wood，以太坊联合创始人](http://gavwood.com/)
 
 ## 什么是智能合约？
 
@@ -46,7 +46,7 @@
 
 * * *
 
-![什么是区块链技术？大家都能看懂的教程](https://blockgeeks.com/wp-content/uploads/2016/10/dtapp-150x150.png) **_「（以太坊）区块链有一些超凡的能力。其中之一是可以构建智能合约。就跟字面意思差不多，智能合约可以自执行，自行打理好实施、管理、性能和支付等事情」_** [Don Tapscott](http://dontapscott.com/)
+![什么是区块链技术？大家都能看懂的教程](https://blockgeeks.com/wp-content/uploads/2016/10/dtapp-150x150.png) **「（以太坊）区块链有一些超凡的能力。其中之一是可以构建智能合约。就跟字面意思差不多，智能合约可以自执行，自行打理好实施、管理、性能和支付等事情」** [Don Tapscott](http://dontapscott.com/)
 
 ## 以太坊虚拟机
 
@@ -56,7 +56,7 @@
 
 * * *
 
-![什么是区块链技术？大家都能看懂的教程](https://blockgeeks.com/wp-content/uploads/2016/10/Vitalik-Buterin-150x150.png) **_「我认为（那些比特币社区的人）处理这个问题的方法错了。我认为他们关注的是个别的应用；他们尝试用一种类似瑞士军刀的协议去分别支持每一种（场景）」_** Vitalik Buterin, 以太坊创造者
+![什么是区块链技术？大家都能看懂的教程](https://blockgeeks.com/wp-content/uploads/2016/10/Vitalik-Buterin-150x150.png) **「我认为（那些比特币社区的人）处理这个问题的方法错了。我认为他们关注的是个别的应用；他们尝试用一种类似瑞士军刀的协议去分别支持每一种（场景）」** Vitalik Buterin，以太坊创造者
 
 以太坊的核心创新是[以太坊虚拟机](https://blockgeeks.com/guides/how-to-learn-solidity/)（EVM），它是运行在以太坊网络上的图灵完备软件。如此，只要有足够的时间和内存，任何人都可以用任何语言运行任何程序。以太坊虚拟机让创建区块链程序变得前所未有的简单和高效。不用为每个新应用都创建一个原生的区块链了，以太坊使得在一个平台上开发数千种不同应用成为可能。
 
@@ -70,16 +70,16 @@
 
 * * *
 
-![Stephen Tual, Slock.it 创始人](https://blockgeeks.com/wp-content/uploads/2016/10/Stephen-Tual-Slock.it-Founder-1-150x150.png) **_「DAO 由一个或多个智能合约组成，由一群志趣相投的人共同投资。DAO 的运作完全透明，不受任何人的干预，包括创始人。DAO 只要能承担其生存费用就能存在于网络上，为其客户提供服务。」_** Stephen Tual, [Slock.it](https://slock.it/) 创始人, 前 Ethereum CCO.
+![Stephen Tual，Slock.it 创始人](https://blockgeeks.com/wp-content/uploads/2016/10/Stephen-Tual-Slock.it-Founder-1-150x150.png) **「DAO 由一个或多个智能合约组成，由一群志趣相投的人共同投资。DAO 的运作完全透明，不受任何人的干预，包括创始人。DAO 只要能承担其生存费用就能存在于网络上，为其客户提供服务。」** Stephen Tual，[Slock.it](https://slock.it/) 创始人，前 Ethereum CCO。
 
 ## 以太坊去中心化平台有什么好处
 
 因为去中心化应用运行在区块链上，它们都受益于如下特性：
 
-* **不变性** - 第三方无法对数据做出修改。
-* **防篡改** - 应用运行在共识网络上，审查不复存在。
-* **安全** - 没有中心点沦陷风险，由密码学确保安全，应用免受黑客攻击和欺诈威胁。
-* **零停机时间** - 应用永远在线，永不关闭。
+* **不变性** — 第三方无法对数据做出修改。
+* **防篡改** — 应用运行在共识网络上，审查不复存在。
+* **安全** — 没有中心点沦陷风险，由密码学确保安全，应用免受黑客攻击和欺诈威胁。
+* **零停机时间** — 应用永远在线，永不关闭。
 
 ## 去中心化应用有哪些缺点？
 
@@ -142,7 +142,9 @@
 
 * * *
 
-![caleb-chen: 什么是以太坊](https://blockgeeks.com/wp-content/uploads/2016/11/Caleb-Chen-150x150.png) 「**以太坊是一个惊人的公共试验，展示了公共区块链上的智能合约的价值。这是突破式创新的结果亦是突破式创新的来源，自互联网早期以来鲜见。**」 – Caleb Chen [London Trust Media](http://londontrustmedia.com/)
+![caleb-chen: 什么是以太坊](https://blockgeeks.com/wp-content/uploads/2016/11/Caleb-Chen-150x150.png)
+
+「**以太坊是一个惊人的公共试验，展示了公共区块链上的智能合约的价值。这是突破式创新的结果亦是突破式创新的来源，自互联网早期以来鲜见。**」 — Caleb Chen [London Trust Media](http://londontrustmedia.com/)
 
 ## The DAO 攻击威胁了一切
 
@@ -172,11 +174,13 @@ The DAO 项目由初创公司 Slack.it 背后的团队打造。他们的目标�
 
 * * *
 
-![https://consensys.net/team/](https://blockgeeks.com/wp-content/uploads/2016/10/Joseph-Lubin-1-150x150.png) _「如果你认为互联网影响了你的生活，以太坊也会对通信甚至整个信息产业产生同样广泛的影响。它将改变我们生活的方方面面。
+![https://consensys.net/team/](https://blockgeeks.com/wp-content/uploads/2016/10/Joseph-Lubin-1-150x150.png)
 
-_构建公共以太坊生态环境：随着未来两年公共以太坊的可扩展性和可配置的隐私/机密性的增长，消费者将会利用其区块链身份和访问点（uPort）接触到各种有趣的早期产品。_
+「如果你认为互联网影响了你的生活，以太坊也会对通信甚至整个信息产业产生同样广泛的影响。它将改变我们生活的方方面面。
 
-_包括众筹平台（Weifund），团队管理工具（Boardroom），音乐/电影/艺术内容管理和使用平台（ujo），智慧市场（Gnosis）以及游戏（Virtue  Poker）」_
+**构建公共以太坊生态环境：随着未来两年公共以太坊的可扩展性和可配置的隐私/机密性的增长，消费者将会利用其区块链身份和访问点（uPort）接触到各种有趣的早期产品。**
+
+**包括众筹平台（Weifund），团队管理工具（Boardroom），音乐/电影/艺术内容管理和使用平台（ujo），智慧市场（Gnosis）以及游戏（Virtue  Poker）。」**
 
 Joseph Lubin, [Consensys](https://consensys.net/team/) CEO
 
