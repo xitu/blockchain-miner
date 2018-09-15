@@ -91,7 +91,7 @@ His comments appear to be directed at crypto-currencies as an asset class rather
 
 #### The International Monetary Fund (IMF) is interested in crypto-currencies and wants to master their use and all possible consequences. What is your view on this?
 
-The recent remarks of Christine Lagarde, the managing director of the International Monetary Fund (IMF), regarding the potential impacts of crypto-currencies, especially in markets with unstable fiat currencies, are certainly noteworthy. As she pointed out, “citizens may one day prefer virtual currencies, since they potentially offer the same cost and convenience as cash—no settlement risks, no clearing delays, no central registration, no intermediary to check accounts and identities. If privately issued virtual currencies remain risky and unstable, citizens may even call on central banks to provide digital forms of legal tender.”[\[1\]](#_ftn1)
+The recent remarks of Christine Lagarde, the managing director of the International Monetary Fund (IMF), regarding the potential impacts of crypto-currencies, especially in markets with unstable fiat currencies, are certainly noteworthy. As she pointed out, “citizens may one day prefer virtual currencies, since they potentially offer the same cost and convenience as cash—no settlement risks, no clearing delays, no central registration, no intermediary to check accounts and identities. If privately issued virtual currencies remain risky and unstable, citizens may even call on central banks to provide digital forms of legal tender.”[[1]](#_ftn1)
 
 ## Cyber Security
 
