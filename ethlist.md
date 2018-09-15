@@ -75,9 +75,9 @@
 
 - Olympic（奥运）预发布版本（测试网，Chain #0 —— 5 月 9 日，2015）
   - [发布博客](https://blog.ethereum.org/2015/05/09/olympic-frontier-pre-release/)
-- **Frontier（前沿）**公开发布版本（包含以太坊创始区块，Chain #1 —— 7 月 30 日，2015）
+- **Frontier（前沿）** 公开发布版本（包含以太坊创始区块，Chain #1 —— 7 月 30 日，2015）
   - [发布博客](https://blog.ethereum.org/2015/07/30/ethereum-launches/)
-- **Homestead（家园）**（区块编号至 1,150,000 —— 3 月 14 日，2016）
+- **Homestead（家园）** （区块编号至 1,150,000 —— 3 月 14 日，2016）
   - [发布博客](https://blog.ethereum.org/2016/02/29/homestead-release/)，[EIP-2](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-2.mediawiki)，[EIP-7](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-7.md)，[EIP-8](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-8.md)
 - DAO 分叉（区块编号至 1,920,000 —— 7 月 20 日，2016）
   - [发布博客](https://blog.ethereum.org/2016/07/20/hard-fork-completed/)，分叉的反对者停留在了 r/EthereumClassic（译者注：即 ETC，该分叉由著名的 DAO 攻击引致。）
