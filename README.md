@@ -31,6 +31,9 @@
 
 ## 官方文档及手册
 
-
+待添加...
 
 ## 近期文章列表
+
+* [EthList：众包维护的以太坊阅读清单](https://juejin.im/post/5b9bd2f6f265da0af5030fed) ([StellaBauhinia](https://github.com/StellaBauhinia) 翻译)
+* [所有区块链译文>>](https://github.com/xitu/blockchain-miner/blob/master/blockchain.md)
