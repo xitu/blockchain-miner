@@ -25,8 +25,6 @@
 
 <a href="" target="_blank"><img src="https://user-images.githubusercontent.com/26959437/45610260-f4803c80-ba8d-11e8-9b45-76137e5d71e5.png" width="200px;"/></a>
 
-期待你的加入...
-
 > 合作事宜请扫描 [二维码](http://oiiyyn1t0.bkt.clouddn.com/wechat-517010193.jpg) 联系管理员
 
 # 近期译文列表
