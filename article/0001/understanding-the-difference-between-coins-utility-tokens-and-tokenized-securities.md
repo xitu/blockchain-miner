@@ -2,10 +2,10 @@
 > * 原文作者：[Micha Benoliel](https://medium.com/@anthenor?source=post_header_lockup)
 > * 译文出自：[掘金翻译计划 — 区块链分舵](https://github.com/xitu/blockchain-miner)
 > * 本文永久链接：[https://github.com/xitu/blockchain-miner/tree/master/article/0001/understanding-the-difference-between-coins-utility-tokens-and-tokenized-securities.md](https://github.com/xitu/blockchain-miner/tree/master/article/0001/understanding-the-difference-between-coins-utility-tokens-and-tokenized-securities.md)
-> * 译者：
+> * 译者：[mingxing47](https://github.com/mingxing47)
 > * 校对者：
 
-# Understanding the difference between coins, utility tokens and tokenized securities
+# 如何区分支付型代币，实用型代币，证券化代币？
 
 ## How the blockchain disruption is shaking status quo
 
@@ -25,7 +25,7 @@ In planning an ICO for a project of my own, I’ve done a deep dive into ICOs. O
 
 [Tim Draper](https://medium.com/@timdrapervc) mentioned in his open letter: “_If the purpose of a token is for societal transformation, and all proceeds go to the support and development of the token,_ **_it need not register._**_”_
 
-### Conclusions
+### Conclusions结论
 
 #### 1. Coins or Cryptocurrencies
 
