@@ -1,0 +1,2 @@
+* [一文理解区块链共识机制的终结性](https://github.com/xitu/blockchain-miner/blob/master/article/0002/%E4%B8%80%E6%96%87%E7%90%86%E8%A7%A3%E5%8C%BA%E5%9D%97%E9%93%BE%E5%85%B1%E8%AF%86%E6%9C%BA%E5%88%B6%E7%9A%84%E7%BB%88%E7%BB%93%E6%80%A7.md)
+* [一文看懂区块链域名解析服务、热门项目 Handshake 和 ENS](https://github.com/xitu/blockchain-miner/blob/master/article/0002/%E4%B8%80%E6%96%87%E7%9C%8B%E6%87%82%E5%8C%BA%E5%9D%97%E9%93%BE%E5%9F%9F%E5%90%8D%E8%A7%A3%E6%9E%90%E6%9C%8D%E5%8A%A1%E7%83%AD%E9%97%A8%E9%A1%B9Handshake%E5%92%8CENS.md)
