@@ -54,7 +54,7 @@
 
 相反，币安在其本土中国以外的地区进行了迁移和国际扩张，这已经引起了人们的注意：他们在东南亚各地区设立了办事处，包括日本。
 
-## Blue-Chip Big Dogs
+## 蓝筹大狗
 
 [BlackRock（贝莱德）](https://www.ccn.com/blackrock-the-worlds-largest-asset-manager-is-exploring-cryptocurrencies/)，[Morgan Stanley（摩根士丹利）](https://www.ccn.com/morgan-stanley-poaches-credit-suisse-bitcoin-expert-to-head-crypto-division/) 和 [Goldman Sachs（高盛）](https://www.ccn.com/goldman-sachs-may-store-bitcoin-for-cryptocurrency-funds-institutional-investors/) 等世界级资产管理公司一再承认有可能在其商业路线图中添加加密货币投资。其他行业的市场领导者也是如此，例如像 [IBM](https://www.ccn.com/ibm-wins-aud-1-billion-contract-to-develop-blockchain-tech-initiatives-for-australia-govt/) 这样的科技巨头。
 
