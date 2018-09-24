@@ -2,67 +2,67 @@
 > * 原文作者：[reddit](https://www.reddit.com/r/ethereum/comments/60hhjm/eli5_what_is_ethereum/)
 > * 译文出自：[掘金翻译计划 — 区块链分舵](https://github.com/xitu/blockchain-miner)
 > * 本文永久链接：[https://github.com/xitu/blockchain-miner/tree/master/article/0001/eli5-what-is-ethereum.md](https://github.com/xitu/blockchain-miner/tree/master/article/0001/eli5-what-is-ethereum.md)
-> * 译者：
-> * 校对者：
+> * 译者：[mingxing47](https://github.com/mingxing47)
+> * 校对者：[TrWestdoor](https://github.com/TrWestdoor) [haiyang-tju](https://github.com/haiyang-tju)
 
-# ELI5: What is Ethereum?
+# ELI5：用简单的语言给小白解释什么是以太坊？
 
-I have trouble answering this question in layman's terms to people at work and even my family. I'm not the best teacher in the world, so I'm hoping you guys can help me lay it out in a way that even my daughter would understand.
+我很难用外行能听懂的话去向同事甚至是家人回答以下的问题。我不是这个世界上最好的老师，所以我希望你们能够帮助我以一种连我女儿都能理解的方式去阐述这个问题。
 
-Bonus question: ELI5 Investing in Ethereum (owning ETH) is investing what exactly?
+附问题：投资以太坊（拥有以太币）到底是在投资什么？
 
 ---
 
 **[cryptopascal](https://www.reddit.com/user/cryptopascal):**
 
-A world-wide computer that is formed by lots of computers talking to each other.
+以太坊是一台世界级的超级计算机，由许多能够相互连通的计算机组成。
 
-(Bonus: just like Bitcoin is a world-wide Excel spreadsheet that is formed by lots of computers talking to each other)
+（附：就像比特币是一种由很多能够相互连通的计算机组成的世界级的 Excel 表格一样。）
 
-Advantage: no one can turn it off, no one can tamper with it, and it runs exactly as programmed - because no one can, at the same time, break into the houses of all of the thousands of people running the lots of computers talking to each other - and turn those off or change something about the way they run).
+优势：没有人能够关闭或篡改这台计算机，它完全按照既定的程序来运行 —— 因为没有人能够在同一时间闯入成千上万的运行着这些相互连通的计算机的人家中，然后关闭这些计算机或者修改程序的运行方式。
 
-(Bonus: unless... you can convince all of the thousands of people running those computers talking to each other... to change exactly the same thing at the same time about how those computers talk to each other. That is called a hard fork, but you have to come up with really good arguments to convince those thousands of people!)
+（附：除非你可以说服成千上万运行着这些相互连通电脑的人，去同时相同地改变关于计算机之间如何相互通信的程序。这又被称为硬分叉（译者注：区块链中，硬分叉是对原有协议的修改，与旧版本不兼容），但是要做到这一点你必须拿出真正好的论据来说服成千上万的人！）
 
-Disadvantage: it's actually a really slow computer because... all of those thousands of computers that form the world-wide computer need to talk to each other first. That's a lot of talking. And it's expensive. Because the people who own these thousands of computers, all want a bit back for their electricity and the fact they bought a computer just to talk to other computers.
+劣势：这实际上是一台非常慢的计算机，因为组成了这个世界级计算机的成千上万台计算机们首要的任务就是相互通信。这个过程包含了很多的通信，并且非常昂贵。因为这几千台电脑的拥有着，都想要从他们耗费的电力中获取到利益，事实上，他们买电脑只是为了和其他电脑交流。
 
-(Bonus: In order to pay them, we have Ether. If you have a lot of Ether, you can do a lot with this world-wide computer. Or you can just keep and sell it to someone who wants to do something with this world-wide computer.)
+（附：为了给电脑拥有者支付他们的花费，我们有以太坊。如果你有很多以太坊，你可以利用这个世界范围的电脑做很多事情。或者你可以把它保存起来，然后卖给那些想用这台世界范围内的电脑做点什么的人。）
 
 ---
 
 **[desertrose123](https://www.reddit.com/user/desertrose123):**
 
-I'll take a stab.
+我来尝试说明一下。
 
-Ethereum is a world wide supercomputer.
+以太坊是一个遍布于全球的超级计算机。
 
-Investing in ethereum is buying rights to computation time on that super computer in the hopes it will appreciate.
+对以太坊投资就是购买那台超级计算机的计算时间权，同时希望它能升值。
 
-You can change super computer to the next version of the web if you like.
+如果你愿意，你可以把超级计算机换成下一个版本的 web。
 
-Obviously tried to keep it short and simple.
+很明显，它试图保持简洁。
 
 > **[somali_yacht_club](https://www.reddit.com/user/somali_yacht_club):**
-> I'll add, from an investing standpoint:
-> Bitcoin is like digital gold, it is valuable because people agree to exchange it for other things of value.
-> Ethereum is like digital oil, it is valuable for the work it is able to do.
+> 我将从投资的角度补充一句：
+> 比特币就像数字黄金，它之所以有价值，是因为人们愿意用它交换其他有价值的东西。
+> 以太坊就像数字石油，它所能做的工作是有价值的。
 >
-> If this iteration of the world-wide supercomputer succeeds, having some rights to the commodity that it runs on may prove to be a good investment.
+> 如果这种全球超级计算机的迭代成功了，那么对其运行的商品拥有一些权利可能会被证明是一项不错的投资。
 
 ---
 
 **[silkblueberry](https://www.reddit.com/user/silkblueberry):**
 
-well, Ethereum has the power of a 90s cell phone currently. Not really a super computer, yet. With sharding in the future it will really speed up. Golem may bring a supercomputing level processing layer on top of Ethereum sooner. But it's not Ethereum itself that does the computation, just the minimum coordination.
+嗯，以太坊目前的能力相当于 90 年代的手机。它现在还不是真正的超级计算机。在未来，随着分片技术的出现，它将会加速。Golem 可以在以太坊之上更快地带来一个超级计算级的处理层。但是并不是以太坊本身进行了计算，以太坊只进行最小的协调。
 
 > **[rsynnest](https://www.reddit.com/user/rsynnest):**
 >
-> It has the speed of a 90s cell phone, yes. The processing power however is that of a modern supercomputer. The problem is all that power goes toward mining instead of problem solving computing. Proof of stake is the biggest hope to stop wasting all those CPUs on mining and put them to use for on demand computation.
+> 是的，它的速度就像 90 年代的手机。同样，它拥有现代超级计算机的处理能力。问题是所有的能量都被用于挖掘而不是用于解决问题。当证明了计算能获取利益将有希望停止在挖掘上浪费所有 cpu，而且能将它们用于按需计算。
 
 ---
 
 **[SrPeixinho](https://www.reddit.com/user/SrPeixinho):**
 
-Oh my God, those answers could be better! OP, Ethereum is just a decentralized computer, and nothing else. Think about Digital Ocean, Linode, Amazon. Those companies allow you to borrow computers, so that you can upload programs on them, and run services, right? Ethereum is exactly the same thing. There is one key difference, though: there isn't a single party behind it. Once you upload a program on Ethereum, it can't be turned off - not by you, not by a hacker, not by a government. And that is it, really. Is that not clear enough? There is no mystery, nothing else, that's all.
+天啊，这些回答可以更好！以太坊就是一台去中心化的电脑，没有什么了不起的。想想 Digital Ocean，Linode，亚马逊。这些公司允许你租借云主机，这样你就可以在上面上传程序，运行服务，对吧？以太坊就是这样一件事。不过，有一个关键的区别：它背后没有一个组织。一旦你在以太坊上上传了一个程序，它就不可能被关闭 —— 你，黑客，政府都不能关闭。就是这样，真的。这还不够清楚吗？没有什么神秘的，没有别的，就是这样。
 
 > 如果发现译文存在错误或其他需要改进的地方，欢迎到 [掘金翻译计划 — 区块链分舵](https://github.com/xitu/blockchain-miner) 对译文进行修改并 PR，也可获得相应奖励积分。文章开头的 **本文永久链接** 即为本文在 GitHub 上的 MarkDown 链接。
 
