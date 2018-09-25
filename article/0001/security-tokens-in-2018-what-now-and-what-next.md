@@ -3,7 +3,7 @@
 > * 译文出自：[掘金翻译计划 — 区块链分舵](https://github.com/xitu/blockchain-miner)
 > * 本文永久链接：[https://github.com/xitu/blockchain-miner/tree/master/article/0001/security-tokens-in-2018-what-now-and-what-next.md](https://github.com/xitu/blockchain-miner/tree/master/article/0001/security-tokens-in-2018-what-now-and-what-next.md)
 > * 译者：[StellaBauhinia](https://github.com/StellaBauhinia)
-> * 校对者：
+> * 校对者：[NashMiao](https://github.com/wdx7266)
 
 # 2018 年 Security Token 发展现状及未来展望
 
@@ -13,32 +13,32 @@
 
 ## 期货，和“所有加密货币都是证券”
 
- 这是在 2017 到 2018 年的那个冬季的时候。与此同时[美国证券交易委员会（SEC）](https://www.ccn.com/utility-token-ico-probably-securities-offering-sec-chairman/)开始关注这种新的，以前不受监管的现金形式。这是在世界各个国家和政府部门决定如法炮制之前了。
+ 2017 到 2018 年的那个冬天。[美国证券交易委员会（SEC）](https://www.ccn.com/utility-token-ico-probably-securities-offering-sec-chairman/)开始关注这种新的，在过去不受监管的现金形式。此后，世界上的许多其他国家和政府部门采取了同样的行动。
 
-大约在同一时间，第一个[“比特币期货”合约](https://www.ccn.com/cmes-bitcoin-futures-launch-december-18/)由有进取心的新公司和现有公司推出并发售 —— SEC 的裁决为传统资金和投资涌入市场创造了重要空间。
+大约在同一时间，那些具有开拓精神的公司推出并联合其他公司发售了第一个[“比特币期货”合约](https://www.ccn.com/cmes-bitcoin-futures-launch-december-18/) —— SEC 的裁决为传统资金和投资涌入市场创造了重要空间。
 
-加密货币期货的开放很可能会加剧加密货币的压力，这压力便来自于（政策监管下）政府的眼睛。
+加密货币期货的开放很可能会加剧由于政府监管带来的给加密货币的压力。
 
 ## 两种 Token ：Securities（证券型）和 Utilities（实用型）
 
-从西方国家监管的早期阶段开始，加密货币最终被分为两类： [“security tokens” 和 “utility tokens”](https://www.investopedia.com/terms/s/security-token.asp).
+从西方国家的早期监管开始，加密货币最终被分为两类： [“security tokens” 和 “utility tokens”](https://www.investopedia.com/terms/s/security-token.asp).
 
-加密货币的创造者和社区对这些定义的运用是灵活多变的，许多筹款人选择将他们的加密货币分类为 “utilities” 以避免潜在或额外的法规政策影响 —— 但最常被接受的定义是：
+加密货币的创造者和社区对这些定义的运用是灵活多变的，许多筹款人选择将他们的加密货币分类为 “utilities” 以避免潜在追加的法规政策影响 —— 但最常被接受的定义是：
 
-1.  **“Securities”** 是资产支持的 Token（也被称为可替代资产的，通常相当于现实世界的资产）。
+1.  **“Securities”** 是资产支持 Token（也被称为可替代资产的 Token，通常相当于现实世界的资产）。
 2.  **“Utilities”** 是区块链项目中的功能性资产，其生态系统的价值基于更抽象的术语。
 
 如今，SEC 已宣布几个 Token 被正式归类为 [utilities](https://www.wired.com/story/sec-ether-bitcoin-not-securities/) 而不是 securities，所以它们不受与传统证券相关的法律约束。其中两个就是比特币和以太坊。
 
 ## 持有独立标准的机构？
 
-一些公司，如总部位于卢森堡的 Tokeny，无论它[国际化的领导团队](https://tokeny.com/about-us/)在一个对加密货币有意向的国家是否老练，拥有足够资源，它都能在那里首先建立总部。
+一些公司，如总部位于卢森堡的 Tokeny，它的[国际化的领导团队](https://tokeny.com/about-us/)能够首先在一个亲加密货币的国家建立总部，无论他们在当地是否经验丰富。
 
 这个团队包括 CEO 兼创始人 [Luc Falempin](https://www.linkedin.com/in/lucfalempin/)：他受到一个多元化的高管团队支持，这些人来自传统金融服务业和像 IBM 和 Syniverse 这种国际化公司的软件和 IT 服务业。
 
 [Tokeny](https://tokeny.com/) 称自己为“发布、管理和交易 Utility 和 Security Token 的点到点平台”，大大减少了对其他必要的中间人的需求。
 
-该组织宣传其名为 SICOP (又名 [可持续 ICO 协议](https://medium.com/tokeny/othe-sustainable-ico-protocol-sicop-4a9fc09dd722))的专有批准程序：它是一个独立于政府干预的 ICO 和 STO 的标准和监管程序。
+该组织宣传其名为 SICOP (又名 [可持续 ICO 协议](https://medium.com/tokeny/othe-sustainable-ico-protocol-sicop-4a9fc09dd722))的专有批准程序：它是一个不受政府干预的 ICO 和 STO 的标准和监管程序。
 
 ## 避风港：不仅可以逃避税收，还可以逃避加密货币的监管！
 
@@ -46,15 +46,15 @@
 
 （除了避税天堂之外）世界上不少国家是加密货币的独立倡导者，因此成为了国际上的[“加密货币避风港”](https://hacked.com/regulations-and-crypto-havens-china-and-the-rest-of-the-world/) 。 一个例子是，这些金融自由（通常是单民族的）国家借由这些政策促进了相关的创新，和从规管严格一点的国家引入商业移民。
 
-新闻刊载 [DSTOQ](https://dstoq.com/) 最近取得了成功，部分原因是由于它成为了[瓦努阿图](https://hacked.com/vanuatu-joins-list-of-countries-issuing-crypto-licenses/)的避税天堂政府发布的“第一个取得完全许可的加密货币”。当然同样值得注意的是该消息以出人意料的惊喜形式发布，而且公司最近推出了 MVP（最小可行产品）。
+新闻刊载 [DSTOQ](https://dstoq.com/) 最近取得了成功，部分原因是由于它成为了[瓦努阿图](https://hacked.com/vanuatu-joins-list-of-countries-issuing-crypto-licenses/)的避税天堂政府发布的“第一个取得完全许可的加密货币”。当然同样值得注意的是该消息以出人意料的惊喜形式发布，而且公司最近推出了最小可行性产品（MVP）。
 
-该公司决定通过“英联邦”成员国获得官方立法支持，这是绕过美国 SEC 等机构制定的严格立法的一种手段。
+该公司决定通过“英联邦”成员国获得官方立法支持，这是绕过由美国 SEC 等机构制定的严格法规的一种手段。
 
 它还拒绝来自于美国公民的投资;这意味着他们首先将努力集中在欧洲。这个决定反映了来自美国的加密货币小规模迁移的可能 —— 对于中国也是如此。
 
-相反，币安在其本土中国以外的地区进行了迁移和国际扩张，这已经引起了人们的注意：他们在东南亚各地区设立了办事处，包括日本。
+相反，币安在中国以外的地区进行的迁移和国际扩张已经引起了人们的注意：他们在东南亚各地区设立了办事处，包括日本。
 
-## 蓝筹大狗
+## 蓝筹大股
 
 [BlackRock（贝莱德）](https://www.ccn.com/blackrock-the-worlds-largest-asset-manager-is-exploring-cryptocurrencies/)，[Morgan Stanley（摩根士丹利）](https://www.ccn.com/morgan-stanley-poaches-credit-suisse-bitcoin-expert-to-head-crypto-division/) 和 [Goldman Sachs（高盛）](https://www.ccn.com/goldman-sachs-may-store-bitcoin-for-cryptocurrency-funds-institutional-investors/) 等世界级资产管理公司一再承认有可能在其商业路线图中添加加密货币投资。其他行业的市场领导者也是如此，例如像 [IBM](https://www.ccn.com/ibm-wins-aud-1-billion-contract-to-develop-blockchain-tech-initiatives-for-australia-govt/) 这样的科技巨头。
 
@@ -76,7 +76,7 @@ SEC 对各种加密货币的看法一直变化无常 —— 刚开始以激进�
 
 从积极的方面来看，政府财政部门也与各种区块链公司建立了牢固的关系，这些公司愿意与最近和正在制定的基本法规保持一致。
 
-但这一举动并没有让所有人信服 —— 根据目前的法律，所有美国公民发起或参与的 ICO 筹款活动都是严格禁止的。
+但这一举动并没有让所有人信服 —— 根据目前的法律，所有在美国发起或以美国公民为目标的 ICO 筹款活动都是严格禁止的。
 
 _配图来自于 Shutterstock_
 
