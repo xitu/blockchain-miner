@@ -2,89 +2,89 @@
 > * 原文作者：[Daniel Mitchell](https://www.ccn.com/security-tokens-in-2018-what-now-and-what-next/)
 > * 译文出自：[掘金翻译计划 — 区块链分舵](https://github.com/xitu/blockchain-miner)
 > * 本文永久链接：[https://github.com/xitu/blockchain-miner/tree/master/article/0001/security-tokens-in-2018-what-now-and-what-next.md](https://github.com/xitu/blockchain-miner/tree/master/article/0001/security-tokens-in-2018-what-now-and-what-next.md)
-> * 译者：
-> * 校对者：
+> * 译者：[StellaBauhinia](https://github.com/StellaBauhinia)
+> * 校对者：[NashMiao](https://github.com/wdx7266)
 
-# Security Tokens in 2018: What Now, and What Next?
+# 2018 年 Security Token 发展现状及未来展望
 
 ![](https://248qms3nhmvl15d4ne1i4pxl-wpengine.netdna-ssl.com/wp-content/uploads/2016/07/Secure-digital-lock-760x400.jpg)
 
-The concept of [‘Security Tokens’](https://hacked.com/state-of-securities-token-regulation-and-solutions/) has been a subject of debate and controversy since they came to prominence . How have they changed since they were first introduced, and where might they be heading next?
+[‘Security Tokens’](https://hacked.com/state-of-securities-token-regulation-and-solutions/) (证劵型代币)的概念一经提出后便饱受争议。那么它在第一次提出至今发生了如何的改变？接下来又可能会往哪里走呢？
 
-## Futures, and “All Coins are Securities”
+## 期货，和“所有加密货币都是证券”
 
-This was around Winter 2017 – 2018. The same time when the [Securities and Exchange Commission (SEC)](https://www.ccn.com/utility-token-ico-probably-securities-offering-sec-chairman/) in the USA began focusing their attention on this new and previously unregulated form of cash. Before many other national, government authorities worldwide decided to follow suit.
+ 2017 到 2018 年的那个冬天。[美国证券交易委员会（SEC）](https://www.ccn.com/utility-token-ico-probably-securities-offering-sec-chairman/)开始关注这种新的，在过去不受监管的现金形式。此后，世界上的许多其他国家和政府部门采取了同样的行动。
 
-It was also around the same time when the first [‘bitcoin futures’ contracts](https://www.ccn.com/cmes-bitcoin-futures-launch-december-18/) were launched and sold by enterprising new and existing firms – with the SEC ruling creating a significant space for traditional investment and old-money to pour into the market.
+大约在同一时间，那些具有开拓精神的公司推出并联合其他公司发售了第一个[“比特币期货”合约](https://www.ccn.com/cmes-bitcoin-futures-launch-december-18/) —— SEC 的裁决为传统资金和投资涌入市场创造了重要空间。
 
-The opening of crypto-futures arguably exacerbated the pressure on cryptocurrencies which resulted from prying government eyes.
+加密货币期货的开放很可能会加剧由于政府监管带来的给加密货币的压力。
 
-## The Two Tokens: Securities & Utilities
+## 两种 Token ：Securities（证券型）和 Utilities（实用型）
 
-Since those early days of regulation in the West, cryptocurrencies have eventually dichotomized into: [‘security tokens’ and ‘utility tokens’](https://www.investopedia.com/terms/s/security-token.asp).
+从西方国家的早期监管开始，加密货币最终被分为两类：[“security tokens” 和 “utility tokens”](https://www.investopedia.com/terms/s/security-token.asp).
 
-The definitions used by coin creators and the communities can be flexible, with many fundraisers opting to class their coins as ‘utilities’ to avoid potential additional legal / administrative repercussions – however the most commonly accepted definition is that:
+加密货币的创造者和社区对这些定义的运用是灵活多变的，许多筹款人选择将他们的加密货币分类为 “utilities” 以避免潜在追加的法规政策影响 —— 但最常被接受的定义是：
 
-1.  **‘Securities’** are asset backed tokens (AKA fungible, often equivalent to a real-world asset).
-2.  **‘Utilities’** are functional assets within the blockchain project in question’s eco-system whose value is based in more abstract terms.
+1.  **“Securities”** 是资产支持 Token（也被称为可替代资产的 Token，通常相当于现实世界的资产）。
+2.  **“Utilities”** 是区块链项目中的功能性资产，其生态系统的价值基于更抽象的术语。
 
-At present, the SEC has declared few tokens as being officially classed as [utilities](https://www.wired.com/story/sec-ether-bitcoin-not-securities/) rather than securities and are thus not subject to laws pertinent to traditional securities. Two of these are Bitcoin and Ethereum.
+如今，SEC 已宣布几个 Token 被正式归类为 [utilities](https://www.wired.com/story/sec-ether-bitcoin-not-securities/) 而不是 securities，所以它们不受与传统证券相关的法律约束。其中两个就是比特币和以太坊。
 
-## Independent Standards Agencies?
+## 持有独立标准的机构？
 
-Some companies, such as Luxembourg based Tokeny were able to establish their headquarters in a pro-crypto country in the first place, regardless of their seasoned – [international leaders](https://tokeny.com/about-us/).
+一些公司，如总部位于卢森堡的 Tokeny，它的[国际化的领导团队](https://tokeny.com/about-us/)能够首先在一个亲加密货币的国家建立总部，无论他们在当地是否经验丰富。
 
-This team includes CEO and founder [Luc Falempin](https://www.linkedin.com/in/lucfalempin/): supported by a diverse team of executives coming from traditional financial services, as well as global roles in software and IT service companies like IBM and Syniverse.
+这个团队包括 CEO 兼创始人 [Luc Falempin](https://www.linkedin.com/in/lucfalempin/)：他受到一个多元化的高管团队支持，这些人来自传统金融服务业和像 IBM 和 Syniverse 这种国际化公司的软件和 IT 服务业。
 
-[Tokeny](https://tokeny.com/) hails itself as “The end-to-end platform to issue, manage and trade Utility and Security tokens” significantly cutting down on needs for otherwise unneccessary intermediaries.
+[Tokeny](https://tokeny.com/) 称自己为“发布、管理和交易 Utility 和 Security Token 的点到点平台”，大大减少了对其他必要的中间人的需求。
 
-The organisation advertises its proprietary approval program entitled SICOP (AKA [The Sustainable Initial Coin Offering Protocol](https://medium.com/tokeny/othe-sustainable-ico-protocol-sicop-4a9fc09dd722)): a standards and regulation process for ICOs and STOs which is independent of government intervention.
+该组织宣传其名为 SICOP（又名[可持续 ICO 协议](https://medium.com/tokeny/othe-sustainable-ico-protocol-sicop-4a9fc09dd722)）的专有批准程序：它是一个不受政府干预的 ICO 和 STO 的标准和监管程序。
 
-## Havens: Not Just for Taxes, But Cryptos Too!
+## 避风港：不仅可以逃避税收，还可以逃避加密货币的监管！
 
-If you’ve read some of my writing on CCN or our sister site Hacked.com, you may notice a running theme of discussion surrounding [security](https://www.ccn.com/op-ed-crypto-security-the-good-the-bad-and-the-mcafee/) concerns and [government regulations](https://hacked.com/extensive-and-unenforceable-sec-regulations-should-be-challenged/).
+如果你在 CCN 或我们的姐妹网站 Hacked.com 上阅读了我的一些文章，你可能会注意到我在围绕[安全](https://www.ccn.com/op-ed-crypto-security-the-good-the-bad-and-the-mcafee/)问题和[政府法规](https://hacked.com/extensive-and-unenforceable-sec-regulations-should-be-challenged/)做持续的讨论。
 
-This is in addition to the role which many international [‘crypto-havens’](https://hacked.com/regulations-and-crypto-havens-china-and-the-rest-of-the-world/) play as independent advocates of cryptocurrencies on the world stage. One example is the ways in which such financially liberal (and often nation-state) countries play in facilitating innovation and business migration from stricter countries.
+（除了避税天堂之外）世界上不少国家是加密货币的独立倡导者，因此成为了国际上的[“加密货币避风港”](https://hacked.com/regulations-and-crypto-havens-china-and-the-rest-of-the-world/)。一个例子是，这些金融自由（通常是单民族的）国家借由这些政策促进了相关的创新，和从规管严格一点的国家引入商业移民。
 
-[DSTOQ](https://dstoq.com/) made its way to the news recently in-part due to being ‘the first fully-licensed cryptocurrency’ – as issued by the tax-haven government of [Vanuatu](https://hacked.com/vanuatu-joins-list-of-countries-issuing-crypto-licenses/). Also notable was the recent and unexpected surprise public reveal / launch of the company itself and MVP.
+新闻刊载 [DSTOQ](https://dstoq.com/) 最近取得了成功，部分原因是由于它成为了[瓦努阿图](https://hacked.com/vanuatu-joins-list-of-countries-issuing-crypto-licenses/)的避税天堂政府发布的“第一个取得完全许可的加密货币”。当然同样值得注意的是该消息以出人意料的惊喜形式发布，而且公司最近推出了最小可行性产品（MVP）。
 
-The company’s decision to acquire official legislative backing through the ‘Commonwealth of Nations’ member country is a means of bypassing the strict legislation put in place by agencies such as the USA’s SEC.
+该公司决定通过“英联邦”成员国获得官方立法支持，这是绕过由美国 SEC 等机构制定的严格法规的一种手段。
 
-It also prevents them from allowing investment from citizens of the USA; meaning that they are focusing their efforts in Europe to begin with. A decision which potentially reflects a smaller-scale crypto-flight from the USA – as seen with China.
+它还拒绝来自于美国公民的投资;这意味着他们首先将努力集中在欧洲。这个决定反映了来自美国的加密货币小规模迁移的可能 —— 对于中国也是如此。
 
-Binance conversely has been noted for their relocation and international expansion outside of their native China: with various regional offices across South-East Asia, including Japan.
+相反，币安在中国以外的地区进行的迁移和国际扩张已经引起了人们的注意：他们在东南亚各地区设立了办事处，包括日本。
 
-## Blue-Chip Big Dogs
+## 蓝筹大股
 
-World-class asset management firms such as [BlackRock](https://www.ccn.com/blackrock-the-worlds-largest-asset-manager-is-exploring-cryptocurrencies/), [Morgan Stanley](https://www.ccn.com/morgan-stanley-poaches-credit-suisse-bitcoin-expert-to-head-crypto-division/) and [Goldman Sachs](https://www.ccn.com/goldman-sachs-may-store-bitcoin-for-cryptocurrency-funds-institutional-investors/) have been admitting interest repeatedly in potentially implementing crypto investments into their business roadmaps. The same can be said for market leaders in other sectors, such as tech giants like [IBM](https://www.ccn.com/ibm-wins-aud-1-billion-contract-to-develop-blockchain-tech-initiatives-for-australia-govt/).
+[BlackRock（贝莱德）](https://www.ccn.com/blackrock-the-worlds-largest-asset-manager-is-exploring-cryptocurrencies/)，[Morgan Stanley（摩根士丹利）](https://www.ccn.com/morgan-stanley-poaches-credit-suisse-bitcoin-expert-to-head-crypto-division/) 和 [Goldman Sachs（高盛）](https://www.ccn.com/goldman-sachs-may-store-bitcoin-for-cryptocurrency-funds-institutional-investors/) 等世界级资产管理公司一再承认有可能在其商业路线图中添加加密货币投资。其他行业的市场领导者也是如此，例如像 [IBM](https://www.ccn.com/ibm-wins-aud-1-billion-contract-to-develop-blockchain-tech-initiatives-for-australia-govt/) 这样的科技巨头。
 
-According to Sonali Basak of [Bloomberg](https://www.bloomberg.com/news/articles/2018-05-29/morgan-stanley-taps-blackrock-to-help-lure-2-trillion-of-assets),
+根据 [Bloomberg（彭博社）](https://www.bloomberg.com/news/articles/2018-05-29/morgan-stanley-taps-blackrock-to-help-lure-2-trillion-of-assets) Sonali Basak 的说法。
 
-> “Wall Street’s money managers are in an arms race for technology that will help them gain market share,”
+> “华尔街的资金经理正在争夺技术，这将有助于他们获得市场份额”
 
-This only further proves the importance of opening as many methods for investment to traditional / old-money as possible.
+这进一步证明了尽可能多地向传统资金开放（加密货币）投资的重要性。
 
-It also reveals the forthcoming generation of standard creators / bearers as potentially being those current market leaders who are successful in adapting blockchain to the needs of themselves and the general customers and users.
+它还揭示了，一旦当前市场的领导者成功地把区块链技术转化成自身和一般客户（用户）所用，那么他们很有可能成为即将出现的一代标准创造者（或承载者）。
 
-These companies’ likelihood of dominating the discussion would come due to their economic and industry influence and experience, putting potential independent attempts to waste.
+这些公司主导（一代标准）讨论的可能性来自于他们的经济和行业影响力和经验，若它们投放资源进行独立尝试，那是很浪费的。
 
-## Governments and Securities
+## 政府和 Securities Token
 
-The SEC has been fickle with their outlook on various cryptocurrencies – starting their public announcements with an aggressive tone regarding all tokens as-of-then being unregulated.
+SEC 对各种加密货币的看法一直变化无常 —— 刚开始以激进的态度公开宣布反对，而后又没有进行后续监管。
 
-They backed up their bark with a series of bites which came in the form of [crackdown operations against crypto companies](https://www.cnbc.com/2017/12/21/sec-crackdown-on-cryptocurrencies-is-about-to-get-serious-ex-chairman.html) in the country which had been suspected of carrying out fraudulent actions.
+他们收起了爪牙，又逐步显露 —— 以[打击加密货币公司](https://www.cnbc.com/2017/12/21/sec-crackdown-on-cryptocurrencies-is-about-to-get-serious-ex-chairman.html)的形式，理由是这些公司在国内涉嫌进行欺诈行为。
 
-On a positive note, the government financial authority has also been establishing strong relationships with various blockchain companies who are willing to play ball with the recently created, developing ground rules.
+从积极的方面来看，政府财政部门也与各种区块链公司建立了牢固的关系，这些公司愿意与最近和正在制定的基本法规保持一致。
 
-This move hasn’t convinced everybody – and US based or US citizen targeted ICO fundraising campaigns are all-but-strictly forbidden under current rulings.
+但这一举动并没有让所有人信服 —— 根据目前的法律，所有在美国发起或以美国公民为目标的 ICO 筹款活动都是严格禁止的。
 
-_Featured image from Shutterstock._
+**配图来自于 Shutterstock**
 
-**Follow us on [Telegram](https://telegram.me/ccncom) or subscribe to our newsletter [here](https://cryptocoinsnews.us7.list-manage.com/subscribe?u=3cb6c1ebcf594a857d586ea94&id=c970df32b3).**  
+**加入我们的 [Telegram](https://telegram.me/ccncom) 群或者订阅我们的新闻[这里](https://cryptocoinsnews.us7.list-manage.com/subscribe?u=3cb6c1ebcf594a857d586ea94&id=c970df32b3)。**  
   
-• [Join CCN's crypto community for $9.99 per month, click here.](https://network.ccn.com)  
-• [Want exclusive analysis and crypto insights from Hacked.com? Click here.](https://hacked.com/continue-reading)  
-• [Open Positions at CCN: Full Time and Part Time Journalists Wanted.](https://www.ccn.com/ccn-looking-journalists-co-editor/)
+• [点击链接，以 9.99 美金月费加入 CCN 的加密货币社区。](https://network.ccn.com)  
+• [想要专属分析和来自 Hanked.com 加密货币的深入看法吗？点击链接吧。](https://hacked.com/continue-reading)  
+• [CCN 的开放职位：正在招募全职或兼职的撰稿者。](https://www.ccn.com/ccn-looking-journalists-co-editor/)
 
 > 如果发现译文存在错误或其他需要改进的地方，欢迎到 [掘金翻译计划 — 区块链分舵](https://github.com/xitu/blockchain-miner) 对译文进行修改并 PR，也可获得相应奖励积分。文章开头的 **本文永久链接** 即为本文在 GitHub 上的 MarkDown 链接。
 
