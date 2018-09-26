@@ -21,7 +21,7 @@
 
 ## 两种 Token ：Securities（证券型）和 Utilities（实用型）
 
-从西方国家的早期监管开始，加密货币最终被分为两类： [“security tokens” 和 “utility tokens”](https://www.investopedia.com/terms/s/security-token.asp).
+从西方国家的早期监管开始，加密货币最终被分为两类：[“security tokens” 和 “utility tokens”](https://www.investopedia.com/terms/s/security-token.asp).
 
 加密货币的创造者和社区对这些定义的运用是灵活多变的，许多筹款人选择将他们的加密货币分类为 “utilities” 以避免潜在追加的法规政策影响 —— 但最常被接受的定义是：
 
@@ -38,13 +38,13 @@
 
 [Tokeny](https://tokeny.com/) 称自己为“发布、管理和交易 Utility 和 Security Token 的点到点平台”，大大减少了对其他必要的中间人的需求。
 
-该组织宣传其名为 SICOP (又名 [可持续 ICO 协议](https://medium.com/tokeny/othe-sustainable-ico-protocol-sicop-4a9fc09dd722))的专有批准程序：它是一个不受政府干预的 ICO 和 STO 的标准和监管程序。
+该组织宣传其名为 SICOP（又名[可持续 ICO 协议](https://medium.com/tokeny/othe-sustainable-ico-protocol-sicop-4a9fc09dd722)）的专有批准程序：它是一个不受政府干预的 ICO 和 STO 的标准和监管程序。
 
 ## 避风港：不仅可以逃避税收，还可以逃避加密货币的监管！
 
-如果你在 CCN 或我们的姐妹网站 Hacked.com 上阅读了我的一些文章，你可能会注意到我在围绕[安全](https://www.ccn.com/op-ed-crypto-security-the-good-the-bad-and-the-mcafee/) 问题和[政府法规](https://hacked.com/extensive-and-unenforceable-sec-regulations-should-be-challenged/)做持续的讨论。
+如果你在 CCN 或我们的姐妹网站 Hacked.com 上阅读了我的一些文章，你可能会注意到我在围绕[安全](https://www.ccn.com/op-ed-crypto-security-the-good-the-bad-and-the-mcafee/)问题和[政府法规](https://hacked.com/extensive-and-unenforceable-sec-regulations-should-be-challenged/)做持续的讨论。
 
-（除了避税天堂之外）世界上不少国家是加密货币的独立倡导者，因此成为了国际上的[“加密货币避风港”](https://hacked.com/regulations-and-crypto-havens-china-and-the-rest-of-the-world/) 。 一个例子是，这些金融自由（通常是单民族的）国家借由这些政策促进了相关的创新，和从规管严格一点的国家引入商业移民。
+（除了避税天堂之外）世界上不少国家是加密货币的独立倡导者，因此成为了国际上的[“加密货币避风港”](https://hacked.com/regulations-and-crypto-havens-china-and-the-rest-of-the-world/)。一个例子是，这些金融自由（通常是单民族的）国家借由这些政策促进了相关的创新，和从规管严格一点的国家引入商业移民。
 
 新闻刊载 [DSTOQ](https://dstoq.com/) 最近取得了成功，部分原因是由于它成为了[瓦努阿图](https://hacked.com/vanuatu-joins-list-of-countries-issuing-crypto-licenses/)的避税天堂政府发布的“第一个取得完全许可的加密货币”。当然同样值得注意的是该消息以出人意料的惊喜形式发布，而且公司最近推出了最小可行性产品（MVP）。
 
@@ -58,7 +58,7 @@
 
 [BlackRock（贝莱德）](https://www.ccn.com/blackrock-the-worlds-largest-asset-manager-is-exploring-cryptocurrencies/)，[Morgan Stanley（摩根士丹利）](https://www.ccn.com/morgan-stanley-poaches-credit-suisse-bitcoin-expert-to-head-crypto-division/) 和 [Goldman Sachs（高盛）](https://www.ccn.com/goldman-sachs-may-store-bitcoin-for-cryptocurrency-funds-institutional-investors/) 等世界级资产管理公司一再承认有可能在其商业路线图中添加加密货币投资。其他行业的市场领导者也是如此，例如像 [IBM](https://www.ccn.com/ibm-wins-aud-1-billion-contract-to-develop-blockchain-tech-initiatives-for-australia-govt/) 这样的科技巨头。
 
-根据 [Bloomberg（彭博社）](https://www.bloomberg.com/news/articles/2018-05-29/morgan-stanley-taps-blackrock-to-help-lure-2-trillion-of-assets) Sonali Basak 的说法，
+根据 [Bloomberg（彭博社）](https://www.bloomberg.com/news/articles/2018-05-29/morgan-stanley-taps-blackrock-to-help-lure-2-trillion-of-assets) Sonali Basak 的说法。
 
 > “华尔街的资金经理正在争夺技术，这将有助于他们获得市场份额”
 
@@ -78,13 +78,13 @@ SEC 对各种加密货币的看法一直变化无常 —— 刚开始以激进�
 
 但这一举动并没有让所有人信服 —— 根据目前的法律，所有在美国发起或以美国公民为目标的 ICO 筹款活动都是严格禁止的。
 
-_配图来自于 Shutterstock_
+**配图来自于 Shutterstock**
 
-**加入我们的 [Telegram](https://telegram.me/ccncom) 群或者订阅我们的新闻 [这里](https://cryptocoinsnews.us7.list-manage.com/subscribe?u=3cb6c1ebcf594a857d586ea94&id=c970df32b3).**  
+**加入我们的 [Telegram](https://telegram.me/ccncom) 群或者订阅我们的新闻[这里](https://cryptocoinsnews.us7.list-manage.com/subscribe?u=3cb6c1ebcf594a857d586ea94&id=c970df32b3)。**  
   
-• [点击链接，以 9.99 美金月费加入 CCN 的加密货币社区](https://network.ccn.com)  
-• [想要专属分析和来自 Hanked.com 加密货币的深入看法吗？点击链接吧](https://hacked.com/continue-reading)  
-• [CCN 的开放职位：正在招募全职或兼职的撰稿者](https://www.ccn.com/ccn-looking-journalists-co-editor/)
+• [点击链接，以 9.99 美金月费加入 CCN 的加密货币社区。](https://network.ccn.com)  
+• [想要专属分析和来自 Hanked.com 加密货币的深入看法吗？点击链接吧。](https://hacked.com/continue-reading)  
+• [CCN 的开放职位：正在招募全职或兼职的撰稿者。](https://www.ccn.com/ccn-looking-journalists-co-editor/)
 
 > 如果发现译文存在错误或其他需要改进的地方，欢迎到 [掘金翻译计划 — 区块链分舵](https://github.com/xitu/blockchain-miner) 对译文进行修改并 PR，也可获得相应奖励积分。文章开头的 **本文永久链接** 即为本文在 GitHub 上的 MarkDown 链接。
 
