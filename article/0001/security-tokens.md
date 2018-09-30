@@ -3,18 +3,18 @@
 > * 译文出自：[掘金翻译计划 — 区块链分舵](https://github.com/xitu/blockchain-miner)
 > * 本文永久链接：[https://github.com/xitu/blockchain-miner/tree/master/article/0001/security-tokens.md](https://github.com/xitu/blockchain-miner/tree/master/article/0001/security-tokens.md)
 > * 译者：[llp0574](https://github.com/llp0574)
-> * 校对者：
+> * 校对者：[faintz](https://github.com/faintz)
 
-# 什么是 Security Tokens（证券型代币）？
+# 什么是 Security Tokens？
 
-要是你现在访问 [YouTube](https://www.youtube.com/channel/UCd8CDrm6rvwBZc6g7BYAkfQ) 并搜索 Security Tokens。
+要是你现在访问 [YouTube](https://www.youtube.com/channel/UCd8CDrm6rvwBZc6g7BYAkfQ) 并搜索 Security Tokens（证券型代币，下文对该词语不再进行翻译）。
 
 可能会得到如下结果：
 
 *   **为什么 Security Tokens 是未来？**
 *   **Security Tokens 会是下一个重大事件吗？**
 
-所以，如今看来 Security Tokens 的背后似乎有许多炒作。在这篇指南里，我们将学习有关证券型 Token 的所有内容，并了解看看它们是否值得你花费时间。
+所以，如今看来 Security Tokens 的背后似乎有许多炒作。在这篇指南里，我们将学习有关 Security Tokens 的所有内容，并看看它们是否值得你花费时间。
 
 ![What are Security Tokens?](https://blockgeeks.com/wp-content/uploads/2018/07/eye-Makeup-tutorial-1.png "What are Security Tokens?")
 
@@ -22,7 +22,7 @@
 
 ## 什么是 Token？
 
-确定 “[Token](https://blockgeeks.com/how-to-setup-an-ethereum-wallet-and-buy-a-custom-token-a-guide-for-coinbase-users/)” 的准确定义可能会有点复杂。这里给出一个非常广泛，但不通用的定义，Token 表示在其特定生态系统中的某样东西，它可以衡量价值、投注、投票或者做其他任何事情。一个 Token 不限于一个特定角色，它可以在其原生生态系统里发挥很多作用。
+确定 “[Token](https://blockgeeks.com/how-to-setup-an-ethereum-wallet-and-buy-a-custom-token-a-guide-for-coinbase-users/)” 的准确定义可能会有点复杂。这里给出一个非常广泛但不通用的定义：Token 表示在其特定生态系统中的某样东西，它可以衡量价值、股份、投票权或者做其他任何事物。一个 Token 不限于一个特定角色，它可以在其原生生态系统里发挥很多作用。
 
 然而，在我们继续深入之前，必须明确区分一个问题。[加密货币](http://crypto/)和 Token 之间的区别。
 
@@ -30,7 +30,7 @@
 
 但另一方面，像 [OmiseGO](https://blockgeeks.com/guides/what-is-omisego-the-plasma-protocol/) 和 Golem 这些存在于以太坊这种特定平台上的例子，我们称之为 Token。
 
-Token，代表一个公司所拥有的资产或实用功能，并通常在名为 [ICO](https://blockgeeks.com/guides/why-most-icos-will-fail/)（首次代币发行）的公开发售期间，公司会将它发放给投资者。
+Token，代表一个公司所拥有的资产或效用，并通常在名为 [ICO](https://blockgeeks.com/guides/why-most-icos-will-fail/)（首次代币发行）的公开发售期间，公司会将它发放给投资者。
 
 ## 什么是 ICO？
 
@@ -55,7 +55,7 @@ ICO（[首次代币发行](https://blockgeeks.com/guides/ico-basics/)）基本�
 
 在我们继续对 Token 进行分类之前，来看一下 Token 可以提供哪些功能从而获得价值。
 
-正如 William Mougayar 在他的 [Medium 文章](https://medium.com/@wmougayar/tokenomics-a-business-guide-to-token-usage-utility-and-value-b19242053416)里指出的那样，对于 Token 价值来说有三个原则，它们是：
+正如 William Mougayar 在他的 [Medium 文章](https://medium.com/@wmougayar/tokenomics-a-business-guide-to-token-usage-utility-and-value-b19242053416)里指出的那样，对于 Token 增值来说有三个原则，它们是：
 
 *   Role（角色）
 *   Features（功能）
@@ -85,7 +85,7 @@ Token 在项目本身的范围内创建了一个内部经济系统。Token 可�
 
 ### 功能
 
-Token 还可以使持有者能够在特定环境的范围内丰富用户体验。比如，在 Brave（一个网页浏览器）里，BAT（Brave 里使用的 Token）的持有者将有权使用他们的 Token 在 Brave 平台上添加广告或其他基于注意力的服务来丰富用户体验。 
+Token 还可以使持有者能够在特定环境的范围内丰富用户体验。比如，在 Brave（一个网页浏览器）里，BAT（Brave 里使用的 Token）的持有者将有权使用他们的 Token 在 Brave 平台上添加广告或其他基于注意力的服务来丰富用户体验。
 
 ### 货币
 
@@ -107,9 +107,9 @@ Token 还可以使持有者能够在特定环境的范围内丰富用户体验�
 
 1946年，最高法院处理了一个具有里程碑意义的案件。这个案件的双方是SEC（美国证券交易委员会）和 Howey，它为现在臭名昭著的 Howey 测试奠定了基础。这个案例是关于建立一个测试，以确定一个特定的安排是否涉及到投资合同。
 
-长话短说，两家位于佛罗里达的公司因为柑橘园的土地提供房地产合同而被控告。被告向买家提供了将其购买土地租回给被告的选择权，随后被告可利用土地进行收获、种植和销售柑橘。由于大多数买家不是农民且没有专业农业知识，他们都很乐意将土地租回给被告。
+长话短说，两家位于佛罗里达的公司由于为柑橘园的土地提供房地产合同而被控告。被告向买家提供了将其购买土地租回给被告的选择权，随后被告可利用土地进行收获、种植和销售柑橘。由于大多数买家不是农民且没有专业农业知识，他们都很乐意将土地租回给被告。
 
-但是，这种做法被美国证券交易委员会（SEC）视为非法行为，且立即起诉了被告。
+但是，这种做法被美国证券交易委员会（SEC）视为非法行为，并立即对其提起了诉讼。
 
 根据 SEC 的说法，被告因为没有提交证券登记声明而违反了法律。在调查被告的回租时，发现它确实属于证券的情况下，最高法院做出了一个真正具有里程碑意义的决定。
 
@@ -118,10 +118,10 @@ Token 还可以使持有者能够在特定环境的范围内丰富用户体验�
 如果符合下列条件，那么该项交易将被称为投资合同：
 
 *   这是一笔金钱投资
-*   投资共同企业
+*   投资合营企业
 *   投资者期望从发起人或第三方的工作中获利
 
-”共同企业“一词可以解释。然而，很多联邦法院将共同企业定义为横向企业，在这个企业中，投资者将他们的资金资产投入到一个项目里。
+”合营企业“一词可以解释。然而，很多联邦法院将合营企业定义为横向企业，在这个企业中，投资者将他们的资金资产投入到一个项目里。
 
 尽管最初的 Howey 测试使用了“金钱”这个词，但后来的案例将其范围扩大了，除金钱以外的其他投资和资产都包括在内。
 
@@ -137,11 +137,11 @@ Token 还可以使持有者能够在特定环境的范围内丰富用户体验�
 
 1990 年，最高法院制定了一项家庭相似性测试，合同创建者可以通过这项测试表明他们的合同和其他投资具有“家庭相似性”，从而不能将它们称为证券。
 
-某些州有他们自己的证券登记要求，有时我们会称之为“蓝天”法。
+某些州有他们自己的证券登记要求，有时我们会称之为“蓝天”法案。
 
 根据[维基百科](https://en.wikipedia.org/wiki/Blue_sky_law)资料显示，
 
-> **“1911 年，在其银行事务专员 Joseph Norman Dolley 的催促下，首部蓝天法在堪萨斯州颁布，并成为其他州的典范。1911 年至 1933 年间，47 个州通过了蓝天法（内华达州是唯一的反对者）。时至今日，50 个州中 40 个州的蓝天法是根据 1956 年的统一证券法案制定的。纵观历史，联邦证券法和蓝天法是互补的，且经常相互复制。”**
+> **“1911 年，在其银行事务专员 Joseph Norman Dolley 的催促下，蓝天法案首先在堪萨斯州颁布，并成为其他州的典范。1911 年至 1933 年间，47 个州通过了蓝天法（内华达州是唯一的反对者）。时至今日，50 个州中 40 个州的蓝天法案是根据 1956 年的统一证券法案制定的。纵观历史，联邦证券法和蓝天法案是互补的，且经常相互复制。”**
 
 ## DAO 和 SEC
 
@@ -163,7 +163,7 @@ Token 还可以使持有者能够在特定环境的范围内丰富用户体验�
 
 **DAO 开发者说：“不，不是的。这只是在销售 Token。”**
 
-**最终，SEC 说：“这是一种证券。” - 因为 Howey 测试的应用：有金钱的投资、共同的企业、期望并主要从其他人的努力中获利。**
+**最终，SEC 说：“这是一种证券。” - 因为 Howey 测试的应用：有金钱的投资、合营企业、期望并主要从其他人的努力中获利。**
 
 那么，为什么调查和裁决会首先完成呢？
 
@@ -193,10 +193,10 @@ Ripple（瑞波）的首席执行官 Brad Garlinghouse 说，
 
 SEC（美国证券交易委员会）和 FINMA（英国金融市场监管局）将 Token 分为两大类：
 
-*   Utility Tokens（实用型 Token）
-*   Security Tokens（证券型 Token）
+*   Utility Tokens（实用型代币）
+*   Security Tokens
 
-## Utility Tokens（功能型 Token）
+## Utility Tokens（实用型代币）
 
 由于大多数 ICO 都是公司自身的投资机会，所以大多数 Token 都符合证券的条件。但是，如果 Token 不符合 Howey 测试的要求，则将其分类为 Utility Tokens。这些 Token 只向用户提供产品或服务。可以把它们看作通道 Token。
 
@@ -207,7 +207,7 @@ SEC（美国证券交易委员会）和 FINMA（英国金融市场监管局）�
 
 由于 Token 可用性存在最大的上限，因此根据供需关系，Token 的价值可能会增加。
 
-## Security Tokens（证券型 Token）
+## Security Tokens
 
 终于，我们来到了 Security Tokens。
 
