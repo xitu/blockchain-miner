@@ -37,6 +37,9 @@
 
 ### 翻译文章
 
+* [什么是以太坊？以太坊初学者手把手教程](https://juejin.im/post/5ba850a36fb9a05d0b14369f) ([cdpath](https://github.com/cdpath) 翻译)
+* [2018 年 Security Token 发展现状及未来展望](https://juejin.im/post/5bab10c16fb9a05d2e1ba2ce) ([StellaBauhinia](https://github.com/StellaBauhinia) 翻译)
+* [ELI5：用简单的语言给小白解释什么是以太坊？](https://juejin.im/post/5bb070b16fb9a05ce02a8a26) ([mingxing47](https://github.com/mingxing47) 翻译)
 * [EthList：众包维护的以太坊阅读清单](https://juejin.im/post/5b9bd2f6f265da0af5030fed) ([StellaBauhinia](https://github.com/StellaBauhinia) 翻译)
 * [所有区块链译文>>](https://github.com/xitu/blockchain-miner/blob/master/blockchain.md)
 
@@ -44,4 +47,4 @@
 
 * [一文理解区块链共识机制的终结性](https://github.com/xitu/blockchain-miner/blob/master/article/0002/%E4%B8%80%E6%96%87%E7%90%86%E8%A7%A3%E5%8C%BA%E5%9D%97%E9%93%BE%E5%85%B1%E8%AF%86%E6%9C%BA%E5%88%B6%E7%9A%84%E7%BB%88%E7%BB%93%E6%80%A7.md)
 * [一文看懂区块链域名解析服务、热门项目 Handshake 和 ENS](https://github.com/xitu/blockchain-miner/blob/master/article/0002/%E4%B8%80%E6%96%87%E7%9C%8B%E6%87%82%E5%8C%BA%E5%9D%97%E9%93%BE%E5%9F%9F%E5%90%8D%E8%A7%A3%E6%9E%90%E6%9C%8D%E5%8A%A1%E7%83%AD%E9%97%A8%E9%A1%B9Handshake%E5%92%8CENS.md)
-* [所有区块链译文>>](https://github.com/xitu/blockchain-miner/blob/master/contribute.md)
+* [所有区块链投稿文章>>](https://github.com/xitu/blockchain-miner/blob/master/contribute.md)
