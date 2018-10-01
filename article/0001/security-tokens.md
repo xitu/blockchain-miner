@@ -2,226 +2,226 @@
 > * 原文作者：[blockgeeks.com](https://blockgeeks.com)
 > * 译文出自：[掘金翻译计划 — 区块链分舵](https://github.com/xitu/blockchain-miner)
 > * 本文永久链接：[https://github.com/xitu/blockchain-miner/tree/master/article/0001/security-tokens.md](https://github.com/xitu/blockchain-miner/tree/master/article/0001/security-tokens.md)
-> * 译者：
-> * 校对者：
+> * 译者：[llp0574](https://github.com/llp0574)
+> * 校对者：[faintz](https://github.com/faintz)
 
-# What are Security Tokens?
+# 什么是 Security Tokens？
 
-Go on [YouTube](https://www.youtube.com/channel/UCd8CDrm6rvwBZc6g7BYAkfQ) right now and search for Security Tokens.
+要是你现在访问 [YouTube](https://www.youtube.com/channel/UCd8CDrm6rvwBZc6g7BYAkfQ) 并搜索 Security Tokens（证券型代币，下文对该词语不再进行翻译）。
 
-You will probably get results like:
+可能会得到如下结果：
 
-*   _Why are Security Tokens the future?_
-*   _Are Security Tokens the next big thing?_
+*   **为什么 Security Tokens 是未来？**
+*   **Security Tokens 会是下一个重大事件吗？**
 
-So, it seems like there is a lot of hype behind security tokens nowadays. In this guide, we are going to learn everything about security tokens and see if they are worth your time or not.![What are Security Tokens?](data:image/gif;base64,R0lGODdhAQABAPAAAP///wAAACwAAAAAAQABAEACAkQBADs= "What are Security Tokens?")
+所以，如今看来 Security Tokens 的背后似乎有许多炒作。在这篇指南里，我们将学习有关 Security Tokens 的所有内容，并看看它们是否值得你花费时间。
 
 ![What are Security Tokens?](https://blockgeeks.com/wp-content/uploads/2018/07/eye-Makeup-tutorial-1.png "What are Security Tokens?")
 
-However, as always, let’s start with the basics first.
+但是，和往常一样，我们先从基础开始。
 
-## What are Tokens?
+## 什么是 Token？
 
-It can be a little complicated to pinpoint on an exact definition of a “[token](https://blockgeeks.com/how-to-setup-an-ethereum-wallet-and-buy-a-custom-token-a-guide-for-coinbase-users/)”. To give you a very wide, non-generalized definition, a token is a representation of something in its particular ecosystem. It could value, stake, voting right, or anything. A token is not limited to one particular role; it can fulfill a lot of roles in its native ecosystem.
+确定 “[Token](https://blockgeeks.com/how-to-setup-an-ethereum-wallet-and-buy-a-custom-token-a-guide-for-coinbase-users/)” 的准确定义可能会有点复杂。这里给出一个非常广泛但不通用的定义：Token 表示在其特定生态系统中的某样东西，它可以衡量价值、股份、投票权或者做其他任何事物。一个 Token 不限于一个特定角色，它可以在其原生生态系统里发挥很多作用。
 
-Before we go any further, however, we must make one more difference clear. The difference between a [cryptocurrency](http://crypto) coin and a token.
+然而，在我们继续深入之前，必须明确区分一个问题。[加密货币](http://crypto)和 Token 之间的区别。
 
-A cryptocurrency coin, like [Bitcoin](https://blockgeeks.com/guides/what-is-bitcoin-cash/), Bitcoin Cash, [Ethereum](https://blockgeeks.com/guides/ethereum-token/) etc. can be is independent of a platform. They can be used as a form of currency outside their native environment. Basically, these are the “[cryptocurrencies](https://blockgeeks.com/guides/cryptocurrency-wallet-guide/)” that we are all familiar with.
+加密货币，比如[比特币](https://blockgeeks.com/guides/what-is-bitcoin-cash/)、比特币现金、[以太坊](https://blockgeeks.com/guides/ethereum-token/)等，它们可以独立于平台，可以在其原生环境之外用作一种货币形式。基本上，这些才是我们都熟悉的“[加密货币](https://blockgeeks.com/guides/cryptocurrency-wallet-guide/)”。
 
-However, on the other hand, [OmiseGO](https://blockgeeks.com/guides/what-is-omisego-the-plasma-protocol/), Golem etc. are examples of tokens which exist on a particular platform, in this case, Ethereum.
+但另一方面，像 [OmiseGO](https://blockgeeks.com/guides/what-is-omisego-the-plasma-protocol/) 和 Golem 这些存在于以太坊这种特定平台上的例子，我们称之为 Token。
 
-A token, represent an asset or utility that a company has and they usually give it away to their investors during a public sale called [ICO](https://blockgeeks.com/guides/why-most-icos-will-fail/) (Initial Coin Offering).’
+Token，代表一个公司所拥有的资产或效用，并通常在名为 [ICO](https://blockgeeks.com/guides/why-most-icos-will-fail/)（首次代币发行）的公开发售期间，公司会将它发放给投资者。
 
-## What Are ICOs?
+## 什么是 ICO？
 
-ICOs or [Initial Coin Offerings](https://blockgeeks.com/guides/ico-basics/) are basically crowd sales, the cryptocurrency version of crowdfunding. The ICOs have been truly revolutionary and have managed to accomplish amazing tasks:
+ICO（[首次代币发行](https://blockgeeks.com/guides/ico-basics/)）基本上算是加密货币版本的众筹。ICO 是真正具有革命性的举措，并且已经达到了惊人的效果：
 
-*   They have provided the simplest path by which DAPP developers can get the required funding for their project.
-*   Anyone can become invested in a project they are interested in by purchasing the tokens of that particular DAPP and become a part of the project themselves. (We are talking about Work Tokens here).
+*   它们为 DAPP 开发者提供了最简单的途径，去为他们的项目募集需要的资金。
+*   任何人都可以通过购买特定 DAPP 的 Token 来投资他们感兴趣的项目，并让他们自己成为项目的一部分。（这里我们说的是 Work Tokens）。
 
-### So, how does an ICO work?
+### 所以，ICO 是如何运作的呢？
 
-Firstly, the developer issues a limited amount of tokens. By keeping a limited amount of tokens they are ensuring that the tokens itself have a value and the ICO has a goal to aim for. The tokens can either have a static pre-determined price or it may increase or decrease depending on how the crowd sale is going.
+首先，开发者发布有限数量的 Token。通过保持 Token 数量有限，确保其本身具有价值，并使 ICO 拥有一个可达成的目标。Token 可以有一个预定的静态价格，也可以取决于众筹情况增加或减少价格。
 
-The transaction is a pretty simple one. If someone wants to buy the tokens they send a particular amount of ether to the crowd-sale address. When the contract acknowledges that this transaction is done, they receive their corresponding amount of tokens. Since everything on Ethereum is decentralized, an ICO is considered a success if it is properly well-distributed and a majority of its chunk is not owned by one entity.
+交易则是非常简单的一个环节。如果有人想买这些 Token，只需要往众筹地址发送指定数量的以太币。当（智能）合约检测到这笔交易完成的时候，他们就会收到相应数量的 Token。由于以太坊上的所有内容都是去中心化的，因此一个 ICO 的持币地址能很好地分布且不被一个实体地址大量持有 Token 的话，则可以认为这个 ICO 是成功的。
 
 ![What are Security Tokens](https://blockgeeks.com/wp-content/uploads/2018/07/image1-4.png)
 
-The recently concluded [EOS ICO](https://blockgeeks.com/guides/eos-beginners-guide-part-1/) which raised a whopping 4 billion dollars in a year is till date the biggest ICO ever.
+最近结束的 [EOS ICO](https://blockgeeks.com/guides/eos-beginners-guide-part-1/) 在一年时间里募集了高达40亿美元的金额，这是迄今为止最大的 ICO。
 
-Also, as TechCrunch [points out](https://techcrunch.com/2018/03/04/icos-delivered-at-least-3-5x-more-capital-to-blockchain-startups-than-vc-since-2017/), ICOs delivered at least 3.5x more capital to blockchain startups than Venture Capitals since 2017
+此外，正如 TechCrunch [指出](https://techcrunch.com/2018/03/04/icos-delivered-at-least-3-5x-more-capital-to-blockchain-startups-than-vc-since-2017/)的那样，自 2017 年以来，ICO 向初创公司提供的资金至少比 Venture Capitals 多 3.5 倍。
 
-## How Does a Token Gain Value?
+## Token 如何获得价值？
 
-So, before we continue and classify our tokens, let’s look at what functions a token can serve in order to gain value.
+在我们继续对 Token 进行分类之前，来看一下 Token 可以提供哪些功能从而获得价值。
 
-As William Mougayar points out in [his Medium article](https://medium.com/@wmougayar/tokenomics-a-business-guide-to-token-usage-utility-and-value-b19242053416), there are three tenets to token value and they are:
+正如 William Mougayar 在他的 [Medium 文章](https://medium.com/@wmougayar/tokenomics-a-business-guide-to-token-usage-utility-and-value-b19242053416)里指出的那样，对于 Token 增值来说有三个原则，它们是：
 
-*   Role.
-*   Features.
-*   Purpose.
+*   Role（角色）
+*   Features（功能）
+*   Purpose（目的）
 
-These three are locked up in a triangle and they look like this:
+这三个原则可以组成一个三角关系，如下所示：
 
 ![](https://blockgeeks.com/wp-content/uploads/2018/07/image3-2.png)
 
-Each token role has its own set of features and purpose which are detailed in the following table:
+每个 Token 角色都有其自身的功能和目的，详见下表：
 
 ![What are Security Tokens?](https://blockgeeks.com/wp-content/uploads/2018/07/image2-4.png)
 
-Let’s examine each of the roles that a token can take up:
+让我们来看一下 Token 可以扮演的角色：
 
-### Right
+### 权利
 
-By taking possession of a particular token, the holder gets a certain amount of rights within the ecosystem. Eg. by having [DAO](https://blockgeeks.com/guides/intro-to-makerdao-stablecoins-part-1/) coins in your possession, you could have had voting rights inside the DAO to decide which projects get funding and which don’t.
+通过持有特定 Token，持有者在其生态系统里可以获得一定数量的权利。比如，通过持有 [DAO](https://blockgeeks.com/guides/intro-to-makerdao-stablecoins-part-1/) 币，就可以在 DAO 内部享有投票权，从而投票决定哪些项目可以获得资金，哪些不行。
 
-### Value Exchange
+### 价值交换
 
-The tokens create an internal economic system within the confines of the project itself. The tokens can help the buyers and sellers trade value within the ecosystem. This helps people gain rewards upon completion of particular tasks. This creation and maintenance of individual, internal economies are one of the most important tasks of Tokens.
+Token 在项目本身的范围内创建了一个内部经济系统。Token 可以帮助买卖双方在生态系统里进行价值交易。这还有助于人们在完成特定任务后获得奖励。这种内部经济的创造和个体维护都是 Token 最重要的任务之一。
 
-### Toll
+### 收费
 
-It can also act as a toll gateway in order for you to use certain functionalities of a particular system. Eg. in Golem, you need to have GNT (golem tokens) to gain access to the benefits of the Golem supercomputer.
+它还可以充当收费通道，以便你使用特定系统的某些功能。比如，在 Golem 里，你需要拥有 GNT（Golem Token）来从 Golem 超级计算机获益。
 
-### Function
+### 功能
 
-The token can also enable the holders to enrich the user experience inside the confines of the particular environment. Eg. In Brave (a web browser), holders of BAT (tokens used in Brave) will get the rights to enrich customer experience by using their tokens to add advertisements or other attention based services on the Brave platform.
+Token 还可以使持有者能够在特定环境的范围内丰富用户体验。比如，在 Brave（一个网页浏览器）里，BAT（Brave 里使用的 Token）的持有者将有权使用他们的 Token 在 Brave 平台上添加广告或其他基于注意力的服务来丰富用户体验。
 
-### Currency
+### 货币
 
-Can be used as a store of value which can be used to conduct transactions both inside and outside the given ecosystem.
+可以用作价值存储，可在给定的生态系统内外进行交易。
 
-### Earnings
+### 收益
 
-Helps in the equitable distribution of profits or other related financial benefits among investors in a particular project.
+帮助特定项目的投资者公平分配利润或其他相关的经济利益。
 
-So, how does this all help in token valuation?
+那么，所有这些角色对衡量 Token 的价值有什么帮助呢？
 
-In order to become more valuable, a token must fulfill more than one of these properties. In fact, more properties that a token can have, higher its valuation
+为了变得更加有价值，Token 必须满足上述多个属性。事实上，一个 Token 拥有越多属性，其价值就会越高。
 
-Alright, so now we know what a token is, how a company distributes token and where a token can gain value from.
+好了，到现在我们已经知道什么是 Token，公司如何分配 Token 以及 Token 从哪里获得价值。
 
-Before we go any further, it is important to know what the Howey test is.
+在我们进一步深入之前，知道什么是 Howey 测试非常重要。
 
-## The Howey Test
+## Howey 测试
 
-In 1946, the Supreme Court handled a monumental case. The case was SEC vs Howey which would lay down the foundation for the, now infamous Howey Test. The case was about establishing a test of whether a particular arrangement involves an investment contract or not.
+1946 年，最高法院处理了一个具有里程碑意义的案件。这个案件的双方是SEC（美国证券交易委员会）和 Howey，它为现在臭名昭著的 Howey 测试奠定了基础。这个案例是关于建立一个测试，以确定一个特定的安排是否涉及到投资合同。
 
-To keep a long story short, two Florida-based corporate defendants offered real estate contracts for tracts of land with citrus groves. The defendants offered buyers the option of leasing any purchased land back to the defendants, who would then tend to the land, and harvest, pool, and market the citrus. As most of the buyers were not farmers and did not have the agricultural expertise, they were happy to lease the land back to the defendants.
+长话短说，两家位于佛罗里达的公司由于为柑橘园的土地提供房地产合同而被控告。被告向买家提供了将其购买土地租回给被告的选择权，随后被告可利用土地进行收获、种植和销售柑橘。由于大多数买家不是农民且没有专业农业知识，他们都很乐意将土地租回给被告。
 
-However, this was deemed illegal by the U.S. Securities and Exchange Commission (SEC) and the defendants were promptly sued.
+但是，这种做法被美国证券交易委员会（SEC）视为非法行为，并立即对其提起了诉讼。
 
-According to the SEC, the defendants broke the law by not filing a securities registration statement. Upon investigating the defendant’s leaseback and finding that it was indeed a security, the Supreme Court made a true landmark decision.
+根据 SEC 的说法，被告因为没有提交证券登记声明而违反了法律。在调查被告的回租时，发现它确实属于证券的情况下，最高法院做出了一个真正具有里程碑意义的决定。
 
-They developed a test which will be used to determine whether a certain transaction is an investment contract or not. If it is, then it will be subject to securities registration requirement.
+他们制定了一项测试，用于确定某项交易是否属于投资合同。如果是，那么它将被要求接受证券登记。
 
-The said transaction will be called an investment contract if it fulfills the following criteria:
+如果符合下列条件，那么该项交易将被称为投资合同：
 
-*   It is an investment of money
-*   The investment is in a common enterprise
-*   There is an expectation of profit from the work of the promoters or the third party.
+*   这是一笔金钱投资
+*   投资合营企业
+*   投资者期望从发起人或第三方的工作中获利
 
-The term “common enterprise” is open to interpretation. However, many federal courts have defined a common enterprise as a horizontal enterprise where the investors pool in their money and assets to invest in a project.
+“合营企业”一词可以解释。然而，很多联邦法院将合营企业定义为横向企业，在这个企业中，投资者将他们的资金资产投入到一个项目里。
 
-Even though the original Howey Tests used the term “money”, later cases expanded that to include other investments and assets other than money.
+尽管最初的 Howey 测试使用了“金钱”这个词，但后来的案例将其范围扩大了，除金钱以外的其他投资和资产都包括在内。
 
-Plus, there is another important thing to consider while determining securities. The profits that come from the investment, is it in the investor’s control or is it completely out of it? If it is not in the investor’s control, then the asset has usually declared a security.
+另外，在确定证券时还要考虑另一个重要事项。来自投资的利益，是否受投资者控制或者与投资者完全无关？如果它不在投资者控制范围内的话，那么这个资产通常都会被声明为证券。
 
-So, how is this relevant for ICO and tokens? If the token meets all the three aforementioned criteria, then it is regarded as a security.
+那么，这与 ICO 和 Token 又有什么关系呢？如果 Token 满足上述三个标准，那么它将被视为一种证券。
 
-All these three elements have to be met for a coin to classify as security.
+必须同时满足这三个元素才可以将币归类为证券。
 
-## Other Alternative Tests
+## 其他替代测试
 
-Turns out that the Howey Test is not the only test that courts can use to find out whether a given investment is a security or not.
+事实上，Howey 测试并非法院用来判断一项给定投资是否证券的唯一测试标准。
 
-In 1990, the Supreme Court developed a family resemblance test which provided a way for contract creators to show that their contract has a “family resemblance” to other investments and hence cannot be called securities.
+1990 年，最高法院制定了一项家庭相似性测试，合同创建者可以通过这项测试表明他们的合同和其他投资具有“家庭相似性”，从而不能将它们称为证券。
 
-Certain states have their own securities registration requirements which are sometimes called “Blue Sky” laws.
+某些州有他们自己的证券登记要求，有时我们会称之为“蓝天”法案。
 
-According to [Wikipedia](https://en.wikipedia.org/wiki/Blue_sky_law),
+根据[维基百科](https://en.wikipedia.org/wiki/Blue_sky_law)资料显示，
 
-> **“The first blue sky law was enacted in Kansas in 1911 at the urging of its banking commissioner, Joseph Norman Dolley, and served as a model for similar statutes in other states. Between 1911 and 1933, 47 states adopted blue-sky statutes (Nevada was the lone holdout). Today, the blue sky laws of 40 of the 50 states are patterned after the Uniform Securities Act of 1956. Historically, the federal securities laws and the state blue sky laws complemented and often duplicated one another.”**
+> **“1911 年，在其银行事务专员 Joseph Norman Dolley 的催促下，蓝天法案首先在堪萨斯州颁布，并成为其他州的典范。1911 年至 1933 年间，47 个州通过了蓝天法（内华达州是唯一的反对者）。时至今日，50 个州中 40 个州的蓝天法案是根据 1956 年的统一证券法案制定的。纵观历史，联邦证券法和蓝天法案是互补的，且经常相互复制。”**
 
-## The DAO and SEC
+## DAO 和 SEC
 
-The Howey Test and securities have become a source of intense debate in the crypto-community after the DAO tokens failed to pass the Howey Test and were deemed securities by the SEC.
+在 DAO Token 未能通过 Howey 测试并被 SEC 判定为证券后，Howey 测试和证券已成为加密社区激烈争辩的根源。
 
-This [article](https://www.coindesk.com/simplest-way-understand-dao-security/) by Ash Bennington for Coindesk, breaks down why the Dao was deemed a security in the form of a tale:
+由 Ash Bennington 为 Coindesk 写的这篇[文章](https://www.coindesk.com/simplest-way-understand-dao-security/)，以故事形式分析了为什么 DAO 会被判定为证券：
 
-_**“**Not so long ago, a group of developers started a DAO._
+**“不久前，一群开发者开始开发 DAO。**
 
-_The DAO developers said:_
+**DAO 的开发者说：**
 
-> _“**There are all these decentralized projects and there’s no way for them to get funding – because they need money to make money.”**_
+> **“有许多去中心化项目没有途径去获得资金，因为他们需要钱来生钱。”**
 
-_Tell you what. We’re going to write code and sell a token and, in exchange, people who buy the token will get whatever profits are made from those projects._
+**告诉你吧，我们将编写代码并出售 Token，作为交换，购买 Token 的人将从那些项目中获得一些利润（不一定是金钱）。**
 
-_We’ll work the code. They’ll pick the projects. The projects will flourish and everyone will profit._
+**我们将运行代码，他们将选择项目。这些项目将不断发展，所有人都会获利。**
 
-_The SEC said: “That’s a security.”_
+**SEC 说：“这是一种证券。”**
 
-_The DAO developers said: “No, no. That’s just selling tokens.”_
+**DAO 开发者说：“不，不是的。这只是在销售 Token。”**
 
-_Ultimately, the SEC said: “That’s a security” – because of the application of the Howey Test: There was an investment of money. And a common enterprise. With the expectation of profit, primarily from the efforts of others.”_
+**最终，SEC 说：“这是一种证券。” — 因为 Howey 测试的应用：有金钱的投资、合营企业、期望并主要从其他人的努力中获利。**
 
-So, why was this investigation and ruling done in the first place?
+那么，为什么调查和裁决会首先完成呢？
 
-Well, it was because of the infamous DAO hack. We have covered this in detail before, but just to give you an [overview](https://blockgeeks.com/guides/what-is-ethereum-classic/):
+这其实是因为恶名远扬的 DAO 漏洞事件。我们之前已经详细介绍这件事，但这里还是给出一个[概述](https://blockgeeks.com/guides/what-is-ethereum-classic/)：
 
-*   There was a flaw in the Dao smart contract
-*   The hacker exploited that flaw to execute a re-entrancy attack.
-*   Over $!50 million worth of ether was siphoned away.
+*   在 DAO 的智能合约里有一个漏洞。
+*   黑客利用那个漏洞进行了一次重入攻击。
+*   价值超过 5000 万美元的以太坊被转走。
 
-Because a lot of people invested and got back nothing in return, the SEC intervened to “protect” the interest of the investors and deemed the tokens a security.
+由于许多人进行了投资，却没有得到任何回报，因此 SEC 介入来保护投资者利益，并将这些 Token 视为证券的一种。
 
-As SEC CEO Jay Clayton [puts it](https://www.sec.gov/news/press-release/2017-131), “The SEC is studying the effects of the distributed ledger and other innovative technologies and encourages market participants to engage with us. We seek to foster innovative and beneficial ways to raise capital, while ensuring – first and foremost – that investors and our markets are protected.”
+正如 SEC 的首席执行官 Jay Clayton [所说](https://www.sec.gov/news/press-release/2017-131)，“SEC 正在研究分布式账本和其他创新技术（对金融方面）的影响，并鼓励市场参与者与我们合作。我们寻求培养创新且有益的资金募集方式，同时首先确保投资者和我们的市场得到保护。”
 
-This decision was met with mixed reception in the Crypto community:
+这个决定在加密社区受到了不同程度的欢迎：
 
-Brad Garlinghouse, Ripple Ceo, said,
+Ripple（瑞波）的首席执行官 Brad Garlinghouse 说，
 
-> ** “Regulators aren’t going away – and shouldn’t. For generations, they have protected from fraud (some is happening w/ the ICO market).”**
+> **“监管机构不会消失，也不应该消失。他们已经保护了几代人不被欺诈（有些欺诈正在 ICO 市场发生）。”**
 
-Roger Ver, Bitcoin.com founder, however, disagreed with the decision,
+然而，Bitcoin.com 的创始人 Roger Ver 不同意这一决定，
 
-> “**Call this what it is: A bunch of strangers in a far-off land threatening peaceful people all over the world with violence if they don’t obey.**”
+> “**事实是：一群陌生人在遥远的土地上威胁世界各地的和平人民，如果他们不服从的话，他们将使用暴力。**”
 
-Ok, so till now we know what tokens are and what the Howey Testis. So, now let’s get into the two major classifications of tokens.
+目前为止，我们知道了什么是 Token，什么是 Howey 测试。接着我们来了解一下 Token 的两个主要分类。
 
-## Types of Tokens
+## Token 的种类
 
-The SEC and FINMA have broken down tokens into two broad categories:
+SEC（美国证券交易委员会）和 FINMA（英国金融市场监管局）将 Token 分为两大类：
 
-*   Utility Tokens
+*   Utility Tokens（实用型代币）
 *   Security Tokens
 
-## Utility Tokens
+## Utility Tokens（实用型代币）
 
-Because most of the ICOs are investment opportunities in the company itself, most tokens qualify as securities. However, if the token doesn’t qualify according to the Howey test, then it classifies as utility tokens. These tokens simply provide users with a product and/or service. Think of them like gateway tokens.
+由于大多数 ICO 都是公司自身的投资机会，所以大多数 Token 都符合证券的条件。但是，如果 Token 不符合 Howey 测试的要求，则将其分类为 Utility Tokens。这些 Token 只向用户提供产品或服务。可以把它们看作通道 Token。
 
-As Jeremy Epstein, the CEO of Never Stop Marketing, explains, Utility tokens can:
+正如 Never Stop Marketing 的首席执行官 Jeremy Epstein 解释的那样，Utility Tokens 可以：
 
-*   Give holders a right to use the network
-*   Give holders a right to take advantage of the network by voting
+*   给予持有者使用网络的权利
+*   给予持有者投票（如何）利用网络的权利
 
-Since there is an upper cap on the maximum token availability, the value of the tokens may go up because of the supply-demand equation.
+由于 Token 可用性存在最大的上限，因此根据供需关系，Token 的价值可能会增加。
 
 ## Security Tokens
 
-Finally, we come to security tokens.
+终于，我们来到了 Security Tokens。
 
-So what exactly are they?
+那么它们到底是什么呢？
 
-A crypto token that passes the Howey Test is deemed a security token. These usually derive their value from an external, tradable asset. Because the tokens are deemed a security, they are subject to federal securities and regulations. If the ICO doesn’t follow the regulations, then they could be subject to penalties.
+通过 Howey 测试的加密 Token 被视为 Security Token。它们的价值通常来自于外部的可交易资产。由于这些 Token 被视为一种证券，它们就必须服从联邦证券和一些法规。如果 ICO 不符合这些法规，就可能会受到处罚。
 
-However, if all the regulations are properly met, then these tokens have immensely powerful use-cases.
+但是，如果所有这些规定都得到恰当的满足，那么这些 Token 就具有非常强大的用例场景。
 
-## What Regulations Are Security Tokens Subjected to?
+## Security Tokens 要遵守哪些法规？
 
-Anthony Pompliano does an admirable job of explaining the kind of regulations that security tokens will be subjected to in [this article.](https://medium.com/@apompliano/the-official-guide-to-tokenized-securities-44e8342bb24f)
+Anthony Pompliano 做了一项令人钦佩的工作，在[这篇文章](https://medium.com/@apompliano/the-official-guide-to-tokenized-securities-44e8342bb24f)里解释了 Security Tokens 将受到何种监管。
 
-According to him, because Security Tokens are subject to federal security regulations, they are compliant from the first day itself. So, in USA, security tokens need to follow these regulations:
+根据他的说法，由于 Security Tokens 受联邦安全法规的约束，因此它们从第一天开始就符合要求。所以，在美国，Security Tokens 需要遵守以下法规：
 
 *   Regulation D
 *   Regulation A+
@@ -229,87 +229,87 @@ According to him, because Security Tokens are subject to federal security regula
 
 ### Regulation D
 
-Regulation D will allow a particular offering to avoid being registered by the SEC provided “Form D” has been filled by the creators after the securities have been sold. The individual who is offering this security may solicit offerings from investors in compliance with Section 506C.
+Regulation D 将允许特定产品发行，以避免被 SEC 注册，前提是发行方在证券出售后填写了“表格 D”。提供该证券的个体可以按照 506C 条的规定向投资者征求募集意见。
 
-So what does Section 506C require?
+那么 506C 条规定要求些什么？
 
-It requires a verification that the investors are indeed accredited and the information which has been providing during the solicitation is “free from false or misleading statements.
+它要求确认投资者确实是经过认证的，并在招标过程中提供的信息没有虚假或误导性陈述。
 
 ### Regulation A+
 
-This exemption will allow the creator to offer SEC-approved security to non-accredited investors through a general solicitation for up to $50 million in investment.
+这一法规将允许发行方向非认证投资者提供 SEC 批准的证券，并通过一般的募集手段获得最多 5000 万美元的投资。
 
-In order for the requirement to register the security, the issuance of Regulation A+ can take a lot more time compared to other options. For the same reason, Regulation A+ issuance will be more expensive than any other option.
+与其他选项相比，由于注册证券的要求，符合 Regulation A+ 的发行可能需要更多时间。出于同样的原因，符合 Regulation A+ 的发行也将比其他选项更贵一些。
 
 ### Regulation S
 
-This happens when a security offering is executed in a country apart from the US and is therefore not subjected to the registration requirement under section 5 of the 1993 Act. The creators are still required to follow the security regulations of the country where they are supposed to be executed.
+当在美国以外的国家进行证券发行，从而不受 1993 年法案第 5 条规定的注册条件约束时，就会发生这种情况。但发行方仍然必须遵守发行国家的证券法规。
 
-**NOTE:** _As Anthony Pompliano notes in his article, the above summaries are merely his interpretation. They should not be construed as legal or investment advice and you should consult a lawyer for any and all questions you have._
+**注意：正如 Anthony Pompliano 在他文章里指出的那样，上述摘要仅仅是他的解释，它们不应该被视为法律或投资建议，有任何相关问题都应该咨询律师。**
 
-## Why are Security Tokens Important?
+## 为什么 Security Tokens 这么重要？
 
-Since the assets which are represented by the security tokens already exist in the “real world”, they act like a bridge between legacy finance and the blockchain world. So what are the exact changes that security tokens are bringing along with them?
+由于 Security Tokens 所代表的资产已经存在于“现实世界”里，它们就像传统金融和区块链世界之间的桥梁。那么 Security Tokens 带来的确切变化是什么呢？
 
-### #1 Bringing Credibility Back
+### #1 重塑信任
 
-As of right now, the ICO space is a little dicey, to say the least. There is a real deficit of accountability in the space because of a lack of regulation for utility tokens. In order for the ICO space to regain some credibility, it should make sense to somehow amalgamate the crypto space and the legacy finance space together.
+就目前而言，至少可以说，ICO 这个领域还有点冒险。由于缺乏对 Utility Tokens 的监管，这一领域存在真正的责任缺失。为了让 ICO 领域重新获得一定可信度，以某种方式融合传统金融和加密领域是很有意义的。
 
-### #2 Improving Traditional Finance
+### #2 改善传统金融
 
-Traditional financial transactions can be a little expensive because of all the fees associated with the middlemen like bankers. Security tokens remove the need for middlemen which reduces fees. In the future, smart contracts may reduce the complexity, costs, and paper works.
+传统的金融交易可能会比较昂贵，因为所有的费用都与中间人有关，比如银行家。Security Tokens 消除了对中间人的需求，从而降低了费用。未来，智能合约还可以降低复杂性、成本和纸面工作。
 
-### #3 Speeding up Execution
+### #3 加快执行速度
 
-Traditional finance institutions have a lot of middlemen involved which simply increases the execution time. By removing these middlemen, securities allow for faster execution time for successful issuance of security tokens. Because of this increased speed, the security tokens are bound to become attractive investments.
+传统金融机构涉及很多中间人角色，这只会增加执行时间。通过消除这些中间人，证券可以用更短的执行时间来发行 Security Tokens。由于这一环节速度的加快，Security Tokens 必将成为具有吸引力的投资。
 
-### #4 Exposure to Free Market
+### #4 开放给自由市场
 
-Investment transactions today are extremely localized.
+今天的投资交易非常本地化。
 
-What do we mean by that?
+这句话什么意思？
 
-Chinese investors find it extremely hard to invest in private US companies and vice-versa. So, how are security tokens going to help here?
+中国投资者发现投资美国私有企业非常困难，反之亦然。那么，Security Tokens 在这里会起什么作用呢？
 
-Well, by using security tokens, creators can market their deals to anyone on the internet. This exposure to free market helps in increasing asset valuation. Also, this increased exposure leads to….
+通过使用 Security Tokens，发行方可以在互联网上向任何人推销他们的产品。这种开放给自由市场的属性有助于提高资产价值。此外，这种增加的开放度还会导致...
 
-### #5 Huge Number of Investors
+### #5 庞大的投资者数量
 
-Since creators can now present their deals to anyone on the internet, the investor base increases exponentially.
+由于发行方现在可以在互联网上向任何人展示他们的产品，因此投资者群体呈指数级增长。
 
-This is another huge incentive for creators.
+这是对发行方另一个巨大的激励。
 
-### #6 Reducing Lawyer Service
+### #6 减少律师服务
 
-In the future, there security token projects will use [smart contracts](https://blockgeeks.com/guides/different-smart-contract-platforms/) which will automate service provider functions through software. These functions are currently provided by players such as lawyers which add on to the potential middlemen involved in the project.
+未来，这些 Security Tokens 项目将使用[智能合约](https://blockgeeks.com/guides/different-smart-contract-platforms/)，通过软件实现服务提供商功能的自动化。这些功能目前是由律师等参与者提供的，他们增加了参与项目的潜在中间人数量。
 
-### #7 Lack of Institution Manipulation
+### #7 没有机构的操纵
 
-Because the number of middlemen decreases the drastically, the chances of corruption and manipulation by financial institutions decrease drastically and may even be removed from the investment process.
+由于中间人的数量大幅减少，金融机构腐败和操纵的可能性也大幅下降，甚至可能从投资过程中消除。
 
-### #8 Easier Liquidation
+### #8 更容易清算
 
-Secondary trading on security tokens will be made simple through licensed security token trading platforms and it will be extremely easy for investors to liquidate security tokens.
+通过许可的 Security Tokens 交易平台使 Security Tokens 的二级市场交易变得更加简单。投资者也更容易对 Security Tokens 进行清算。
 
-Having said that, not everything is sunshine and rainbows, there are some disadvantages of security tokens.
+话虽如此，但并非一切都是阳光彩虹，Security Tokens 也有一些缺点。
 
-## Do Security Tokens have a Weakness?
+## Security Tokens 有缺点吗？
 
-The removal of the middlemen is usually seen as a huge advantage. However, you can’t have your cake and eat it as well. There are some disadvantages which will invariably come along with security tokens. Removal of middlemen leads to the shifting of responsibilities onto the buyer or the seller in the transaction.
+消除中间人通常会被视为一个巨大的优势。然而，鱼与熊掌不可得兼。有一些缺点总是会伴随 Security Tokens 一起出现。中间人的消除导致交易中的责任转移到了买卖双方。
 
-These middlemen i.e. financial institutions serve a lot of important functions in the ecosystem such deal underwriting, preparation of marketing materials, solicitation of investor interest, insurance of high levels of security, and compliance regulation.
+这些中间人，即金融机构，在生态系统中提供很多重要功能，比如交易承销、准备营销材料、投资者兴趣征求、高安全等级的保险以及合规监管。
 
-Many critics feel that the creators won’t be able to successfully execute these functions without traditional financial institutions. We need to wait and watch if these fears have any basis or not.
+许多批评人士认为，如果没有传统的金融机构，发行方将无法成功执行这些功能。我们需要等待和观察这些担忧是否有任何根据。
 
-### Conclusion
+### 结论
 
-The crypto community breath a sigh of relief when SEC has ruled [Bitcoin](https://blockgeeks.com/guides/best-bitcoin-script-guide/) and Ethereum to not be securities. As of right now, security tokens has a far less share of the market as compared to utility tokens, however, security tokens are something which can become huge in 2018 and needs to be embraced by everyone soon. It is believed that tons of capital is going to flow from Wall Street to security tokens instead of utility tokens.
+当 SEC 裁定[比特币](https://blockgeeks.com/guides/best-bitcoin-script-guide/)和以太坊不是证券时，加密社区松了一口气。目前为止，和 Utility Tokens 相比，Security Tokens 占有的市场份额要小得多，但是，Security Tokens 在 2018 年可能会变得巨大，并且很快被所有人接受。人们相信，大量的资本将从华尔街流向 Security Tokens，而不是 Utility Tokens。
 
-This shift is happening because security tokens are considered to be safer because of the strict regulations.
+之所以发生这种转变，是因为严格的法规使得人们认为 Security Tokens 更安全。
 
-SPICE Venture Capital founder Carlos Domingo [expertly summarized](http://thehill.com/opinion/technology/377592-security-tokens-could-be-the-next-big-thing-in-cryptoassets) his thoughts of the potential size of the security token market:
+SPICE Venture Capital 创始人 Carlos Domingo [专业地总结](http://thehill.com/opinion/technology/377592-security-tokens-could-be-the-next-big-thing-in-cryptoassets)了他对 Security Tokens 市场潜在规模的看法：
 
-> **“It’s inevitable that security tokens will transform equity just as bitcoin has transformed currency, because they afford the owner a direct, liquid economic interest and the expedited delivery of proceeds. Every type of ownership can be tokenized, which is a massive multi-trillion dollar addressable market.”**
+> **“不可避免的是，Security Tokens 会像比特币那样改变货币，因为它们为所有者提供了直接、流动的经济利益和快速的收益交付。每一种所有权都可以标记，这是一个巨大的数万亿美元的潜在市场。”**
 
 > 如果发现译文存在错误或其他需要改进的地方，欢迎到 [掘金翻译计划 — 区块链分舵](https://github.com/xitu/blockchain-miner) 对译文进行修改并 PR，也可获得相应奖励积分。文章开头的 **本文永久链接** 即为本文在 GitHub 上的 MarkDown 链接。
 
