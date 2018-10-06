@@ -47,7 +47,7 @@ _注：这是一个定期更新的行业知名人物（组织）简介，欢迎�
 
 Polymath 是一种区块链通讯协议，以它的标准的通证化证券符合法律要求，并利于发行和分配。这个协议将金融安全需求潜入到新式 Security tokens的设计中，精简了在区块链上无缝发行金融产品的流程。Polymath 平台提供 Security tokens 交易、投资者认证、连接合法代表和接触技术开发者市场的渠道。Poly 是一种 ERC20 通证，是该系统运转的燃料和基础经济单位，促进了内部的认证、法律和开发服务。 
 
-**已募集资金：** [5900 万美金](http://www.businessinsider.com/a-startup-raised-59-million-in-a-token-sale-to-usher-in-the-next-generation-of-crypto-2018-2) (ICO)
+**已募集资金：** [5900 万美元](http://www.businessinsider.com/a-startup-raised-59-million-in-a-token-sale-to-usher-in-the-next-generation-of-crypto-2018-2) (ICO)
 
 **管理团队：** [Trevor Koverko](https://www.linkedin.com/in/trevorkoverko/)，CEO，企业家，区块链演讲者，和加密货币投资人
 
@@ -63,9 +63,9 @@ Patrick Byrne，Overstock 的 CEO
 
 ![](https://cdn-images-1.medium.com/max/600/1*6IsqD6-ydY60I6fWStYmZw.jpeg)
 
-Harbor 是一个能把传统投资类别无缝迁移到区块链上的开源平台。通过标准化流程，Harbor 简化了合规步骤，保证了公司的迁移资产的过程中合乎法律要求。通过 [隐私保护型 ICO](https://medium.com/harborhq/introducing-the-private-ico-pico-3e8b782924c1) 方案，Harbor 结合新式可限制访问的通证技术提供了合规的 R-Token 内部销售。该标准将诸如顾客身份审查、反洗钱条例、税则、报告信息和认证状态的需求通过系统集成到每个发行的通证中。
+Harbor 是一个能把传统投资类别无缝迁移到区块链上的开源平台。通过标准化流程，Harbor 简化了合规步骤，保证了公司的迁移资产的过程中合乎法律要求。通过 [隐私保护型 ICO](https://medium.com/harborhq/introducing-the-private-ico-pico-3e8b782924c1) 方案，Harbor 结合新式可限制访问的通证技术提供了合规的 R-Token 内部销售。该标准将诸如 KYC（顾客身份审查）、AML（反洗钱条例）、税则、报告信息和认证状态的需求通过系统集成到每个发行的通证中。
 
-**已募集资金：** [1000 万美金](https://medium.com/harborhq/harbor-raises-10-million-to-power-crypto-securities-compliance-b1102d656efd) (A 轮)
+**已募集资金：** [1000 万美元](https://medium.com/harborhq/harbor-raises-10-million-to-power-crypto-securities-compliance-b1102d656efd) (A 轮)
 
 **管理团队：** David Sacks，CEO，Craft Ventures 的主要伙伴，Paypal 前 COO，Yammer 创始人，Zenefits CEO
 
@@ -77,29 +77,29 @@ Arisa Amano, CPO，Zenefits 的 VP，负责 Yammer 的市场营销工作
 
 ![](https://cdn-images-1.medium.com/max/600/1*Dr-ea0qdzYWjSBAvHjnwiQ.jpeg)
 
-Securitize is a regulatory compliant cloud service solution for the tokenization of securities, enabling tokenization of funds, companies, or other entities. The company provides several services including establishing the legal and regulatory readiness of the issuers and their legal team, streamlining investor registration in compliance with KYC/AML accreditation or other legal requirements, customizing smart contracts to match issuers’ unique requirements and security token data throughout the lifetime of the security. Spun out of [SPiCE VC](https://www.spicevc.com/), the platform has secured commitments from companies running ICOs in aggregate of $500 million, including offerings from [CryptoOracle](https://www.cryptooracle.io/), [Kairos.com](http://kairos.com/), [Lottery.com](https://tokensale.lottery.com/) and [22X Fund](https://www.22xfund.com/).
+Securitize 是一个为证券通证化提供法律合规云服务的公司，它还支持基金、公司和其它实体的通证化。该公司提供包括建立通证发行商法务和合规预备团队、根据 KYC 和 AML 认证简化投资者注册流程，和为发行商独特需求和 Security Token 数据闭环定制智能合约。从 [SPiCE VC](https://www.spicevc.com/) 分离出来后，该平台已经在 ICO 渠道获得总计 5 亿美元的投资，投资商包括 [CryptoOracle](https://www.cryptooracle.io/)，[Kairos.com](http://kairos.com/)，[Lottery.com](https://tokensale.lottery.com/) 和 [22X Fund](https://www.22xfund.com/)。
 
-**管理团队：** [Carlos Domingo](https://www.linkedin.com/in/carlosdomingo/), CEO and Chairman, Managing partner at Spice VC, Former CEO at Telefonica R&D
+**管理团队：** [Carlos Domingo](https://www.linkedin.com/in/carlosdomingo/)，主席兼 CEO，Spice VC 管理伙伴，Telefonica R&D 前 CEO
 
-[Jamie Finn](https://www.linkedin.com/in/jamesfinn/), President, Former EVP Business Development Aki, AT&T, Kontera, Telefonica
+[Jamie Finn](https://www.linkedin.com/in/jamesfinn/)，总裁，Aki，AT&T，Kontera，Telefonica 公司的前商务开拓执行副总裁
 
-[Shay Finkelstein](https://www.linkedin.com/in/shayfinkelstein/), CTO, CTO at SPiCE VC.
+[Shay Finkelstein](https://www.linkedin.com/in/shayfinkelstein/)，CTO，SPiCE VC 的 CTO
 
-### [Swarm Fund](https://swarm.fund/)
+### [Swarm 基金](https://swarm.fund/)
 
 ![](https://cdn-images-1.medium.com/max/600/1*B3umv45wXo8HMOGU6CY57g.png)
 
-Swarm tokenizes real-world assets using the SRC20 protocol, a cryptographic standard for security tokens. Tokenized objects become “assets” that can be easily managed, governed and traded on the Swarm network. Swarm Invest, launched in January 2018, allows tokenized assets to be offered as investment opportunities. Individuals can invest cryptocurrency such as SWM, BTC, and ETH (and soon, fiat) into real world assets and receive SRC20 tokens in return, granting them ownership and governance rights, a legally enforceable right to any revenue the asset generates, and the ability to trade the tokens in a regulatory compliant manner. Areas of focus include real estate, renewables, agriculture, tech companies, crypto hedge funds, impact investments (development projects and post-disaster rebuilding), infrastructure, among others.
+Swarm 使用了一个为 Security token 设定的密码学协议标准 —— SRC20 协议，以此把现实世界的资产通证化。通证化的对象变成了可以在 Swarm 网络上轻易调度、管理和交易的资产。在 2018 年 1 月出现的 Swarm Invest 公司允许通证化资产成为投资机会。个人可以把诸如 SWM、BTC 和 ETH（不久后其它法币也会被纳入）之类的加密货币投资到现实世界的资产里，并且收到对应的 SRC20 代币，这些代币代表了资产的所有权和管理权，和对资产产生的任何收入的法律层面上可执行权利，以及在合规前提下交易代币的能力。资产的重点领域包括房地产、可再生能源、农业、科技公司、加密货币对冲基金、社会效应投资（项目开发和灾后重建）、基础设施等。
 
-**已募集资金：** $5.5M (ICO)
+**已募集资金：** 550 万美元(ICO)
 
-**管理团队：** Philipp Pieper, CEO; Timo Lehes, Chief Investment Officer; Chris Eberle,  COO
+**管理团队：** Philipp Pieper，CEO；Timo Lehes，首席投资官；Chris Eberle，COO
 
-**知名顾问：** Anthony Di Iorio**,** CEO & Founder at Jaxx & Decentral, Co-Founder at Ethereum
+**知名顾问：** Anthony Di Iorio**，** Jaxx 和 Decentral 的 CEO 和创始人；Ethereum 联合创始人
 
-Chris Kitze**,** Chairman of the Alphabit Digital Currency Fund
+Chris Kitze**，** Alphabit Digital Currency Fund 的主席
 
-David Drake**,** Founder and Chairman, LDJ Capital
+David Drake**，** LDJ Capital 的创始人和主席
 
 ### Hybrid Solutions:
 
@@ -107,57 +107,57 @@ David Drake**,** Founder and Chairman, LDJ Capital
 
 ![](https://cdn-images-1.medium.com/max/600/1*BgwKSECYJ-zWSX8PAL6lyw.jpeg)
 
-Templum is a regulatory compliant solution for security token issuance and subsequent secondary trading. Templum Markets (formerly Liquid M Capital, acquired by Templum for [$1.3M](https://www.crunchbase.com/organization/liquid-m-capital)) is a registered alternative trading system (ATS) and a broker-dealer firm. Templum offers a platform that both enables the initial sale offering of security tokens and operates as a marketplace in which secondary trading can take place by issuers and investors. Like many other solutions, Templum will integrate AML and KYC as part of the platform to comply with regulatory requirements.
+Templum 是一个合规的 Security token 发行和后续二手交易的解决方案。Templum Markets（前身是 Liquid M Capital，以 [130 万美元](https://www.crunchbase.com/organization/liquid-m-capital)被 Templum 收购）是一个已注册的替代交易系统（ATS）和经纪商公司。Templum 提供了一个既支持 Security token 初次发售，又支持发行商和投资人进行二手交易的平台。与许多其它解决方案一样，Templum 将会把 AML 和 KYC 整合成平台的一部分以达到合规要求。
 
-**已募集资金：** $[2.7M](https://www.crunchbase.com/organization/templum#section-overview) (private round)
+**已募集资金：** [270 万美元](https://www.crunchbase.com/organization/templum#section-overview) （私募轮）
 
-**管理团队：** [Christopher Pallotta](https://www.linkedin.com/in/christopher-pallotta-bb3b6430/), CEO, MD at Raptor Capital Management
+**管理团队：** [Christopher Pallotta](https://www.linkedin.com/in/christopher-pallotta-bb3b6430/)，Raptor Capital Management 的 CEO 和总经理
 
-[Josef Schaible](https://www.linkedin.com/in/josefschaible/), COO, Former Director at Salt Lending
+[Josef Schaible](https://www.linkedin.com/in/josefschaible/)，COO，Salt Lending 的前总监
 
 ### [Securrency](https://securrency.com)
 
 ![](https://cdn-images-1.medium.com/max/600/1*lWBlyB0EBn37YPkFXV2Z7A.png)
 
-Founded in 2015, Securrency offers a protected, scalable platform providing liquidity to previously illiquid assets. The company’s platform consists of several products: (1) Securrency™ — facilitates regulatory compliance and enables the trade or transfer of tokenized securities, (2) RegTex™- provides regulatory compliance services such as, KYC/AML reporting, validation of investor accreditation and eligibility, reporting, and tax submissions, (3) SmartContraX™ — a blockchain smart contract development service, (4) InfinXchange™ — provides standard interfaces for payments, exchanges, asset pricing, and other transactions.
+Securrency 成立与 2015 年，提供了一个为非流动性资产提供流动性的，受保护并可扩展的平台。该公司的平台由几个产品组成：(1) Securrency™ —— 促进合规，并且给通证化证券的交易或转移赋能，(2) RegTex™ —— 提供包括 KYC 或 AML 报告、投资人认证与资格验证、其它报告以及纳税申报等合规服务，(3) SmartContraX™ —— 提供区块链智能合约开发服务，(4) InfinXchange™ —— 提供用于支付、交换、资产定价和其他交易的标准接口。
 
-**已募集资金：** [$10M](http://www.abnnewswire.net/press/en/91982/Chapmans-Limited-%28ASX-CHP%29-Secures-US$4M-in-Leading-Blockchain-Finance-and-Trading-Platform-Securrency-Inc-91982.html)
+**已募集资金：** [1000 万美元](http://www.abnnewswire.net/press/en/91982/Chapmans-Limited-%28ASX-CHP%29-Secures-US$4M-in-Leading-Blockchain-Finance-and-Trading-Platform-Securrency-Inc-91982.html)
 
-**管理团队：** [Dan Doney](https://www.linkedin.com/in/ddoney), CEO, previously Chief Innovation Officer, Defense Intelligence Agency
+**管理团队：** [Dan Doney](https://www.linkedin.com/in/ddoney)，CEO，Defense Intelligence Agency 前首席创新官
 
-[Ron Poe](https://www.linkedin.com/in/poeron/), Compliance Officer, Captain U.S. Marines
+[Ron Poe](https://www.linkedin.com/in/poeron/)，合规专员，美国海军陆战队上尉
 
-[John Hensel](https://www.linkedin.com/in/john-hensel-37149b46/), COO, Retired U.S. Navy Captain, managed aerospace portfolios valued in excess of $15B
+[John Hensel](https://www.linkedin.com/in/john-hensel-37149b46/)，COO，退役美国海军上尉，曾管理估价超过 150 亿美元的航天投资组合
 
-### Exchanges:
+### 交易所：
 
 ### [tZERO](https://www.tzero.com/)
 
 ![](https://cdn-images-1.medium.com/max/600/1*_lN5E5KE548JIPa-lcgYqA.png)
 
-tZERO, a subsidiarity of Overstock.com, focuses on the development of various blockchain supported solutions for the capital markets. The company’s present offering consists of brokerage services, stock inventory management systems, smart order routing solutions through a network of more than 100 brokerages, a 24-hour trading platform, as well as other services. The company handles traditional equities but is planning on scaling its operations by integrating a token trading system for crypto securities. The company’s token — tZERO, is an ERC20 security token, that pays 10% of adjusted gross revenues to token holders on a quarterly basis.
+作为 Overstock.com 的子公司，tZERO 专注为资本市场开发各种区块链解决方案。 公司目前的产品包括经纪商服务、库存管理系统、在网格状联系的 100 多个经纪商中提供的智能订单转发解决方案、24小时交易平台以及其它服务。该公司经营传统股票，但计划通过集成加密货币交易系统来扩大其业务。该公司的通证是 ERC20 Security token，公司将会每季度向通证持有者支付调整后的总收入的 10%。
 
-**已募集资金：** [$114M](https://www.crowdfundinsider.com/2018/03/129016-tzero-raises-114-million-pre-sale-ico-migrates-away-saftlaunch-startengine-next-phase-security-token-sale/) (ICO in progress)
+**已募集资金：** [1 亿 1400 万美元](https://www.crowdfundinsider.com/2018/03/129016-tzero-raises-114-million-pre-sale-ico-migrates-away-saftlaunch-startengine-next-phase-security-token-sale/) (ICO 正在进行中)
 
-**管理团队：** [Patrick Byrne](https://www.linkedin.com/in/patrick-m-byrne-0b8380a7/), CEO, Founder and CEO Overstock.com, Founder Medici Ventures
+**管理团队：** [Patrick Byrne](https://www.linkedin.com/in/patrick-m-byrne-0b8380a7/)，CEO，Overstock.com 的 CEO 和创始人，Medici Ventures 创始人
 
-[Joe Cammarata](https://www.linkedin.com/in/joseph-cammarata-6249745/), President, CEO SpeedRoute (tZERO subsidiary), CEO and founder at Sonic Trading
+[Joe Cammarata](https://www.linkedin.com/in/joseph-cammarata-6249745/)，总裁，SpeedRoute (tZERO 子公司) 的 CEO，Sonic Trading 的 CEO 和创始人
 
-[Ralph Daiuto](https://www.linkedin.com/in/ralph-a-daiuto-jr-03b69a52/), COO and General Counsel
+[Ralph Daiuto](https://www.linkedin.com/in/ralph-a-daiuto-jr-03b69a52/)，COO 兼法律总顾问
 
-[John Gilchrist](https://www.linkedin.com/in/john-gilchrist-8091a45/), CIO, previously VP of at Merrill Lynch
+[John Gilchrist](https://www.linkedin.com/in/john-gilchrist-8091a45/)，CIO，Merrill Lynch 的前副总裁
 
 ### [OpenFinance Network](https://www.openfinance.io/)
 
 ![](https://cdn-images-1.medium.com/max/600/1*JoRUVnIqUZlEZFrVcdRBnA.jpeg)
 
-OpenFinance Network (OFN) is an open-source platform specializing in secondary markets for alternative assets. The OFN team has been working together since 2014, offering trading, clearing and settlement services. Recently, the team has refocused their attention on blockchain solutions and has developed a compliant standard by which tokenized securities can be exchanged and eventually issued on the blockchain. Last Month, OFN enabled one of the first verified compliant security token transactions and is now accepting applications to list additional security tokens.
+OpenFinance Network (OFN) 是一个专供资产可替代物二级市场的开源平台。OFN 团队在 2014 年便开始合作，提供交易、清算和结算服务。最近，该小组已经将注意力重新集中在区块链解决方案上，并且开发了一套可供通证化证券在区块链上交易乃至发行的兼容标准。上个月，OFN 启用了第一个通过验证的兼容性 Security token 转账服务，现在正在接受其它 Security token 的上线申请。
 
-**已募集资金：** $[2.2M](https://www.crunchbase.com/organization/cfx-markets#section-twitter) (Series A)
+**已募集资金：** $[220 万美元](https://www.crunchbase.com/organization/cfx-markets#section-twitter) (A 轮)
 
-**管理团队：** Juan M. Hernandez, CEO, Founder of PeerRealty, and the Pop Stock Exchange
+**管理团队：** Juan M. Hernandez，PeerRealty 和 Pop Stock Exchange 的 CEO 兼创始人
 
-Ian Shipman, Head of R&D
+Ian Shipman，研发负责人
 
 ### [AmbiSafe/Orderbook](https://www.ambisafe.co/)
 
@@ -165,9 +165,9 @@ Ian Shipman, Head of R&D
 
 Orderbook is a decentralized exchange that automates the process of investor verification through a specialized token. The token, named RAP, ensures that ICO and other crypto related transactions are compliant by cross-referencing local jurisdictions requirement with its database of RAP token holders credentials. For example, If an investor who does not meet the proper regulatory requirements attempts to buy a token on the exchange, the system compares the investor’s permission level against an internal database and prevents them from finishing the purchase.
 
-**管理团队：** Andrii Zamovsky, Founder
+**管理团队：** Andrii Zamovsky，创始人
 
-Stephen Pettibone, CCO, Former VP of compliance at NASDAQ
+Stephen Pettibone，CCO，前纳斯达克合规副总裁
 
 ### Liquidity Layers:
 
