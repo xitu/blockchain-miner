@@ -271,7 +271,7 @@ Ami Ben David，管理合伙人
 
 **已募集资金：** 目前 [2200 万美元](https://www.22xfund.com/) (目标 3500 万美元)
 
-**Notable Management and Advisors:** Jamie Finn, 投资组合经理
+**知名管理和顾问：** Jamie Finn, 投资组合经理
 
 Tim Reynders, 投资顾问
 
@@ -279,43 +279,43 @@ Tim Reynders, 投资顾问
 
 ![](https://cdn-images-1.medium.com/max/600/1*Xu-I1MwJVrpf2bNG6Tlnqw.png)
 
-PropertyCoin 是is another example of how security tokens can transform existing markets. PropertyCoin is opening up real estate, one of the largest asset classes, through a 100% asset backed token. Aperture, the operator behind the STO, intends to invest the proceeds in two business areas — (1) flipping residential properties and (2) lending to other property investors. 50% of the profits will be shared with token holders through reinvestments.
+PropertyCoin 是 Security tokens 如何改造现有市场的另一个例子。PropertyCoin 正通过 100% 资产支持的通证打开最大的资产类别之一 —— 房地产。Aperture，他们 STO 的运营官，计划在两个业务领域投资：(1) 翻新住宅物业和 (2) 其它物业投资贷款。50% 的利润将通过重新投资于通证持有者共享。
 
-**已募集资金：** Seeking to raise $50M+ via STO
+**已募集资金：** 试图通过 STO 募集超过 5000 万美元
 
-**Notable Management and Advisors:** Andrew Jewett Co-CEO, Former Executive at leading Real Estate operator, RBS securities
+**知名管理和顾问** Andrew Jewett Co-CEO, RBS securities 前房地产运营总监
 
-Matt Miles Co-CEO, Former Executive at leading Real Estate operator, RBS securities
+Matt Miles Co-CEO, RBS securities 前房地产运营总监
 
 ### [Siafunds](https://siafunds.tech/)
 
 ![](https://cdn-images-1.medium.com/max/600/1*FfRfgW5xa863Hw_K8Fc7pg.jpeg)
 
-Sia is a blockchain-based, decentralized cloud storage platform on which Renters can lease storage capacity from Hosts. Sia utilizes two tokens, _Siacoin_ and _Siafunds_. Siacoins are used by Renters and Hosts as the currency in which deals are performed on the platform. Renters and Hosts are required to pay network fees to the Sia platform that amount to 3.9% of all spending. Siafunds are entitled to receive a proportional amount of those fees. Nebulous, the operating company of the Sia platform, is offering 750 Siafunds out of a total of 10,000 Siafunds, as a Reg D security token. This is an example of a [‘two-tier’ or dual tokens issuance](https://medium.com/thisisdna/a-world-where-all-tokens-are-securities-227651c4e173), which is used both a security and a utility token.
+Sia 是一个基于区块链的分布式云存储平台，租户可以从主机租借存储容量。Sia 使用两种通证， _Siacoin_ 和 _Siafunds_。租户和承租人（主机）通过 Siacoin 这种货币在平台上完成交易。租户和承租人需要支付交易金额的 3.9% 作为 Sia 平台的网络费用。Siafunds 有权按照一定比例收取这些费用。Nebulous，Sia 平台的运营公司，从 10,000 Siafund 中提供了 750 Siafund 作为 Reg D（ SEC 对私募发行豁免的规定） 的 Security token。这是一个[双重通证发行方案](https://medium.com/thisisdna/a-world-where-all-tokens-are-securities-227651c4e173)，它既用于 security token，也用于 utility token。
 
-**已募集资金：** In Progress
+**已募集资金：** 进行中
 
-**管理团队：** David Vorick CEO, Core Developer, Ex IBM, Rensselaer Polytechnic Institute
+**管理团队：** David Vorick CEO, 核心程序员, 前 IBM 员工, 毕业于 Rensselaer Polytechnic Institute
 
-Luke Champine, 联合创始人, Core Developer, Rensselaer Polytechnic Institute
+Luke Champine, 联合创始人, 核心程序员, 毕业于 Rensselaer Polytechnic Institute
 
 ### [Slice](https://slice.market/)
 
 ![](https://cdn-images-1.medium.com/max/600/1*ZLTSxVIgkMFEw2rhpnJ8fA.jpeg)
 
-Slice is a commercial real-estate (CRE) investment platform for cross-border investors. It functions as the underwriter, issuer and placement agent for prime real-estate securities. Slice offers liquidity to conventional real estate equity investments, while creating portfolio diversification tool for high net worth investors. Slice’s investments will provide investors with a choice between stable quarterly distributions from cash-flowing properties, or high-yielding value-add projects with large but infrequent dividends. Accredited investors can deploy investments directly into institutional-grade commercial real-estate utilizing Slice’s tax-advantaged structure. Slice combines the Bancor Protocol with Stellar’s built-in decentralized exchange to ensure high liquidity for the CRE-backed tokens issued on the Slice platform.
+Slice 是一个跨国投资者的商业房地产（CRE）的投资平台。它为主要的房地产证券提供承销商、发行商和配售代理的服务。Slice 尾传统的房地产股权投资提供流动性的同时，也为高净值投资者创建投资组合多元化工具。Slice 的投资将为投资者提供两个选项：稳定的季度现金流动资产分配，还是大型高收益但少派息的高增值项目？授权投资者可以利用 Slice 的税收优惠结构将投资直接配置到机构级商业地产中。Slice 将 Bancor 协议与 Stellar 内置的去中心化交易所结合，确保 Slice 平台上发行的 CRE 支持的通证的高流动性。
 
-**已募集资金：** $2M (Series Seed) + upcoming STO
+**已募集资金：** 200 万美金 (种子论) + 即将进行 STO
 
 **管理团队：** Ari Shpanya, CEO; Tomer Ravid, CIO; Yevgeniy Spektor, CTO
 
-**Advisors:** Eyal Herzog, Product Architect at Bancor
+**顾问：** Eyal Herzog，Bancor 的产品架构师
 
-### Law Firms:
+### 法律机构：
 
-Some of the legal heavy-lifting such as KYC/AML will be automated by the issuances platforms. Nonetheless, getting good lawyers to structure your security token is crucial.
+一些需要法律监控的流程，如 KYC 或 AML 可以经由发行平台全程自动化。尽管如此，让优秀的律师来构造你的 Security token 是至关重要的。
 
-For the best token structures and lawyers, **继续阅读下一篇文章吧 [这里](https://medium.com/@tatianakoffman/4-security-token-structures-and-the-lawyers-to-help-you-execute-them-53c8a5129f49).**
+欲知最好的通证结构和律师， **继续阅读下一篇文章吧 [这里](https://medium.com/@tatianakoffman/4-security-token-structures-and-the-lawyers-to-help-you-execute-them-53c8a5129f49).**
 
 ![](https://cdn-images-1.medium.com/max/800/1*mrWvjC9Kcbsi9Hz11Krshg.gif)
 
