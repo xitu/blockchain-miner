@@ -7,7 +7,7 @@
 
 # Security Token 生态 — 项目指南
 
-代币的新纪元正在到来。如果 2017 是 Utility Token 的一年，那么 2018 年无疑将是觊觎这 Security Token 后万亿市场的平台、交易所和基金的生态元年。受区块链技术利好和虚拟货币价格大起大落带来的套利机会吸引，资产的通证化（虚拟货币化）在更传统的发行商和投资人中变得特别流行。
+通证的新纪元正在到来。如果 2017 是 Utility Token 的一年，那么 2018 年无疑将是觊觎这 Security Token 后万亿市场的平台、交易所和基金的生态元年。受区块链技术利好和虚拟货币价格大起大落带来的套利机会吸引，资产的通证化（虚拟货币化）在更传统的发行商和投资人中变得特别流行。
 
 ![](https://cdn-images-1.medium.com/max/800/1*5XBQ-ZqyEMBsE77yhi9Irw.jpeg)
 
@@ -163,123 +163,123 @@ Ian Shipman，研发负责人
 
 ![](https://cdn-images-1.medium.com/max/600/1*QxSqSRmTwdTWxPOKjJV0hw.png)
 
-Orderbook is a decentralized exchange that automates the process of investor verification through a specialized token. The token, named RAP, ensures that ICO and other crypto related transactions are compliant by cross-referencing local jurisdictions requirement with its database of RAP token holders credentials. For example, If an investor who does not meet the proper regulatory requirements attempts to buy a token on the exchange, the system compares the investor’s permission level against an internal database and prevents them from finishing the purchase.
+Orderbook 是一个能通过一种专门通证自动验证投资者的去中心化交易所。该通证名为 RAP，它通过交叉引用本地权限需求和数据库内 RAP 通证持有者身份凭证，确保投资者在参与 ICO 和其它加密货币相关的交易是一致的。例如，如果不符合适当监管要求的投资者试图在交易所购买通证，系统将会把该投资者的权限与内部数据库比较，进而阻止他们完成购买流程。
 
 **管理团队：** Andrii Zamovsky，创始人
 
 Stephen Pettibone，CCO，前纳斯达克合规副总裁
 
-### Liquidity Layers:
+### 流动层平台：
 
 ### [Bancor](https://www.bancor.network/)
 
 ![](https://cdn-images-1.medium.com/max/600/1*dlhGmiZgVPDvquLCMklN3w.png)
 
-Bancor offers a liquidity model that connects multiple tokens to one pool of capital, enabling price discovery and ensuring liquidity even in low transaction volume environments. In the context of securities, this model complements existing best practices and provides alternative ways to achieve liquidity, enhancing the benefits of moving securities to the blockchain. Bancor is often described as the long-tail of value creation, that is, the long tail of low demand and low volume products. In the tokenized security market, one example for this use case is found in the partnership between SPiCE VC, a tokenized VC fund and Bancor. As part of the arrangement, SPiCE VC is committed to holding up to 5% of its capital on the Bancor network, so that token holders can benefit from additional ways to liquidate their holdings.
+Bancor 提供了一个连接多种通证的资金池流动性模型，它使价格发现成为可能，并能在低交易量的环境中保证流动性。在证券方面，该模型对目前的最佳实践方案做了补充，并提供了实现流动性的替代方案，由此放大了证券（通证）移到区块链上的好处。Bancor 经常被描述为价值创造后其低需求和低容量产品的长尾工具。在通证化证券市场中，一个长尾的用例便是 SPiCE VC（一个通证化风头基金）和 Bancor 的伙伴关系。根据协议 SPiCE VC 承诺将其 5% 的资本保留在 Bancor 网络上，以便通证持有者可以通过出售等其它方式受益。
 
-**已募集资金：** $152M (ICO)
+**已募集资金：** 1 亿 5200 万美元 (ICO)
 
-**管理团队：** [Guy Benartzi](https://www.linkedin.com/in/guy-benartzi-734613146/), Co-Founder, previously CEO @ Mytopia, President @ Particle Code
+**管理团队：** [Guy Benartzi](https://www.linkedin.com/in/guy-benartzi-734613146/)，联合创始人，Mytopia 前 CEO，Particle Code 前总裁
 
-[Galia Benartzi](https://www.linkedin.com/in/galia-benartzi-1a0aa220/), Co-Founder, previously Venture Partner @ Founders Fund, CEO Particle Code
+[Galia Benartzi](https://www.linkedin.com/in/galia-benartzi-1a0aa220/)，联合创始人，Founders Fund 前风投伙伴，Particle Code 的 CEO
 
-[Eyal Hertzog](https://www.linkedin.com/in/hertzog/), Product Architect
+[Eyal Hertzog](https://www.linkedin.com/in/hertzog/)，产品架构师
 
 ### [Airswap](https://www.airswap.io/)
 
 ![](https://cdn-images-1.medium.com/max/600/1*jQqfK5Jna6Rgx6Ejk_TxCw.png)
 
-One of the big promises of the tokenization of assets is to open the floodgates of the global pool of capital, eliminating siloed demand and supply dynamics restricted by geography and infrastructure. Airswap is a decentralized exchange that enables trading on a global scale, connecting individual entities across markets. In the context of security tokens this results in increased liquidity and a generally more stabilized, less volatile demand environment.
+资产通证化的一个大前景就是它打开了全球资本池的阀门，消除了受地理和基础设施限制的需求和供应动态。Airswap 是一个去中心化交易所，它容许全球范围的交易，将单个实体连接到整个市场。在交易所流转的 Security tokens 提升了流动性，并催生出一个更稳定、需求波动更小的环境。
 
-**已募集资金：** [$36M](https://www.crunchbase.com/organization/airswap#section-funding-rounds) (ICO)
+**已募集资金：** [3600 万美元](https://www.crunchbase.com/organization/airswap#section-funding-rounds) (ICO)
 
 **管理团队：**
 
-Michael Oved, Co-Founder, Algo-trader, Partner at Virtu-Financial;
+Michael Oved, 联合创始人，Virtu-Financial 的合伙人和量化交易员；
 
-Don Mosites, Co-Founder
+Don Mosites, 联合创始人
 
-### Existing Tokenized Securities:
+### 现存的通证化证券：
 
-> _Brave the new world. As there are only a handful of existing issuers and only about a dozen more in the works, this is the frontier of financial innovation._
+> _在新世界中勇敢前行吧。由于目前只有少数的发行商，正在组建的也只有十几个，这就是金融创新的前沿。_
 
 ### [BCap (Blockchain Capital)](http://blockchain.capital/)
 
 ![](https://cdn-images-1.medium.com/max/600/1*4-tTdo1Nlo7q-zMfPbg5bg.jpeg)
 
-Pioneered by Brock Pierce himself, Blockchain Capital was arguably the first to introduce a public offering for a securitized token. In its ICO, Blockchain Capital hoped that it could improve the emerging token sale industry in [multiple ways](https://www.smithandcrown.com/sale/blockchain-capital/). The offering created a blueprint for future tokenized securities, invested in other ICO’s that embodied some of the best practices and accepted funds only from accredited investors. The token sale reached its hard cap of $10M within six hours. The proceeds from the offering were transferred to one of Blockchain Capital’s funds. According to the offering memorandum, the fund’s managing partners collect a 2.5% management fee and a 25% performance fee. The remainder of profits are to be distributed to token holders.
+Blockchain Capital 是由 Brock Pierce 率先提出的第一个证券化通证公开发行的公司。在 ICO 阶段中，Blockchain Capital 希望能以[多种方式](https://www.smithandcrown.com/sale/blockchain-capital/)改善新兴的通证销售行业。它提出了未来通证化证券的蓝图，它可以投资在其它提现最佳实践的 ICO 上，并只接受认可投资者的资金。它的 ICO 在 6 小时内就达到了 1000 万美元的封顶额。发售的收益被转移到了 Blockchain Capital 的其中一个资金中。根据提供的备忘录，基金的管理合伙人收取 2.5% 的管理费和 25% 的收益绩效。剩余的利润将分配给通证持有人。
 
-**已募集资金：** $[10](http://www.the-blockchain.com/2017/04/11/blockchain-capital-closes-ico-10-million-in-six-hours-raised-in-record-time/)M
+**已募集资金：** [1000 万美元](http://www.the-blockchain.com/2017/04/11/blockchain-capital-closes-ico-10-million-in-six-hours-raised-in-record-time/)
 
-**管理团队：** Brock Pierce, Co-founder @ Blockchain Capital, DNA.fund, EOS, Tether and more
+**管理团队：** Brock Pierce, Blockchain Capital, DNA.fund, EOS, Tether 等更多项目的联合创始人
 
-Bart Stephens, Co-founder & Managing Partner
+Bart Stephens, 联合创始人和管理合伙人
 
-Bradford Stephens, Co-founder & Managing Partner
+Bradford Stephens, 联合创始人和管理合伙人
 
 ### [Science Blockchain](https://science.tokenhub.com/)
 
 ![](https://cdn-images-1.medium.com/max/600/1*b3u0eb_q40Ey5lFjR_L6Pg.png)
 
-Science Blockchain is a fund and an incubator focused on blockchain investments. Thus, it’s almost logical that the fund was raised through an Initial Coin Offering of a security token (SCI). The SCI-token provides token holders with rights to up to 70% of the stream of new tokens generated from portfolio companies. Additionally, the fund’s proceeds from liquidity events are anticipated to be used to repurchase tokens via a buyback program, thus allowing investors to enjoy equity appreciation.
+Science Blockchain 是一个着重于区块链投资的基金和孵化器。因此，该基金通过 Secruity token 的 ICO（SCI）来筹措资金基本是合乎逻辑的。SCI 通证为通证持有者提供多达 70% 的投资组合产生的新通证流的权益。此外，基金从流动性操作中获得的收益将会根据回购计划进行通证回购，从而容许投资人享受通证的升值。
 
-**已募集资金：** $12.3M
+**已募集资金：** 1230 万美元
 
-**管理团队：** Founders Peter Pham, Mike Jones and Greg Gilman, founders and investors in the original [Science incubator](https://www.science-inc.com/).
+**管理团队：** 创始人团队 Peter Pham, Mike Jones 和 Greg Gilman，他们都是原 [Science incubator](https://www.science-inc.com/) 的创始人和投资者。
 
 ### [Lottery.com](https://tokensale.lottery.com/)
 
 ![](https://cdn-images-1.medium.com/max/600/1*YvWcww91m0tyOtvkM1K4mw.png)
 
-Lottery.com, formerly AutoLotto, is a mobile lottery service. The company intends to utilize blockchain technology to enhance its services through instant payouts, transparency, flexibility, and expansion across international markets. The company is nearing the close of the private sale of it’s STO, rumored to be in the nine-figure range. This securitized token produces a financial yield to token holders based on gross raffle sales. Securitize and Cashbet have partnered with Lottery.com to help bring the offering to the market.
+Lottery.com 的前身是 AutoLotto，它是一个移动端彩票服务。该公司打算使用区块链技术，通过它即时支付、资讯公开透明、使用灵活、跨国际市场的特性提高服务质量。该公司近期将会结束它的 STO 内部预售，据说售出额在九位数的程度。这个证券化通证基于抽奖池的总销售额向通证持有者提供财务收益。Securitize 和 Cashbet 已经与 Lottery.com 展开合作关系，帮助它向市场推出产品。
 
-**已募集资金：** in progress
+**已募集资金：** 进行中
 
 **管理团队：** [Tony Dimatteo](https://www.linkedin.com/in/tonydimatteo/), CEO
 
-[Matt Clemenson](https://www.linkedin.com/in/mattclemenson/), President, Crypto Thought Leader
+[Matt Clemenson](https://www.linkedin.com/in/mattclemenson/)，总裁，加密货币思维领先者
 
-[Zach Goldberg](https://www.linkedin.com/in/zachgoldberg/), CTO, previously Google, Tencent, WeChat
+[Zach Goldberg](https://www.linkedin.com/in/zachgoldberg/), CTO，之前在 Google, Tencent, WeChat 工作
 
-**知名顾问：** [Miguel Forbes](https://www.linkedin.com/company/miguel-forbes/), Founder @ Forbes.com
+**知名顾问：** [Miguel Forbes](https://www.linkedin.com/company/miguel-forbes/), Forbes.com 创始人
 
-[Joey Krug](https://www.linkedin.com/in/joeykrug/), Chief Investment Officer @ Pantera Capital
+[Joey Krug](https://www.linkedin.com/in/joeykrug/), Pantera Capital 首席投资官
 
-[Miko Matsamura](https://www.linkedin.com/in/mikomatsumura/), Co-Founder @ Evercoin
+[Miko Matsamura](https://www.linkedin.com/in/mikomatsumura/), Evercoin 联合创始人
 
 ### [SPiCE VC](https://www.spicevc.com/)
 
 ![](https://cdn-images-1.medium.com/max/600/1*5BqRbOsP2BPzsnppqDv39A.png)
 
-While VCs have been behind almost all the greatest disruptions of our time, the VC industry has remained almost untouched. SPiCE VC intends to change this through its tokenized VC fund model that offers almost immediate liquidity for investors. If, in traditional VC funds, LPs had to wait anywhere between 7–12 years until they gain full access to their funds, SPiCE token holders get a piece of the exit pie, while enjoying a tradable asset. Even though the company intends to invest in some utility tokens, SPiCE is focused first and foremost on security tokens, with Securitize being their first portfolio company.
+虽然风投机构已经滞后于我们这个时代几乎所有的破产崩盘（并蒙受损失），但风投行业仍然无动于衷。SPiCE VC 打算通过它证券化的风投基金改变这一现状，为投资者提供几乎即时的流动性。如果在传统的风投基金中，出资人必需等待 7 - 12 年才能获得对其资金的完全掌控，SPiCE 通证持有者将获得一块可以退市、并随时交易的资产。尽管该公司打算投资一些 Utility tokens，但 SPiCE 重点关注 Security tokens，Securitize 是他们第一家投资组合公司。
 
-**已募集资金：** $[40M](https://www.crunchbase.com/organization/spice-vc#section-funding-rounds)
+**已募集资金：** $[4000 万美元](https://www.crunchbase.com/organization/spice-vc#section-funding-rounds)
 
-**管理团队：** Carlos Domingo, Managing Partner, Former CEO of Telefonica R&D
+**管理团队：** Carlos Domingo, 管理合伙人， Telefonica R&D 的前 CEO
 
-Tal Elyashiv, Managing Partner, Former CIO at Capital One, Bank of America
+Tal Elyashiv, 管理合伙人，Capital One，Bank of America 的前 CIO
 
-Ami Ben David, Managing Partner
+Ami Ben David，管理合伙人
 
-### Upcoming Issuances:
+### 筹备中的发行商：
 
 ### [22X Fund](https://www.22xfund.com/)
 
 ![](https://cdn-images-1.medium.com/max/600/1*wV3U8OpCoptcMBvUFPIyfQ.jpeg)
 
-Startup fundraising is hard. That’s why a group of entrepreneurs from a recent batch of 500 Startups, a highly selective accelerator, came together to form a new tokenized fund. 22X Fund will invest in up to 30 of the startups that graduated from the San Francisco 2017 [500 Startups](https://500.co/) batch. The fund will hold between 2.5%-10% equity in the companies it invests in. Token holders receive their returns by trading the tokens on an exchange or through a token repurchase program that applies after a portfolio company experiences a liquidity event such as an exit or an IPO.
+初创公司的孵化募资是很难的。这就是为什么最近有一批创业者联合起来组成了一家新的通证化基金，他们来自于 500 多家初创企业，（获资者）将从一个高度选择性的加速器（甄选）而出。22X Fund 将会投资高达 30 家从 San Francisco 2017 [500 初创企业](https://500.co/)批次毕业的初创公司。该基金将持有其投资公司 2.5% 到 10% 的股权。通证持有者通过在交易所交易通证或通证回购计划获得回报，（该分红）程序会在公司在退出或 IPO 的阶段中实施。
 
-**已募集资金：** $[22M](https://www.22xfund.com/) to date (goal $35M)
+**已募集资金：** 目前 [2200 万美元](https://www.22xfund.com/) (目标 3500 万美元)
 
-**Notable Management and Advisors:** Jamie Finn, Porfolio Manager
+**Notable Management and Advisors:** Jamie Finn, 投资组合经理
 
-Tim Reynders, Investment Advisor
+Tim Reynders, 投资顾问
 
 ### [PropertyCoin](https://propertycoin.re/en/)
 
 ![](https://cdn-images-1.medium.com/max/600/1*Xu-I1MwJVrpf2bNG6Tlnqw.png)
 
-PropertyCoin is another example of how security tokens can transform existing markets. PropertyCoin is opening up real estate, one of the largest asset classes, through a 100% asset backed token. Aperture, the operator behind the STO, intends to invest the proceeds in two business areas — (1) flipping residential properties and (2) lending to other property investors. 50% of the profits will be shared with token holders through reinvestments.
+PropertyCoin 是is another example of how security tokens can transform existing markets. PropertyCoin is opening up real estate, one of the largest asset classes, through a 100% asset backed token. Aperture, the operator behind the STO, intends to invest the proceeds in two business areas — (1) flipping residential properties and (2) lending to other property investors. 50% of the profits will be shared with token holders through reinvestments.
 
 **已募集资金：** Seeking to raise $50M+ via STO
 
@@ -297,7 +297,7 @@ Sia is a blockchain-based, decentralized cloud storage platform on which Renters
 
 **管理团队：** David Vorick CEO, Core Developer, Ex IBM, Rensselaer Polytechnic Institute
 
-Luke Champine, Co-founder, Core Developer, Rensselaer Polytechnic Institute
+Luke Champine, 联合创始人, Core Developer, Rensselaer Polytechnic Institute
 
 ### [Slice](https://slice.market/)
 
@@ -315,13 +315,13 @@ Slice is a commercial real-estate (CRE) investment platform for cross-border inv
 
 Some of the legal heavy-lifting such as KYC/AML will be automated by the issuances platforms. Nonetheless, getting good lawyers to structure your security token is crucial.
 
-For the best token structures and lawyers, **continue to our next article [here](https://medium.com/@tatianakoffman/4-security-token-structures-and-the-lawyers-to-help-you-execute-them-53c8a5129f49).**
+For the best token structures and lawyers, **继续阅读下一篇文章吧 [这里](https://medium.com/@tatianakoffman/4-security-token-structures-and-the-lawyers-to-help-you-execute-them-53c8a5129f49).**
 
 ![](https://cdn-images-1.medium.com/max/800/1*mrWvjC9Kcbsi9Hz11Krshg.gif)
 
 ---
 
-_Enjoyed this post? Please “clap” 50X in the bottom left corner so it will be shared with more people._ [_Tweet me_](https://twitter.com/tatianakoffman) _with any additions, corrections or feedback._
+_喜欢这篇文章吗？请在左方的 “clap” 按钮上点击 50 次，它就会被分享给更多的人了。_ [_推特联系我吧_](https://twitter.com/tatianakoffman) _，如果你有对文章的增补修正或反馈意见。_
 
 > 如果发现译文存在错误或其他需要改进的地方，欢迎到 [掘金翻译计划 — 区块链分舵](https://github.com/xitu/blockchain-miner) 对译文进行修改并 PR，也可获得相应奖励积分。文章开头的 **本文永久链接** 即为本文在 GitHub 上的 MarkDown 链接。
 
