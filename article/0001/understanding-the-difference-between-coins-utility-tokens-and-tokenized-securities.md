@@ -2,68 +2,67 @@
 > * 原文作者：[Micha Benoliel](https://medium.com/@anthenor?source=post_header_lockup)
 > * 译文出自：[掘金翻译计划 — 区块链分舵](https://github.com/xitu/blockchain-miner)
 > * 本文永久链接：[https://github.com/xitu/blockchain-miner/tree/master/article/0001/understanding-the-difference-between-coins-utility-tokens-and-tokenized-securities.md](https://github.com/xitu/blockchain-miner/tree/master/article/0001/understanding-the-difference-between-coins-utility-tokens-and-tokenized-securities.md)
-> * 译者：
-> * 校对者：
+> * 译者：[mingxing47](https://github.com/mingxing47)
 
-# Understanding the difference between coins, utility tokens and tokenized securities
+# 如何区分支付型代币，实用型代币，证券化代币？
 
-## How the blockchain disruption is shaking status quo
+## 区块链的分裂是如何撼动现状的
 
 ![](https://cdn-images-1.medium.com/max/2000/1*qM-4isLTaqIORxqIh1Hjrw.png)
 
-The recent number of Initial Coin Offerings (ICOs), the enormous amount of money they’ve raised, and the speed with which they did it, has set off the alarms for funding industries from Venture Capital firms to government bodies.
+最近数字货币首次公开募资（ICOs）无论是从数量、筹集到的巨额资金或是发行的速度上，都给从风险投资公司到政府机构的融资行业敲响了警钟。
 
-The last 2 months have seen spectacular ICOs success, but also caused a lot of confusion for traditional funding institutions. People are scrambling to understand exactly what an ICO is & how they can use it to their own advantage. To name a few: Bancor (+$150 Million), Status (+$200 Million), Civic (+$33 Million), Tezos (+$200 Million), EOS (+$200 Million).
+过去两个月我们见证了 ICOs 取得的巨大成功，但这个成功也给传统的融资机构带来了很多困惑。人们争先恐后地去了解什么是 ICO，以及如何利用它为自己谋利。举几个成功融资的例子：Bancor（+1.5 亿美元），Status（+2 亿美元），Civic（+3300 万美元），Tezos（+2 亿美元），EOS（+2 亿美元）。
 
-The recent SEC announcement to consider ICOs as securities could actually be a good thing since it highlights the importance of **Initial Coin Offerings** (ICOs) as **a new viable way to raise funds**. It highlights the need for a new regulation.
+美国证券交易委员会（SEC）最近宣布将 ICOs 视为有价证券，这实际上可能是件好事，因为该机构强调了**数字货币首次公开募资**（ICOs）作为**一种新的、可行的融资方式**的重要性。该机构也强调了新法规的必要性。
 
-[Balaji S. Srinivasan](https://medium.com/@balajis) wrote [a great piece on tokens](https://news.21.co/thoughts-on-tokens-436109aabcbe) back in May and [Tim Draper](https://medium.com/@timdrapervc) recent [post on Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6296022372378124288) referring to his open letter to the SEC has opened up a large discussion on wether token sales should be considered as securities.
+[Balaji S. Srinivasan](https://medium.com/@balajis) 早在 5 月就写了一篇[关于代币的伟大文章](https://news.21.co/thought-on-tokens-436109aabcbe)，同时 [Tim Draper](https://medium.com/@timdrapervc) 最近在领英上也发表了[一篇文章](https://www.linkedin.com/feed/update/urn:li:activity:6296022372378124288)，该文章引用他给美国证券交易委员会的公开信，这篇公开信开启了关于代币销售是否应被视为有价证券的大讨论。
 
-In planning an ICO for a project of my own, I’ve done a deep dive into ICOs. One of the most important conclusions I found: there are 3 main types of tokens.
+在为我自己的项目策划 ICO 时，我对 ICOs 做了深入的研究。我发现的最重要的结论之一是：代币可以分为三种主要类型。
 
-> Whether these 3 types of tokens are securities remains unclear as their technical differences are blurry. **That’s why a new regulation might be needed to let new innovations flourish.**
+> 这三种代币是否为证券目前尚不清楚，因为它们的技术差异很模糊。**这就是为什么可能需要一项新的法规来让新的创新蓬勃发展。**
 
-[Tim Draper](https://medium.com/@timdrapervc) mentioned in his open letter: “_If the purpose of a token is for societal transformation, and all proceeds go to the support and development of the token,_ **_it need not register._**_”_
+[Tim Draper](https://medium.com/@timdrapervc) 在他的公开信中提到：“如果一个代币的目的是为了社会变革，而所有的收益都用于进一步支持和开发代币，那么**它就不需要注册**。”
 
-### Conclusions
+### 结论
 
-#### 1. Coins or Cryptocurrencies
+#### 1. 支付型代笔或加密数字货币
 
-These are digital currencies like Bitcoin in which encryption techniques are used to regulate the generation of units of currency and verify the transfer of funds. They are operating independently of a central bank.
+这种类型的数字货币如比特币，使用了加密技术来管理每个单位货币的生成以及验证资金的转移。它们能独立于中央银行运作。
 
-Soon every fiat currency may become a cryptocurrency, in that case operating with central banks. This is what [Singapore has started](https://cointelegraph.com/news/singapore-central-bank-to-use-blockchain-tech-for-new-payment-transfer-project) with their Ubin project.
+不久之后，每一种法定货币都可能成为一种加密货币，在这种情况下，它可以与各国央行合作。这就是[新加坡正在启动的](ps://cointelegraph.com/news/singapore-central-bank-to-use-blockchain-tech-for-new-payment-transfer-project) Ubin 项目正在做的事情。
 
-#### 2. Utility tokens
+#### 2. 实用型代币
 
-The utility tokens are services or units of services that can be purchased. As describes in [Balaji S. Srinivasan](https://medium.com/@balajis) post, these tokens can be compared to API keys, used to access the service.
+实用型代币是可以购买的服务或服务单元。正如 [Balaji S. Srinivasan](https://medium.com/@balajis) 文章中所描述的，这些代币可以与用于访问服务的 API keys 进行比对，从而用于正常访问一些服务。
 
-They are a way to fund projects of shared infrastructure that couldn’t be funded before. To enable such ecosystems to be built some tokens can be “pre-mined” in addition to be sold in “crowd-sales” during tokens launches.
+它们是一种为共享基础设施项目提供资金的方式，而这些项目以前是无法获得资金的。为了使这样的生态系统得以建立，一些代币可以被“预先开采”，并在代币发布期间在“群众销售”中出售。
 
-#### 3. Tokenised securities:
+#### 3. 证券化代币
 
-Tokens are representing shares of a business. In addition, considering the SEC announcement any token that can’t pass the Howey test should be considered as a security and fall under the 1934 Security Exchange Act.  
-The Howey test consists of the following:
+这些代币可以代表企业的股份。此外，考虑到 SEC 的声明，任何无法通过 Howey 测试的代币都应被视为证券，并应该受到 1934 年的证券交易法的管辖。
+Howey 测试包括以下内容：
 
-*   Is it an investment of money or assets?
-*   Is the investment of money or assets in a common enterprise?
-*   Is there an expectation of profits from the investment?
-*   Does any profit come from the efforts of a promoter or third party?
+*   是货币投资还是资产投资？
+*   在一个普通的企业中是货币还是资产的投资？
+*   对投资的利润有预期吗？
+*   是否有任何利润来自推广方或第三方的努力？
 
-> The final factor of the Howey Test concerns whether any profit that comes from the investment is largely or wholly outside of the investor’s control. If so, then the investment might be a security.
+> Howey 测试的最后一个因素是，来自投资的利润是否在很大程度上或完全不在投资者的控制范围之内。如果是这样，那么这种投资可能就是一种证券投资。
 
-> This is what brings confusion and in a way makes any utility token potentially a security since they can be traded on third party platforms. **Utility tokens that a startup would issue to finance future customer’s purchases should not be securities, since their purpose is to facilitate the purchase.**
+> 这在某种程度上使得任何实用型代币都可能成为一种证券，因为它们可以在第三方平台上进行交易。**创业公司为了资助未来客户的购买而发行的实用型代币不应该是证券，因为它们的目的是促进购买。**
 
-[Coinbase](https://medium.com/@coinbase) published a useful tool that can help developers to figure out if their tokens are securities or not: [A securities Law Framework for Blockchain Tokens](https://docs.google.com/spreadsheets/d/1QxOV2dgxO3C_TyVE0-41ZwLlzPmB-EE1NNshJGuedCU/edit#gid=0) **Getting a score of over a 100 which qualifies your tokens as securities happens pretty fast…**
+[Coinbase](https://medium.com/@coinbase) 发布了一个有用的工具，它可以帮助开发人员判断他们的令牌是否属于证券：[区块链代币的证券法律框架](https://docs.google.com/spreadsheets/d/1QxOV2dgxO3C_TyVE0-41ZwLlzPmB-EE1NNshJGuedCU/edit#gid=0)。**在此工具中获得超过 100 分的分数，这将把你的代币判断为有价证券。**
 
-To learn more about ICOs as a new way to fund your business read my previous post: [Hack your funding with an Initial Coin Offering](https://medium.com/startup-grind/hack-your-funding-with-an-initial-coin-offering-2a2a0614bddf)
+想要了解更多关于 ICOs 作为一种为你的企业提供资金的新方式的信息，请阅读我之前的文章：[通过数字货币首次公开募资来破解你的资金来源难题](https://medium.com/startup-grind/hack-yourfundingwith-aninitialoffer-2a2a0614bddf)。
 
 [![](https://cdn-images-1.medium.com/max/400/1*11YPy_7jhKXEHVv2tW9xBw.jpeg)](http://eepurl.com/bBbrFX) [![](https://cdn-images-1.medium.com/max/400/1*tpiTwqg_k1Az7Qw3QXJYCg.jpeg)](Http://startupgrind.com/conference) [![](https://cdn-images-1.medium.com/max/400/1*ZArCdGaGEURWL6erukHAcQ.jpeg)](http://startupgrind.com/chapters)
 
-> You should not rely on this Medium post as legal advice. It is written for general informational purposes only, as a guide to certain of the conceptual considerations associated with the narrow issues it addresses. You should seek advice from your own counsel, who is familiar with the particular facts and circumstances of what you intend and can give you tailored advice.
+> 你不应该把本文视为法律建议。撰写这篇文章的目的只是为了提供一般的信息，作为与它所处理的狭窄问题相关的某些概念性的指南。你应该向你自己的顾问寻求建议，他们了解你的想要做的事情的具体事实和情况，可以为你提供量身定制的建议。
 
-> This Medium post is provided “as is” with no representations, warranties or obligations to update, although I reserve the right to modify or change this Medium post from time to time. No attorney-client relationship or privilege is created, nor is this intended to be attorney advertising in any jurisdiction.
+> 本文“按原样”发表，没有任何声明、保证或义务进行更新，但我保留不时修改或更改本文章的权利。没有建立当事人保密特权，也不打算在任何司法管辖区做律师广告。
 
-Thanks to [Will O'Brien](https://medium.com/@willobrien?source=post_page).
+感谢 [Will O'Brien](https://medium.com/@willobrien?source=post_page)。
 
 > 如果发现译文存在错误或其他需要改进的地方，欢迎到 [掘金翻译计划 — 区块链分舵](https://github.com/xitu/blockchain-miner) 对译文进行修改并 PR，也可获得相应奖励积分。文章开头的 **本文永久链接** 即为本文在 GitHub 上的 MarkDown 链接。
 
