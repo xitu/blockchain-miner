@@ -3,7 +3,6 @@
 > * 译文出自：[掘金翻译计划 — 区块链分舵](https://github.com/xitu/blockchain-miner)
 > * 本文永久链接：[https://github.com/xitu/blockchain-miner/tree/master/article/0001/understanding-the-difference-between-coins-utility-tokens-and-tokenized-securities.md](https://github.com/xitu/blockchain-miner/tree/master/article/0001/understanding-the-difference-between-coins-utility-tokens-and-tokenized-securities.md)
 > * 译者：[mingxing47](https://github.com/mingxing47)
-> * 校对者：
 
 # 如何区分支付型代币，实用型代币，证券化代币？
 
@@ -13,7 +12,7 @@
 
 最近数字货币首次公开募资（ICOs）无论是从数量、筹集到的巨额资金或是发行的速度上，都给从风险投资公司到政府机构的融资行业敲响了警钟。
 
-过去两个月我们见证了 ICOs 取得的巨大成功，但这个成功也给传统的融资机构带来了很多困惑。人们争先恐后地去了解什么是 ICO，以及如何利用它为自己谋利。举几个成功融资的例子：Bancor(+1.5 亿美元)，Status(+2 亿美元)，Civic(+3300 万美元)，Tezos(+2 亿美元)，EOS(+2 亿美元)。
+过去两个月我们见证了 ICOs 取得的巨大成功，但这个成功也给传统的融资机构带来了很多困惑。人们争先恐后地去了解什么是 ICO，以及如何利用它为自己谋利。举几个成功融资的例子：Bancor（+1.5 亿美元），Status（+2 亿美元），Civic（+3300 万美元），Tezos（+2 亿美元），EOS（+2 亿美元）。
 
 美国证券交易委员会（SEC）最近宣布将 ICOs 视为有价证券，这实际上可能是件好事，因为该机构强调了**数字货币首次公开募资**（ICOs）作为**一种新的、可行的融资方式**的重要性。该机构也强调了新法规的必要性。
 
