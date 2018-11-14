@@ -2,104 +2,103 @@
 > * 原文作者：[Tatiana Koffman](https://medium.com/@tatianakoffman?source=post_header_lockup)
 > * 译文出自：[掘金翻译计划 — 区块链分舵](https://github.com/xitu/blockchain-miner)
 > * 本文永久链接：[https://github.com/xitu/blockchain-miner/tree/master/article/0001/your-official-guide-to-the-security-token-ecosystem.md](https://github.com/xitu/blockchain-miner/tree/master/article/0001/your-official-guide-to-the-security-token-ecosystem.md)
-> * 译者：
-> * 校对者：
+> * 译者：[StellaBauhinia](https://github.com/StellaBauhinia)
 
-# Your Official Guide to the Security Token Ecosystem
+# Security Token 生态 — 项目指南
 
-A new generation of tokens is upon us. If 2017 was the year of utility tokens, 2018 will undoubtedly be remembered for the birth of an entirely new eco-system of platforms, exchanges, and funds, all looking to capitalize on the trillion-dollar opportunity that is tokenized securities. Tokenization is becoming particularly popular amongst more traditional issuers and investors, allured by the benefits of blockchain technology, as well as the crypto whales, looking to hedge their increasingly volatile portfolios.
+通证的新纪元正在到来。如果 2017 是 Utility Token 的一年，那么 2018 年无疑将是觊觎这 Security Token 后万亿市场的平台、交易所和基金的生态元年。受区块链技术利好和虚拟货币价格大起大落带来的套利机会吸引，资产的通证化（虚拟货币化）在更传统的发行商和投资人中变得特别流行。
 
 ![](https://cdn-images-1.medium.com/max/800/1*5XBQ-ZqyEMBsE77yhi9Irw.jpeg)
 
-_The combination of forces has created a new frontier in financial innovation._
+**各行业力量的结合创造了金融创新的新领域。**
 
-### **What are Security Tokens?**
+### **什么是 Security Tokens？**
 
-Security tokens, tokenized securities or investment tokens, are financial securities compliant with SEC regulations. These Gen-2 tokens can provide an array of financial rights to an investor such as equity, dividends, profit share rights, voting rights, buy-back rights, etc. Often these tokens represent a right to an underlying asset such as a pool of real estate, cash flow, or holdings in another fund. These rights are written into a smart contract and the tokens are traded on a blockchain-powered exchange.
+Security tokens（证劵化通证），tokenized securities（通证化证券）或者是 investment tokens（投资型通证），都是符合 SEC 规管的金融证券。这些二代通证可以为投资者提供一系列的财务权利，如股权、股息、利润分享权、投票权、回购权等。这些通证通常表示对诸如房产中的一个池塘、现金流或基金持有等基础资产的权利。这些权利被写入一个智能合约中，而这些通证在一个区块链货币交易所交易。
 
-> Some evangelists claim that these securities will soon become so popular, traditional stock exchanges and OTC markets will be completely replaced over the next decade.
+> 一些（通证）布道者称这些证券很快会广受欢迎，占据传统的证券和交易所和场外交易市场份额，它们在未来十年将会被完全取代。
 
-For more on types of security tokens and how they differ from utility tokens, please refer to an earlier piece [here](https://medium.com/thisisdna/a-world-where-all-tokens-are-securities-227651c4e173).
+有关更多 Security tokens 的类型以及他们与 Utility tokens 的区别，请参阅早期的一篇文章 [这里](https://medium.com/thisisdna/a-world-where-all-tokens-are-securities-227651c4e173)。
 
-### Why tokenize?
+### 为什么通证化？
 
-Advantages of tokenization include fractionalization of larger assets, increased liquidity, lower issuance fees, and greater market efficiency. However, _the greatest benefit that security tokens provide an issuer is access to a global pool of capital_. As these tokens can be sold and traded internationally (when compliant with regulations), they become more fairly priced and, therefore, attractive to investors. This SEC compliant offering is appealing to both institutional investors for it’s more recognizable structure, and to crypto investors for its technological innovation.
+通证化的优势包括给大型资产提供资产可分割性、给资产增加流动性、降低发行费用和加强市场效率。然而，*Security tokens* 给发行者提供的最大好处是他们可以以此接触到全球的资产池。由于这些通证可以在遵守规章的情况下在国际上销售和交易，它们的价格变得更加合理，因此，它们对投资者也更有吸引力。这个符合 SEC 要求的发行方案吸引了机构投资者，因为它的结构更加清晰；也因为技术创新，吸引了加密货币投资者。
 
-> **New Term to Know:** _“STO” — a security token offering. Similar to ICO for utility token offerings._
+> **新术语需知：** *“STO”* —— 一个 *Security token* 发行方案。类似于 *Utility token* 发行方案的术语 *ICO*。
 
-### **How to tokenize?**
+### **如何通证化？**
 
-If you are thinking of tokenizing your next funding round, prepare yourself for a six month process of hiring advisors, lawyers, and engaging with some of the following platforms. When done correctly, your company should spend two months working with advisors and legal counsel on structuring the offering, and creating marketing materials, one month working with a technical platform to onboard your token, and three months conducting a roadshow for both traditional and crypto investors.
+如果你想把你的下一轮融资通证化，请准备好六个月的时间用以聘请顾问、律师，以及参与以下一些平台的工作。顺利完成上一步后，你的公司应该花两个月时间与顾问和法律顾问一起设计发行方案和制作营销材料；花一个月的时间与一个技术平台合作推出你的通证；最后花三个月的时间对传统和加密货币投资者们进行路演。
 
-The following list should work as a solid starting point for figuring out what platforms and advisors to engage with, as well as blueprints from other issuances. Let’s get comfortable as we are about to go into some details.
+下面的列表应该会成为你找到合适的合作平台和投资者的坚实起点，同样它也提供了其它发行方案的蓝图。 咱们可以轻松一点了，因为我们即将进入细节部分。
 
 ![](https://cdn-images-1.medium.com/max/800/1*azTi3tk1NOeJ3H1qOZ_t3A.gif)
 
-_Note: This is a living and breathing guide of notable players in the industry which will be updated periodically. Feedback is welcome. If you have a platform or an issuance that you believe should be added, please contact me via_ [_Twitter_](https://twitter.com/tatianakoffman)_._
+**注：这是一个定期更新的行业知名人物（组织）简介，欢迎反馈。如果你有相关的平台或者发行商需要添加（在上面）请在[推特](https://twitter.com/tatianakoffman)上联系我。**
 
-### Issuance Platforms:
+### 发行平台：
 
-These platforms range from open-source protocols for token issuance, requiring technical expertise, to more turn-key technical and advisory services.
+这些平台提供包括通证发行开源协议、招聘技术专家，以及提供现成技术和咨询的服务。
 
 ### [Polymath](https://www.polymath.network/)
 
 ![](https://cdn-images-1.medium.com/max/600/1*g0haFHnujPVYoqGeWw9SAg.png)
 
-Polymath is a blockchain protocol that facilitates the issuance and distribution of legally compliant token-based securities. The protocol embeds financial security requirements into the design of new security tokens, streamlining the process of launching financial products on the blockchain seamlessly. The Polymath platform provides means to trade security tokens, authenticate investors, connect with legal delegates, and access a developers’ marketplace. Poly, an ERC20 token, powers the system and acts as the underlying economic unit that facilitates authentication, legal, and developer services.
+Polymath 是一种区块链通讯协议，以它的标准的通证化证券符合法律要求，并利于发行和分配。这个协议将金融安全需求潜入到新式 Security tokens的设计中，精简了在区块链上无缝发行金融产品的流程。Polymath 平台提供 Security tokens 交易、投资者认证、连接合法代表和接触技术开发者市场的渠道。Poly 是一种 ERC20 通证，是该系统运转的燃料和基础经济单位，促进了内部的认证、法律和开发服务。 
 
-**Amount Raised:** [$59M](http://www.businessinsider.com/a-startup-raised-59-million-in-a-token-sale-to-usher-in-the-next-generation-of-crypto-2018-2) (ICO)
+**已募集资金：** [5900 万美元](http://www.businessinsider.com/a-startup-raised-59-million-in-a-token-sale-to-usher-in-the-next-generation-of-crypto-2018-2)（ICO）
 
-**Management:** [Trevor Koverko](https://www.linkedin.com/in/trevorkoverko/), CEO,  Entrepreneur, blockchain speaker, and cryptocurrency investor
+**管理团队：** [Trevor Koverko](https://www.linkedin.com/in/trevorkoverko/)，CEO，企业家，区块链演讲者，和加密货币投资人
 
-**Notable Advisors:**
+**知名顾问：**
 
-Anthony Diiorio, Ethereum co-founder, CEO at JAXX
+Anthony Diiorio，以太坊联合创始人，JAXX 的 CEO
 
-Steven Nerayoff, Alchemist Ventures
+Steven Nerayoff，Alchemist Ventures
 
-Patrick Byrne, CEO at Overstock
+Patrick Byrne，Overstock 的 CEO
 
 ### [Harbor](https://harbor.com/)
 
 ![](https://cdn-images-1.medium.com/max/600/1*6IsqD6-ydY60I6fWStYmZw.jpeg)
 
-Harbor is an open-source platform that enables traditional investment classes to migrate seamlessly onto the blockchain. Through a standardized process, Harbor streamlines regulatory steps to ensure that companies who migrate their assets comply with legal requirements. Through a [Private Placement ICO](https://medium.com/harborhq/introducing-the-private-ico-pico-3e8b782924c1), Harbor provides for a Reg D-compliant private sale, combined with a new token permissioning technology, the R-Token. The standard integrates requirements such as KYC/AML, tax rules, reporting information, and accreditation status into each new token formulated through the system.
+Harbor 是一个能把传统投资类别无缝迁移到区块链上的开源平台。通过标准化流程，Harbor 简化了合规步骤，保证了公司的迁移资产的过程中合乎法律要求。通过 [隐私保护型 ICO](https://medium.com/harborhq/introducing-the-private-ico-pico-3e8b782924c1) 方案，Harbor 结合新式可限制访问的通证技术提供了合规的 R-Token 内部销售。该标准将诸如 KYC（顾客身份审查）、AML（反洗钱条例）、税则、报告信息和认证状态的需求通过系统集成到每个发行的通证中。
 
-**Amount Raised:** $[10](https://medium.com/harborhq/harbor-raises-10-million-to-power-crypto-securities-compliance-b1102d656efd)M (Series A)
+**已募集资金：** [1000 万美元](https://medium.com/harborhq/harbor-raises-10-million-to-power-crypto-securities-compliance-b1102d656efd)（A 轮）
 
-**Management:** David Sacks, CEO, General Partner @ Craft Ventures, previously COO of Paypal, Founder of Yammer, CEO of Zenefits
+**管理团队：** David Sacks，CEO，Craft Ventures 的主要伙伴，Paypal 前 COO，Yammer 创始人，Zenefits CEO
 
-Bob Remeika, CTO, VP Zenefits, Engineer at Yammer
+Bob Remeika，CTO，Zenefits 的 VP，Yammer 的工程师
 
-Arisa Amano, CPO, VP Zenefits, Marketing at Yammer
+Arisa Amano, CPO，Zenefits 的 VP，负责 Yammer 的市场营销工作
 
 ### [Securitize](https://www.securitize.io/)
 
 ![](https://cdn-images-1.medium.com/max/600/1*Dr-ea0qdzYWjSBAvHjnwiQ.jpeg)
 
-Securitize is a regulatory compliant cloud service solution for the tokenization of securities, enabling tokenization of funds, companies, or other entities. The company provides several services including establishing the legal and regulatory readiness of the issuers and their legal team, streamlining investor registration in compliance with KYC/AML accreditation or other legal requirements, customizing smart contracts to match issuers’ unique requirements and security token data throughout the lifetime of the security. Spun out of [SPiCE VC](https://www.spicevc.com/), the platform has secured commitments from companies running ICOs in aggregate of $500 million, including offerings from [CryptoOracle](https://www.cryptooracle.io/), [Kairos.com](http://kairos.com/), [Lottery.com](https://tokensale.lottery.com/) and [22X Fund](https://www.22xfund.com/).
+Securitize 是一个为证券通证化提供法律合规云服务的公司，它还支持基金、公司和其它实体的通证化。该公司提供包括建立通证发行商法务和合规预备团队、根据 KYC 和 AML 认证简化投资者注册流程，和为发行商独特需求和 Security Token 数据闭环定制智能合约。从 [SPiCE VC](https://www.spicevc.com/) 分离出来后，该平台已经在 ICO 渠道获得总计 5 亿美元的投资，投资商包括 [CryptoOracle](https://www.cryptooracle.io/)，[Kairos.com](http://kairos.com/)，[Lottery.com](https://tokensale.lottery.com/) 和 [22X Fund](https://www.22xfund.com/)。
 
-**Management:** [Carlos Domingo](https://www.linkedin.com/in/carlosdomingo/), CEO and Chairman, Managing partner at Spice VC, Former CEO at Telefonica R&D
+**管理团队：** [Carlos Domingo](https://www.linkedin.com/in/carlosdomingo/)，主席兼 CEO，Spice VC 管理伙伴，Telefonica R&D 前 CEO
 
-[Jamie Finn](https://www.linkedin.com/in/jamesfinn/), President, Former EVP Business Development Aki, AT&T, Kontera, Telefonica
+[Jamie Finn](https://www.linkedin.com/in/jamesfinn/)，总裁，Aki，AT&T，Kontera，Telefonica 公司的前商务开拓执行副总裁
 
-[Shay Finkelstein](https://www.linkedin.com/in/shayfinkelstein/), CTO, CTO at SPiCE VC.
+[Shay Finkelstein](https://www.linkedin.com/in/shayfinkelstein/)，CTO，SPiCE VC 的 CTO
 
-### [Swarm Fund](https://swarm.fund/)
+### [Swarm 基金](https://swarm.fund/)
 
 ![](https://cdn-images-1.medium.com/max/600/1*B3umv45wXo8HMOGU6CY57g.png)
 
-Swarm tokenizes real-world assets using the SRC20 protocol, a cryptographic standard for security tokens. Tokenized objects become “assets” that can be easily managed, governed and traded on the Swarm network. Swarm Invest, launched in January 2018, allows tokenized assets to be offered as investment opportunities. Individuals can invest cryptocurrency such as SWM, BTC, and ETH (and soon, fiat) into real world assets and receive SRC20 tokens in return, granting them ownership and governance rights, a legally enforceable right to any revenue the asset generates, and the ability to trade the tokens in a regulatory compliant manner. Areas of focus include real estate, renewables, agriculture, tech companies, crypto hedge funds, impact investments (development projects and post-disaster rebuilding), infrastructure, among others.
+Swarm 使用了一个为 Security token 设定的密码学协议标准 —— SRC20 协议，以此把现实世界的资产通证化。通证化的对象变成了可以在 Swarm 网络上轻易调度、管理和交易的资产。在 2018 年 1 月出现的 Swarm Invest 公司允许通证化资产成为投资机会。个人可以把诸如 SWM、BTC 和 ETH（不久后其它法币也会被纳入）之类的加密货币投资到现实世界的资产里，并且收到对应的 SRC20 代币，这些代币代表了资产的所有权和管理权，和对资产产生的任何收入的法律层面上可执行权利，以及在合规前提下交易代币的能力。资产的重点领域包括房地产、可再生能源、农业、科技公司、加密货币对冲基金、社会效应投资（项目开发和灾后重建）、基础设施等。
 
-**Amount Raised:** $5.5M (ICO)
+**已募集资金：** 550 万美元(ICO)
 
-**Management:** Philipp Pieper, CEO; Timo Lehes, Chief Investment Officer; Chris Eberle,  COO
+**管理团队：** Philipp Pieper，CEO；Timo Lehes，首席投资官；Chris Eberle，COO
 
-**Notable Advisors:** Anthony Di Iorio**,** CEO & Founder at Jaxx & Decentral, Co-Founder at Ethereum
+**知名顾问：** Anthony Di Iorio**，** Jaxx 和 Decentral 的 CEO 和创始人；Ethereum 联合创始人
 
-Chris Kitze**,** Chairman of the Alphabit Digital Currency Fund
+Chris Kitze**，** Alphabit Digital Currency Fund 的主席
 
-David Drake**,** Founder and Chairman, LDJ Capital
+David Drake**，** LDJ Capital 的创始人和主席
 
 ### Hybrid Solutions:
 
@@ -107,221 +106,220 @@ David Drake**,** Founder and Chairman, LDJ Capital
 
 ![](https://cdn-images-1.medium.com/max/600/1*BgwKSECYJ-zWSX8PAL6lyw.jpeg)
 
-Templum is a regulatory compliant solution for security token issuance and subsequent secondary trading. Templum Markets (formerly Liquid M Capital, acquired by Templum for [$1.3M](https://www.crunchbase.com/organization/liquid-m-capital)) is a registered alternative trading system (ATS) and a broker-dealer firm. Templum offers a platform that both enables the initial sale offering of security tokens and operates as a marketplace in which secondary trading can take place by issuers and investors. Like many other solutions, Templum will integrate AML and KYC as part of the platform to comply with regulatory requirements.
+Templum 是一个合规的 Security token 发行和后续二手交易的解决方案。Templum Markets（前身是 Liquid M Capital，以 [130 万美元](https://www.crunchbase.com/organization/liquid-m-capital)被 Templum 收购）是一个已注册的替代交易系统（ATS）和经纪商公司。Templum 提供了一个既支持 Security token 初次发售，又支持发行商和投资人进行二手交易的平台。与许多其它解决方案一样，Templum 将会把 AML 和 KYC 整合成平台的一部分以达到合规要求。
 
-**Amount Raised:** $[2.7M](https://www.crunchbase.com/organization/templum#section-overview) (private round)
+**已募集资金：** [270 万美元](https://www.crunchbase.com/organization/templum#section-overview)（私募轮）
 
-**Management:** [Christopher Pallotta](https://www.linkedin.com/in/christopher-pallotta-bb3b6430/), CEO, MD at Raptor Capital Management
+**管理团队：** [Christopher Pallotta](https://www.linkedin.com/in/christopher-pallotta-bb3b6430/)，Raptor Capital Management 的 CEO 和总经理
 
-[Josef Schaible](https://www.linkedin.com/in/josefschaible/), COO, Former Director at Salt Lending
+[Josef Schaible](https://www.linkedin.com/in/josefschaible/)，COO，Salt Lending 的前总监
 
 ### [Securrency](https://securrency.com)
 
 ![](https://cdn-images-1.medium.com/max/600/1*lWBlyB0EBn37YPkFXV2Z7A.png)
 
-Founded in 2015, Securrency offers a protected, scalable platform providing liquidity to previously illiquid assets. The company’s platform consists of several products: (1) Securrency™ — facilitates regulatory compliance and enables the trade or transfer of tokenized securities, (2) RegTex™- provides regulatory compliance services such as, KYC/AML reporting, validation of investor accreditation and eligibility, reporting, and tax submissions, (3) SmartContraX™ — a blockchain smart contract development service, (4) InfinXchange™ — provides standard interfaces for payments, exchanges, asset pricing, and other transactions.
+Securrency 成立与 2015 年，提供了一个为非流动性资产提供流动性的，受保护并可扩展的平台。该公司的平台由几个产品组成：(1) Securrency™ —— 促进合规，并且给通证化证券的交易或转移赋能，(2) RegTex™ —— 提供包括 KYC 或 AML 报告、投资人认证与资格验证、其它报告以及纳税申报等合规服务，(3) SmartContraX™ —— 提供区块链智能合约开发服务，(4) InfinXchange™ —— 提供用于支付、交换、资产定价和其他交易的标准接口。
 
-**Amount Raised:** [$10M](http://www.abnnewswire.net/press/en/91982/Chapmans-Limited-%28ASX-CHP%29-Secures-US$4M-in-Leading-Blockchain-Finance-and-Trading-Platform-Securrency-Inc-91982.html)
+**已募集资金：** [1000 万美元](http://www.abnnewswire.net/press/en/91982/Chapmans-Limited-%28ASX-CHP%29-Secures-US$4M-in-Leading-Blockchain-Finance-and-Trading-Platform-Securrency-Inc-91982.html)
 
-**Management:** [Dan Doney](https://www.linkedin.com/in/ddoney), CEO, previously Chief Innovation Officer, Defense Intelligence Agency
+**管理团队：** [Dan Doney](https://www.linkedin.com/in/ddoney)，CEO，Defense Intelligence Agency 前首席创新官
 
-[Ron Poe](https://www.linkedin.com/in/poeron/), Compliance Officer, Captain U.S. Marines
+[Ron Poe](https://www.linkedin.com/in/poeron/)，合规专员，美国海军陆战队上尉
 
-[John Hensel](https://www.linkedin.com/in/john-hensel-37149b46/), COO, Retired U.S. Navy Captain, managed aerospace portfolios valued in excess of $15B
+[John Hensel](https://www.linkedin.com/in/john-hensel-37149b46/)，COO，退役美国海军上尉，曾管理估价超过 150 亿美元的航天投资组合
 
-### Exchanges:
+### 交易所：
 
 ### [tZERO](https://www.tzero.com/)
 
 ![](https://cdn-images-1.medium.com/max/600/1*_lN5E5KE548JIPa-lcgYqA.png)
 
-tZERO, a subsidiarity of Overstock.com, focuses on the development of various blockchain supported solutions for the capital markets. The company’s present offering consists of brokerage services, stock inventory management systems, smart order routing solutions through a network of more than 100 brokerages, a 24-hour trading platform, as well as other services. The company handles traditional equities but is planning on scaling its operations by integrating a token trading system for crypto securities. The company’s token — tZERO, is an ERC20 security token, that pays 10% of adjusted gross revenues to token holders on a quarterly basis.
+作为 Overstock.com 的子公司，tZERO 专注为资本市场开发各种区块链解决方案。 公司目前的产品包括经纪商服务、库存管理系统、在网格状联系的 100 多个经纪商中提供的智能订单转发解决方案、24小时交易平台以及其它服务。该公司经营传统股票，但计划通过集成加密货币交易系统来扩大其业务。该公司的通证是 ERC20 Security token，公司将会每季度向通证持有者支付调整后的总收入的 10%。
 
-**Amount Raised:** [$114M](https://www.crowdfundinsider.com/2018/03/129016-tzero-raises-114-million-pre-sale-ico-migrates-away-saftlaunch-startengine-next-phase-security-token-sale/) (ICO in progress)
+**已募集资金：** [1 亿 1400 万美元](https://www.crowdfundinsider.com/2018/03/129016-tzero-raises-114-million-pre-sale-ico-migrates-away-saftlaunch-startengine-next-phase-security-token-sale/)（ICO 正在进行中）
 
-**Management:** [Patrick Byrne](https://www.linkedin.com/in/patrick-m-byrne-0b8380a7/), CEO, Founder and CEO Overstock.com, Founder Medici Ventures
+**管理团队：** [Patrick Byrne](https://www.linkedin.com/in/patrick-m-byrne-0b8380a7/)，CEO，Overstock.com 的 CEO 和创始人，Medici Ventures 创始人
 
-[Joe Cammarata](https://www.linkedin.com/in/joseph-cammarata-6249745/), President, CEO SpeedRoute (tZERO subsidiary), CEO and founder at Sonic Trading
+[Joe Cammarata](https://www.linkedin.com/in/joseph-cammarata-6249745/)，总裁，SpeedRoute（tZERO 子公司）的 CEO，Sonic Trading 的 CEO 和创始人。
 
-[Ralph Daiuto](https://www.linkedin.com/in/ralph-a-daiuto-jr-03b69a52/), COO and General Counsel
+[Ralph Daiuto](https://www.linkedin.com/in/ralph-a-daiuto-jr-03b69a52/)，COO 兼法律总顾问
 
-[John Gilchrist](https://www.linkedin.com/in/john-gilchrist-8091a45/), CIO, previously VP of at Merrill Lynch
+[John Gilchrist](https://www.linkedin.com/in/john-gilchrist-8091a45/)，CIO，Merrill Lynch 的前副总裁
 
 ### [OpenFinance Network](https://www.openfinance.io/)
 
 ![](https://cdn-images-1.medium.com/max/600/1*JoRUVnIqUZlEZFrVcdRBnA.jpeg)
 
-OpenFinance Network (OFN) is an open-source platform specializing in secondary markets for alternative assets. The OFN team has been working together since 2014, offering trading, clearing and settlement services. Recently, the team has refocused their attention on blockchain solutions and has developed a compliant standard by which tokenized securities can be exchanged and eventually issued on the blockchain. Last Month, OFN enabled one of the first verified compliant security token transactions and is now accepting applications to list additional security tokens.
+OpenFinance Network（OFN）是一个专供资产可替代物二级市场的开源平台。OFN 团队在 2014 年便开始合作，提供交易、清算和结算服务。最近，该小组已经将注意力重新集中在区块链解决方案上，并且开发了一套可供通证化证券在区块链上交易乃至发行的兼容标准。上个月，OFN 启用了第一个通过验证的兼容性 Security token 转账服务，现在正在接受其它 Security token 的上线申请。
 
-**Amount Raised:** $[2.2M](https://www.crunchbase.com/organization/cfx-markets#section-twitter) (Series A)
+**已募集资金：** $[220 万美元](https://www.crunchbase.com/organization/cfx-markets#section-twitter)（A 轮）
 
-**Management:** Juan M. Hernandez, CEO, Founder of PeerRealty, and the Pop Stock Exchange
+**管理团队：** Juan M. Hernandez，PeerRealty 和 Pop Stock Exchange 的 CEO 兼创始人
 
-Ian Shipman, Head of R&D
+Ian Shipman，研发负责人
 
 ### [AmbiSafe/Orderbook](https://www.ambisafe.co/)
 
 ![](https://cdn-images-1.medium.com/max/600/1*QxSqSRmTwdTWxPOKjJV0hw.png)
 
-Orderbook is a decentralized exchange that automates the process of investor verification through a specialized token. The token, named RAP, ensures that ICO and other crypto related transactions are compliant by cross-referencing local jurisdictions requirement with its database of RAP token holders credentials. For example, If an investor who does not meet the proper regulatory requirements attempts to buy a token on the exchange, the system compares the investor’s permission level against an internal database and prevents them from finishing the purchase.
+Orderbook 是一个能通过一种专门通证自动验证投资者的去中心化交易所。该通证名为 RAP，它通过交叉引用本地权限需求和数据库内 RAP 通证持有者身份凭证，确保投资者在参与 ICO 和其它加密货币相关的交易是一致的。例如，如果不符合适当监管要求的投资者试图在交易所购买通证，系统将会把该投资者的权限与内部数据库比较，进而阻止他们完成购买流程。
 
-**Management:** Andrii Zamovsky, Founder
+**管理团队：** Andrii Zamovsky，创始人
 
-Stephen Pettibone, CCO, Former VP of compliance at NASDAQ
+Stephen Pettibone，CCO，前纳斯达克合规副总裁
 
-### Liquidity Layers:
+### 流动层平台：
 
 ### [Bancor](https://www.bancor.network/)
 
 ![](https://cdn-images-1.medium.com/max/600/1*dlhGmiZgVPDvquLCMklN3w.png)
 
-Bancor offers a liquidity model that connects multiple tokens to one pool of capital, enabling price discovery and ensuring liquidity even in low transaction volume environments. In the context of securities, this model complements existing best practices and provides alternative ways to achieve liquidity, enhancing the benefits of moving securities to the blockchain. Bancor is often described as the long-tail of value creation, that is, the long tail of low demand and low volume products. In the tokenized security market, one example for this use case is found in the partnership between SPiCE VC, a tokenized VC fund and Bancor. As part of the arrangement, SPiCE VC is committed to holding up to 5% of its capital on the Bancor network, so that token holders can benefit from additional ways to liquidate their holdings.
+Bancor 提供了一个连接多种通证的资金池流动性模型，它使价格发现成为可能，并能在低交易量的环境中保证流动性。在证券方面，该模型对目前的最佳实践方案做了补充，并提供了实现流动性的替代方案，由此放大了证券（通证）移到区块链上的好处。Bancor 经常被描述为价值创造后其低需求和低容量产品的长尾工具。在通证化证券市场中，一个长尾的用例便是 SPiCE VC（一个通证化风头基金）和 Bancor 的伙伴关系。根据协议 SPiCE VC 承诺将其 5% 的资本保留在 Bancor 网络上，以便通证持有者可以通过出售等其它方式受益。
 
-**Amount Raised:** $152M (ICO)
+**已募集资金：** 1 亿 5200 万美元（ICO）
 
-**Management:** [Guy Benartzi](https://www.linkedin.com/in/guy-benartzi-734613146/), Co-Founder, previously CEO @ Mytopia, President @ Particle Code
+**管理团队：** [Guy Benartzi](https://www.linkedin.com/in/guy-benartzi-734613146/)，联合创始人，Mytopia 前 CEO，Particle Code 前总裁
 
-[Galia Benartzi](https://www.linkedin.com/in/galia-benartzi-1a0aa220/), Co-Founder, previously Venture Partner @ Founders Fund, CEO Particle Code
+[Galia Benartzi](https://www.linkedin.com/in/galia-benartzi-1a0aa220/)，联合创始人，Founders Fund 前风投伙伴，Particle Code 的 CEO
 
-[Eyal Hertzog](https://www.linkedin.com/in/hertzog/), Product Architect
+[Eyal Hertzog](https://www.linkedin.com/in/hertzog/)，产品架构师
 
 ### [Airswap](https://www.airswap.io/)
 
 ![](https://cdn-images-1.medium.com/max/600/1*jQqfK5Jna6Rgx6Ejk_TxCw.png)
 
-One of the big promises of the tokenization of assets is to open the floodgates of the global pool of capital, eliminating siloed demand and supply dynamics restricted by geography and infrastructure. Airswap is a decentralized exchange that enables trading on a global scale, connecting individual entities across markets. In the context of security tokens this results in increased liquidity and a generally more stabilized, less volatile demand environment.
+资产通证化的一个大前景就是它打开了全球资本池的阀门，消除了受地理和基础设施限制的需求和供应动态。Airswap 是一个去中心化交易所，它容许全球范围的交易，将单个实体连接到整个市场。在交易所流转的 Security tokens 提升了流动性，并催生出一个更稳定、需求波动更小的环境。
 
-**Amount Raised:** [$36M](https://www.crunchbase.com/organization/airswap#section-funding-rounds) (ICO)
+**已募集资金：** [3600 万美元](https://www.crunchbase.com/organization/airswap#section-funding-rounds)（ICO）
 
-**Management:**
+**管理团队：**
 
-Michael Oved, Co-Founder, Algo-trader, Partner at Virtu-Financial;
+Michael Oved, 联合创始人，Virtu-Financial 的合伙人和量化交易员；
 
-Don Mosites, Co-Founder
+Don Mosites, 联合创始人
 
-### Existing Tokenized Securities:
+### 现存的通证化证券：
 
-> _Brave the new world. As there are only a handful of existing issuers and only about a dozen more in the works, this is the frontier of financial innovation._
+> **在新世界中勇敢前行吧。由于目前只有少数的发行商，正在组建的也只有十几个，这就是金融创新的前沿。**
 
 ### [BCap (Blockchain Capital)](http://blockchain.capital/)
 
 ![](https://cdn-images-1.medium.com/max/600/1*4-tTdo1Nlo7q-zMfPbg5bg.jpeg)
 
-Pioneered by Brock Pierce himself, Blockchain Capital was arguably the first to introduce a public offering for a securitized token. In its ICO, Blockchain Capital hoped that it could improve the emerging token sale industry in [multiple ways](https://www.smithandcrown.com/sale/blockchain-capital/). The offering created a blueprint for future tokenized securities, invested in other ICO’s that embodied some of the best practices and accepted funds only from accredited investors. The token sale reached its hard cap of $10M within six hours. The proceeds from the offering were transferred to one of Blockchain Capital’s funds. According to the offering memorandum, the fund’s managing partners collect a 2.5% management fee and a 25% performance fee. The remainder of profits are to be distributed to token holders.
+Blockchain Capital 是由 Brock Pierce 率先提出的第一个证券化通证公开发行的公司。在 ICO 阶段中，Blockchain Capital 希望能以[多种方式](https://www.smithandcrown.com/sale/blockchain-capital/)改善新兴的通证销售行业。它提出了未来通证化证券的蓝图，它可以投资在其它提现最佳实践的 ICO 上，并只接受认可投资者的资金。它的 ICO 在 6 小时内就达到了 1000 万美元的封顶额。发售的收益被转移到了 Blockchain Capital 的其中一个资金中。根据提供的备忘录，基金的管理合伙人收取 2.5% 的管理费和 25% 的收益绩效。剩余的利润将分配给通证持有人。
 
-**Amount Raised:** $[10](http://www.the-blockchain.com/2017/04/11/blockchain-capital-closes-ico-10-million-in-six-hours-raised-in-record-time/)M
+**已募集资金：** [1000 万美元](http://www.the-blockchain.com/2017/04/11/blockchain-capital-closes-ico-10-million-in-six-hours-raised-in-record-time/)
 
-**Management:** Brock Pierce, Co-founder @ Blockchain Capital, DNA.fund, EOS, Tether and more
+**管理团队：** Brock Pierce, Blockchain Capital, DNA.fund, EOS, Tether 等更多项目的联合创始人
 
-Bart Stephens, Co-founder & Managing Partner
+Bart Stephens, 联合创始人和管理合伙人
 
-Bradford Stephens, Co-founder & Managing Partner
+Bradford Stephens, 联合创始人和管理合伙人
 
 ### [Science Blockchain](https://science.tokenhub.com/)
 
 ![](https://cdn-images-1.medium.com/max/600/1*b3u0eb_q40Ey5lFjR_L6Pg.png)
 
-Science Blockchain is a fund and an incubator focused on blockchain investments. Thus, it’s almost logical that the fund was raised through an Initial Coin Offering of a security token (SCI). The SCI-token provides token holders with rights to up to 70% of the stream of new tokens generated from portfolio companies. Additionally, the fund’s proceeds from liquidity events are anticipated to be used to repurchase tokens via a buyback program, thus allowing investors to enjoy equity appreciation.
+Science Blockchain 是一个着重于区块链投资的基金和孵化器。因此，该基金通过 Secruity token 的 ICO（SCI）来筹措资金基本是合乎逻辑的。SCI 通证为通证持有者提供多达 70% 的投资组合产生的新通证流的权益。此外，基金从流动性操作中获得的收益将会根据回购计划进行通证回购，从而容许投资人享受通证的升值。
 
-**Amount Raised:** $12.3M
+**已募集资金：** 1230 万美元
 
-**Management:** Founders Peter Pham, Mike Jones and Greg Gilman, founders and investors in the original [Science incubator](https://www.science-inc.com/).
+**管理团队：** 创始人团队 Peter Pham, Mike Jones 和 Greg Gilman，他们都是原 [Science incubator](https://www.science-inc.com/) 的创始人和投资者。
 
 ### [Lottery.com](https://tokensale.lottery.com/)
 
 ![](https://cdn-images-1.medium.com/max/600/1*YvWcww91m0tyOtvkM1K4mw.png)
 
-Lottery.com, formerly AutoLotto, is a mobile lottery service. The company intends to utilize blockchain technology to enhance its services through instant payouts, transparency, flexibility, and expansion across international markets. The company is nearing the close of the private sale of it’s STO, rumored to be in the nine-figure range. This securitized token produces a financial yield to token holders based on gross raffle sales. Securitize and Cashbet have partnered with Lottery.com to help bring the offering to the market.
+Lottery.com 的前身是 AutoLotto，它是一个移动端彩票服务。该公司打算使用区块链技术，通过它即时支付、资讯公开透明、使用灵活、跨国际市场的特性提高服务质量。该公司近期将会结束它的 STO 内部预售，据说售出额在九位数的程度。这个证券化通证基于抽奖池的总销售额向通证持有者提供财务收益。Securitize 和 Cashbet 已经与 Lottery.com 展开合作关系，帮助它向市场推出产品。
 
-**Amount Raised:** in progress
+**已募集资金：** 进行中
 
-**Management:** [Tony Dimatteo](https://www.linkedin.com/in/tonydimatteo/), CEO
+**管理团队：** [Tony Dimatteo](https://www.linkedin.com/in/tonydimatteo/)，CEO
 
-[Matt Clemenson](https://www.linkedin.com/in/mattclemenson/), President, Crypto Thought Leader
+[Matt Clemenson](https://www.linkedin.com/in/mattclemenson/)，总裁，加密货币思维领先者
 
-[Zach Goldberg](https://www.linkedin.com/in/zachgoldberg/), CTO, previously Google, Tencent, WeChat
+[Zach Goldberg](https://www.linkedin.com/in/zachgoldberg/)，CTO，之前在 Google、Tencent 和 WeChat 工作
 
-**Notable Advisors:** [Miguel Forbes](https://www.linkedin.com/company/miguel-forbes/), Founder @ Forbes.com
+**知名顾问：** [Miguel Forbes](https://www.linkedin.com/company/miguel-forbes/)，Forbes.com 创始人
 
-[Joey Krug](https://www.linkedin.com/in/joeykrug/), Chief Investment Officer @ Pantera Capital
+[Joey Krug](https://www.linkedin.com/in/joeykrug/)，Pantera Capital 首席投资官
 
-[Miko Matsamura](https://www.linkedin.com/in/mikomatsumura/), Co-Founder @ Evercoin
+[Miko Matsamura](https://www.linkedin.com/in/mikomatsumura/)，Evercoin 联合创始人
 
 ### [SPiCE VC](https://www.spicevc.com/)
 
 ![](https://cdn-images-1.medium.com/max/600/1*5BqRbOsP2BPzsnppqDv39A.png)
 
-While VCs have been behind almost all the greatest disruptions of our time, the VC industry has remained almost untouched. SPiCE VC intends to change this through its tokenized VC fund model that offers almost immediate liquidity for investors. If, in traditional VC funds, LPs had to wait anywhere between 7–12 years until they gain full access to their funds, SPiCE token holders get a piece of the exit pie, while enjoying a tradable asset. Even though the company intends to invest in some utility tokens, SPiCE is focused first and foremost on security tokens, with Securitize being their first portfolio company.
+虽然风投机构已经滞后于我们这个时代几乎所有的破产崩盘（并蒙受损失），但风投行业仍然无动于衷。SPiCE VC 打算通过它证券化的风投基金改变这一现状，为投资者提供几乎即时的流动性。如果在传统的风投基金中，出资人必需等待 7-12 年才能获得对其资金的完全掌控，SPiCE 通证持有者将获得一块可以退市、并随时交易的资产。尽管该公司打算投资一些 Utility tokens，但 SPiCE 重点关注 Security tokens，Securitize 是他们第一家投资组合公司。
 
-**Amount Raised:** $[40M](https://www.crunchbase.com/organization/spice-vc#section-funding-rounds)
+**已募集资金：** $[4000 万美元](https://www.crunchbase.com/organization/spice-vc#section-funding-rounds)
 
-**Management:** Carlos Domingo, Managing Partner, Former CEO of Telefonica R&D
+**管理团队：** Carlos Domingo, 管理合伙人， Telefonica R&D 的前 CEO
 
-Tal Elyashiv, Managing Partner, Former CIO at Capital One, Bank of America
+Tal Elyashiv, 管理合伙人，Capital One，Bank of America 的前 CIO
 
-Ami Ben David, Managing Partner
+Ami Ben David，管理合伙人
 
-### Upcoming Issuances:
+### 筹备中的发行商：
 
 ### [22X Fund](https://www.22xfund.com/)
 
 ![](https://cdn-images-1.medium.com/max/600/1*wV3U8OpCoptcMBvUFPIyfQ.jpeg)
 
-Startup fundraising is hard. That’s why a group of entrepreneurs from a recent batch of 500 Startups, a highly selective accelerator, came together to form a new tokenized fund. 22X Fund will invest in up to 30 of the startups that graduated from the San Francisco 2017 [500 Startups](https://500.co/) batch. The fund will hold between 2.5%-10% equity in the companies it invests in. Token holders receive their returns by trading the tokens on an exchange or through a token repurchase program that applies after a portfolio company experiences a liquidity event such as an exit or an IPO.
+初创公司的孵化募资是很难的。这就是为什么最近有一批创业者联合起来组成了一家新的通证化基金，他们来自于 500 多家初创企业，（获资者）将从一个高度选择性的加速器（甄选）而出。22X Fund 将会投资高达 30 家从 San Francisco 2017 [500 初创企业](https://500.co/)批次毕业的初创公司。该基金将持有其投资公司 2.5% 到 10% 的股权。通证持有者通过在交易所交易通证或通证回购计划获得回报，（该分红）程序会在公司在退出或 IPO 的阶段中实施。
 
-**Amount Raised:** $[22M](https://www.22xfund.com/) to date (goal $35M)
+**已募集资金：** 目前 [2200 万美元](https://www.22xfund.com/)（目标 3500 万美元）
 
-**Notable Management and Advisors:** Jamie Finn, Porfolio Manager
+**知名管理和顾问：** Jamie Finn，投资组合经理
 
-Tim Reynders, Investment Advisor
+Tim Reynders，投资顾问
 
 ### [PropertyCoin](https://propertycoin.re/en/)
 
 ![](https://cdn-images-1.medium.com/max/600/1*Xu-I1MwJVrpf2bNG6Tlnqw.png)
 
-PropertyCoin is another example of how security tokens can transform existing markets. PropertyCoin is opening up real estate, one of the largest asset classes, through a 100% asset backed token. Aperture, the operator behind the STO, intends to invest the proceeds in two business areas — (1) flipping residential properties and (2) lending to other property investors. 50% of the profits will be shared with token holders through reinvestments.
+PropertyCoin 是 Security tokens 如何改造现有市场的另一个例子。PropertyCoin 正通过 100% 资产支持的通证打开最大的资产类别之一 —— 房地产。Aperture，他们 STO 的运营官，计划在两个业务领域投资：(1) 翻新住宅物业和 (2) 其它物业投资贷款。50% 的利润将通过重新投资于通证持有者共享。
 
-**Amount Raised:** Seeking to raise $50M+ via STO
+**已募集资金：** 试图通过 STO 募集超过 5000 万美元
 
-**Notable Management and Advisors:** Andrew Jewett Co-CEO, Former Executive at leading Real Estate operator, RBS securities
+**知名管理和顾问** Andrew Jewett Co-CEO，RBS securities 前房地产运营总监
 
-Matt Miles Co-CEO, Former Executive at leading Real Estate operator, RBS securities
+Matt Miles Co-CEO，RBS securities 前房地产运营总监
 
 ### [Siafunds](https://siafunds.tech/)
 
 ![](https://cdn-images-1.medium.com/max/600/1*FfRfgW5xa863Hw_K8Fc7pg.jpeg)
 
-Sia is a blockchain-based, decentralized cloud storage platform on which Renters can lease storage capacity from Hosts. Sia utilizes two tokens, _Siacoin_ and _Siafunds_. Siacoins are used by Renters and Hosts as the currency in which deals are performed on the platform. Renters and Hosts are required to pay network fees to the Sia platform that amount to 3.9% of all spending. Siafunds are entitled to receive a proportional amount of those fees. Nebulous, the operating company of the Sia platform, is offering 750 Siafunds out of a total of 10,000 Siafunds, as a Reg D security token. This is an example of a [‘two-tier’ or dual tokens issuance](https://medium.com/thisisdna/a-world-where-all-tokens-are-securities-227651c4e173), which is used both a security and a utility token.
+Sia 是一个基于区块链的分布式云存储平台，租户可以从主机租借存储容量。Sia 使用两种通证， _Siacoin_ 和 _Siafunds_。租户和承租人（主机）通过 Siacoin 这种货币在平台上完成交易。租户和承租人需要支付交易金额的 3.9% 作为 Sia 平台的网络费用。Siafunds 有权按照一定比例收取这些费用。Nebulous，Sia 平台的运营公司，从 10,000 Siafund 中提供了 750 Siafund 作为 Reg D（ SEC 对私募发行豁免的规定） 的 Security token。这是一个[双重通证发行方案](https://medium.com/thisisdna/a-world-where-all-tokens-are-securities-227651c4e173)，它既用于 security token，也用于 utility token。
 
-**Amount Raised:** In Progress
+**已募集资金：** 进行中
 
-**Management:** David Vorick CEO, Core Developer, Ex IBM, Rensselaer Polytechnic Institute
+**管理团队：** David Vorick CEO，核心程序员，前 IBM 员工，毕业于 Rensselaer Polytechnic Institute
 
-Luke Champine, Co-founder, Core Developer, Rensselaer Polytechnic Institute
+Luke Champine，联合创始人，核心程序员，毕业于 Rensselaer Polytechnic Institute
 
 ### [Slice](https://slice.market/)
 
 ![](https://cdn-images-1.medium.com/max/600/1*ZLTSxVIgkMFEw2rhpnJ8fA.jpeg)
 
-Slice is a commercial real-estate (CRE) investment platform for cross-border investors. It functions as the underwriter, issuer and placement agent for prime real-estate securities. Slice offers liquidity to conventional real estate equity investments, while creating portfolio diversification tool for high net worth investors. Slice’s investments will provide investors with a choice between stable quarterly distributions from cash-flowing properties, or high-yielding value-add projects with large but infrequent dividends. Accredited investors can deploy investments directly into institutional-grade commercial real-estate utilizing Slice’s tax-advantaged structure. Slice combines the Bancor Protocol with Stellar’s built-in decentralized exchange to ensure high liquidity for the CRE-backed tokens issued on the Slice platform.
+Slice 是一个跨国投资者的商业房地产（CRE）的投资平台。它为主要的房地产证券提供承销商、发行商和配售代理的服务。Slice 尾传统的房地产股权投资提供流动性的同时，也为高净值投资者创建投资组合多元化工具。Slice 的投资将为投资者提供两个选项：稳定的季度现金流动资产分配，还是大型高收益但少派息的高增值项目？授权投资者可以利用 Slice 的税收优惠结构将投资直接配置到机构级商业地产中。Slice 将 Bancor 协议与 Stellar 内置的去中心化交易所结合，确保 Slice 平台上发行的 CRE 支持的通证的高流动性。
 
-**Amount Raised:** $2M (Series Seed) + upcoming STO
+**已募集资金：** 200 万美金（种子论）+ 即将进行 STO
 
-**Management:** Ari Shpanya, CEO; Tomer Ravid, CIO; Yevgeniy Spektor, CTO
+**管理团队：** Ari Shpanya，CEO；Tomer Ravid，CIO；Yevgeniy Spektor，CTO
 
-**Advisors:** Eyal Herzog, Product Architect at Bancor
+**顾问：** Eyal Herzog，Bancor 的产品架构师
 
-### Law Firms:
+### 法律机构：
 
-Some of the legal heavy-lifting such as KYC/AML will be automated by the issuances platforms. Nonetheless, getting good lawyers to structure your security token is crucial.
+一些需要法律监控的流程，如 KYC 或 AML 可以经由发行平台全程自动化。尽管如此，让优秀的律师来构造你的 Security token 是至关重要的。
 
-For the best token structures and lawyers, **continue to our next article [here](https://medium.com/@tatianakoffman/4-security-token-structures-and-the-lawyers-to-help-you-execute-them-53c8a5129f49).**
+欲知最好的通证结构和律师，**继续阅读下一篇文章吧 [这里](https://medium.com/@tatianakoffman/4-security-token-structures-and-the-lawyers-to-help-you-execute-them-53c8a5129f49)。**
 
 ![](https://cdn-images-1.medium.com/max/800/1*mrWvjC9Kcbsi9Hz11Krshg.gif)
 
----
 
-_Enjoyed this post? Please “clap” 50X in the bottom left corner so it will be shared with more people._ [_Tweet me_](https://twitter.com/tatianakoffman) _with any additions, corrections or feedback._
+---
 
 > 如果发现译文存在错误或其他需要改进的地方，欢迎到 [掘金翻译计划 — 区块链分舵](https://github.com/xitu/blockchain-miner) 对译文进行修改并 PR，也可获得相应奖励积分。文章开头的 **本文永久链接** 即为本文在 GitHub 上的 MarkDown 链接。
 
