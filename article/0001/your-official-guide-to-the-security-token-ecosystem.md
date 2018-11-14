@@ -11,7 +11,7 @@
 
 ![](https://cdn-images-1.medium.com/max/800/1*5XBQ-ZqyEMBsE77yhi9Irw.jpeg)
 
-_各行业力量的结合创造了金融创新的新领域。_
+**各行业力量的结合创造了金融创新的新领域。**
 
 ### **什么是 Security Tokens？**
 
@@ -19,13 +19,13 @@ Security tokens（证劵化通证），tokenized securities（通证化证券）
 
 > 一些（通证）布道者称这些证券很快会广受欢迎，占据传统的证券和交易所和场外交易市场份额，它们在未来十年将会被完全取代。
 
-有关更多 Security tokens 的类型以及他们与 Utility tokens 的区别，请参阅早期的一篇文章 [这里](https://medium.com/thisisdna/a-world-where-all-tokens-are-securities-227651c4e173).
+有关更多 Security tokens 的类型以及他们与 Utility tokens 的区别，请参阅早期的一篇文章 [这里](https://medium.com/thisisdna/a-world-where-all-tokens-are-securities-227651c4e173)。
 
 ### 为什么通证化？
 
-通证化的优势包括给大型资产提供资产可分割性、给资产增加流动性、降低发行费用和加强市场效率。然而，_Security tokens 给发行者提供的最大好处是他们可以以此接触到全球的资产池_。由于这些通证可以在遵守规章的情况下在国际上销售和交易，它们的价格变得更加合理，因此，它们对投资者也更有吸引力。这个符合 SEC 要求的发行方案吸引了机构投资者，因为它的结构更加清晰；也因为技术创新，吸引了加密货币投资者。
+通证化的优势包括给大型资产提供资产可分割性、给资产增加流动性、降低发行费用和加强市场效率。然而，*Security tokens* 给发行者提供的最大好处是他们可以以此接触到全球的资产池。由于这些通证可以在遵守规章的情况下在国际上销售和交易，它们的价格变得更加合理，因此，它们对投资者也更有吸引力。这个符合 SEC 要求的发行方案吸引了机构投资者，因为它的结构更加清晰；也因为技术创新，吸引了加密货币投资者。
 
-> **新术语需知：** _“STO” —— 一个 Security token 发行方案。类似于 Utility token 发行方案的术语 ICO。_
+> **新术语需知：** *“STO”* —— 一个 *Security token* 发行方案。类似于 *Utility token* 发行方案的术语 *ICO*。
 
 ### **如何通证化？**
 
@@ -35,7 +35,7 @@ Security tokens（证劵化通证），tokenized securities（通证化证券）
 
 ![](https://cdn-images-1.medium.com/max/800/1*azTi3tk1NOeJ3H1qOZ_t3A.gif)
 
-_注：这是一个定期更新的行业知名人物（组织）简介，欢迎反馈。如果你有相关的平台或者发行商需要添加（在上面）请在_ [_推特_](https://twitter.com/tatianakoffman)_上联系我。_
+**注：这是一个定期更新的行业知名人物（组织）简介，欢迎反馈。如果你有相关的平台或者发行商需要添加（在上面）请在[推特](https://twitter.com/tatianakoffman)上联系我。**
 
 ### 发行平台：
 
@@ -47,7 +47,7 @@ _注：这是一个定期更新的行业知名人物（组织）简介，欢迎�
 
 Polymath 是一种区块链通讯协议，以它的标准的通证化证券符合法律要求，并利于发行和分配。这个协议将金融安全需求潜入到新式 Security tokens的设计中，精简了在区块链上无缝发行金融产品的流程。Polymath 平台提供 Security tokens 交易、投资者认证、连接合法代表和接触技术开发者市场的渠道。Poly 是一种 ERC20 通证，是该系统运转的燃料和基础经济单位，促进了内部的认证、法律和开发服务。 
 
-**已募集资金：** [5900 万美元](http://www.businessinsider.com/a-startup-raised-59-million-in-a-token-sale-to-usher-in-the-next-generation-of-crypto-2018-2) (ICO)
+**已募集资金：** [5900 万美元](http://www.businessinsider.com/a-startup-raised-59-million-in-a-token-sale-to-usher-in-the-next-generation-of-crypto-2018-2)（ICO）
 
 **管理团队：** [Trevor Koverko](https://www.linkedin.com/in/trevorkoverko/)，CEO，企业家，区块链演讲者，和加密货币投资人
 
@@ -65,7 +65,7 @@ Patrick Byrne，Overstock 的 CEO
 
 Harbor 是一个能把传统投资类别无缝迁移到区块链上的开源平台。通过标准化流程，Harbor 简化了合规步骤，保证了公司的迁移资产的过程中合乎法律要求。通过 [隐私保护型 ICO](https://medium.com/harborhq/introducing-the-private-ico-pico-3e8b782924c1) 方案，Harbor 结合新式可限制访问的通证技术提供了合规的 R-Token 内部销售。该标准将诸如 KYC（顾客身份审查）、AML（反洗钱条例）、税则、报告信息和认证状态的需求通过系统集成到每个发行的通证中。
 
-**已募集资金：** [1000 万美元](https://medium.com/harborhq/harbor-raises-10-million-to-power-crypto-securities-compliance-b1102d656efd) (A 轮)
+**已募集资金：** [1000 万美元](https://medium.com/harborhq/harbor-raises-10-million-to-power-crypto-securities-compliance-b1102d656efd)（A 轮）
 
 **管理团队：** David Sacks，CEO，Craft Ventures 的主要伙伴，Paypal 前 COO，Yammer 创始人，Zenefits CEO
 
@@ -109,7 +109,7 @@ David Drake**，** LDJ Capital 的创始人和主席
 
 Templum 是一个合规的 Security token 发行和后续二手交易的解决方案。Templum Markets（前身是 Liquid M Capital，以 [130 万美元](https://www.crunchbase.com/organization/liquid-m-capital)被 Templum 收购）是一个已注册的替代交易系统（ATS）和经纪商公司。Templum 提供了一个既支持 Security token 初次发售，又支持发行商和投资人进行二手交易的平台。与许多其它解决方案一样，Templum 将会把 AML 和 KYC 整合成平台的一部分以达到合规要求。
 
-**已募集资金：** [270 万美元](https://www.crunchbase.com/organization/templum#section-overview) （私募轮）
+**已募集资金：** [270 万美元](https://www.crunchbase.com/organization/templum#section-overview)（私募轮）
 
 **管理团队：** [Christopher Pallotta](https://www.linkedin.com/in/christopher-pallotta-bb3b6430/)，Raptor Capital Management 的 CEO 和总经理
 
@@ -137,11 +137,11 @@ Securrency 成立与 2015 年，提供了一个为非流动性资产提供流动
 
 作为 Overstock.com 的子公司，tZERO 专注为资本市场开发各种区块链解决方案。 公司目前的产品包括经纪商服务、库存管理系统、在网格状联系的 100 多个经纪商中提供的智能订单转发解决方案、24小时交易平台以及其它服务。该公司经营传统股票，但计划通过集成加密货币交易系统来扩大其业务。该公司的通证是 ERC20 Security token，公司将会每季度向通证持有者支付调整后的总收入的 10%。
 
-**已募集资金：** [1 亿 1400 万美元](https://www.crowdfundinsider.com/2018/03/129016-tzero-raises-114-million-pre-sale-ico-migrates-away-saftlaunch-startengine-next-phase-security-token-sale/) (ICO 正在进行中)
+**已募集资金：** [1 亿 1400 万美元](https://www.crowdfundinsider.com/2018/03/129016-tzero-raises-114-million-pre-sale-ico-migrates-away-saftlaunch-startengine-next-phase-security-token-sale/)（ICO 正在进行中）
 
 **管理团队：** [Patrick Byrne](https://www.linkedin.com/in/patrick-m-byrne-0b8380a7/)，CEO，Overstock.com 的 CEO 和创始人，Medici Ventures 创始人
 
-[Joe Cammarata](https://www.linkedin.com/in/joseph-cammarata-6249745/)，总裁，SpeedRoute (tZERO 子公司) 的 CEO，Sonic Trading 的 CEO 和创始人
+[Joe Cammarata](https://www.linkedin.com/in/joseph-cammarata-6249745/)，总裁，SpeedRoute（tZERO 子公司）的 CEO，Sonic Trading 的 CEO 和创始人。
 
 [Ralph Daiuto](https://www.linkedin.com/in/ralph-a-daiuto-jr-03b69a52/)，COO 兼法律总顾问
 
@@ -151,9 +151,9 @@ Securrency 成立与 2015 年，提供了一个为非流动性资产提供流动
 
 ![](https://cdn-images-1.medium.com/max/600/1*JoRUVnIqUZlEZFrVcdRBnA.jpeg)
 
-OpenFinance Network (OFN) 是一个专供资产可替代物二级市场的开源平台。OFN 团队在 2014 年便开始合作，提供交易、清算和结算服务。最近，该小组已经将注意力重新集中在区块链解决方案上，并且开发了一套可供通证化证券在区块链上交易乃至发行的兼容标准。上个月，OFN 启用了第一个通过验证的兼容性 Security token 转账服务，现在正在接受其它 Security token 的上线申请。
+OpenFinance Network（OFN）是一个专供资产可替代物二级市场的开源平台。OFN 团队在 2014 年便开始合作，提供交易、清算和结算服务。最近，该小组已经将注意力重新集中在区块链解决方案上，并且开发了一套可供通证化证券在区块链上交易乃至发行的兼容标准。上个月，OFN 启用了第一个通过验证的兼容性 Security token 转账服务，现在正在接受其它 Security token 的上线申请。
 
-**已募集资金：** $[220 万美元](https://www.crunchbase.com/organization/cfx-markets#section-twitter) (A 轮)
+**已募集资金：** $[220 万美元](https://www.crunchbase.com/organization/cfx-markets#section-twitter)（A 轮）
 
 **管理团队：** Juan M. Hernandez，PeerRealty 和 Pop Stock Exchange 的 CEO 兼创始人
 
@@ -177,7 +177,7 @@ Stephen Pettibone，CCO，前纳斯达克合规副总裁
 
 Bancor 提供了一个连接多种通证的资金池流动性模型，它使价格发现成为可能，并能在低交易量的环境中保证流动性。在证券方面，该模型对目前的最佳实践方案做了补充，并提供了实现流动性的替代方案，由此放大了证券（通证）移到区块链上的好处。Bancor 经常被描述为价值创造后其低需求和低容量产品的长尾工具。在通证化证券市场中，一个长尾的用例便是 SPiCE VC（一个通证化风头基金）和 Bancor 的伙伴关系。根据协议 SPiCE VC 承诺将其 5% 的资本保留在 Bancor 网络上，以便通证持有者可以通过出售等其它方式受益。
 
-**已募集资金：** 1 亿 5200 万美元 (ICO)
+**已募集资金：** 1 亿 5200 万美元（ICO）
 
 **管理团队：** [Guy Benartzi](https://www.linkedin.com/in/guy-benartzi-734613146/)，联合创始人，Mytopia 前 CEO，Particle Code 前总裁
 
@@ -191,7 +191,7 @@ Bancor 提供了一个连接多种通证的资金池流动性模型，它使价�
 
 资产通证化的一个大前景就是它打开了全球资本池的阀门，消除了受地理和基础设施限制的需求和供应动态。Airswap 是一个去中心化交易所，它容许全球范围的交易，将单个实体连接到整个市场。在交易所流转的 Security tokens 提升了流动性，并催生出一个更稳定、需求波动更小的环境。
 
-**已募集资金：** [3600 万美元](https://www.crunchbase.com/organization/airswap#section-funding-rounds) (ICO)
+**已募集资金：** [3600 万美元](https://www.crunchbase.com/organization/airswap#section-funding-rounds)（ICO）
 
 **管理团队：**
 
@@ -201,7 +201,7 @@ Don Mosites, 联合创始人
 
 ### 现存的通证化证券：
 
-> _在新世界中勇敢前行吧。由于目前只有少数的发行商，正在组建的也只有十几个，这就是金融创新的前沿。_
+> **在新世界中勇敢前行吧。由于目前只有少数的发行商，正在组建的也只有十几个，这就是金融创新的前沿。**
 
 ### [BCap (Blockchain Capital)](http://blockchain.capital/)
 
@@ -235,23 +235,23 @@ Lottery.com 的前身是 AutoLotto，它是一个移动端彩票服务。该公�
 
 **已募集资金：** 进行中
 
-**管理团队：** [Tony Dimatteo](https://www.linkedin.com/in/tonydimatteo/), CEO
+**管理团队：** [Tony Dimatteo](https://www.linkedin.com/in/tonydimatteo/)，CEO
 
 [Matt Clemenson](https://www.linkedin.com/in/mattclemenson/)，总裁，加密货币思维领先者
 
-[Zach Goldberg](https://www.linkedin.com/in/zachgoldberg/), CTO，之前在 Google, Tencent, WeChat 工作
+[Zach Goldberg](https://www.linkedin.com/in/zachgoldberg/)，CTO，之前在 Google、Tencent 和 WeChat 工作
 
-**知名顾问：** [Miguel Forbes](https://www.linkedin.com/company/miguel-forbes/), Forbes.com 创始人
+**知名顾问：** [Miguel Forbes](https://www.linkedin.com/company/miguel-forbes/)，Forbes.com 创始人
 
-[Joey Krug](https://www.linkedin.com/in/joeykrug/), Pantera Capital 首席投资官
+[Joey Krug](https://www.linkedin.com/in/joeykrug/)，Pantera Capital 首席投资官
 
-[Miko Matsamura](https://www.linkedin.com/in/mikomatsumura/), Evercoin 联合创始人
+[Miko Matsamura](https://www.linkedin.com/in/mikomatsumura/)，Evercoin 联合创始人
 
 ### [SPiCE VC](https://www.spicevc.com/)
 
 ![](https://cdn-images-1.medium.com/max/600/1*5BqRbOsP2BPzsnppqDv39A.png)
 
-虽然风投机构已经滞后于我们这个时代几乎所有的破产崩盘（并蒙受损失），但风投行业仍然无动于衷。SPiCE VC 打算通过它证券化的风投基金改变这一现状，为投资者提供几乎即时的流动性。如果在传统的风投基金中，出资人必需等待 7 - 12 年才能获得对其资金的完全掌控，SPiCE 通证持有者将获得一块可以退市、并随时交易的资产。尽管该公司打算投资一些 Utility tokens，但 SPiCE 重点关注 Security tokens，Securitize 是他们第一家投资组合公司。
+虽然风投机构已经滞后于我们这个时代几乎所有的破产崩盘（并蒙受损失），但风投行业仍然无动于衷。SPiCE VC 打算通过它证券化的风投基金改变这一现状，为投资者提供几乎即时的流动性。如果在传统的风投基金中，出资人必需等待 7-12 年才能获得对其资金的完全掌控，SPiCE 通证持有者将获得一块可以退市、并随时交易的资产。尽管该公司打算投资一些 Utility tokens，但 SPiCE 重点关注 Security tokens，Securitize 是他们第一家投资组合公司。
 
 **已募集资金：** $[4000 万美元](https://www.crunchbase.com/organization/spice-vc#section-funding-rounds)
 
@@ -269,11 +269,11 @@ Ami Ben David，管理合伙人
 
 初创公司的孵化募资是很难的。这就是为什么最近有一批创业者联合起来组成了一家新的通证化基金，他们来自于 500 多家初创企业，（获资者）将从一个高度选择性的加速器（甄选）而出。22X Fund 将会投资高达 30 家从 San Francisco 2017 [500 初创企业](https://500.co/)批次毕业的初创公司。该基金将持有其投资公司 2.5% 到 10% 的股权。通证持有者通过在交易所交易通证或通证回购计划获得回报，（该分红）程序会在公司在退出或 IPO 的阶段中实施。
 
-**已募集资金：** 目前 [2200 万美元](https://www.22xfund.com/) (目标 3500 万美元)
+**已募集资金：** 目前 [2200 万美元](https://www.22xfund.com/)（目标 3500 万美元）
 
-**知名管理和顾问：** Jamie Finn, 投资组合经理
+**知名管理和顾问：** Jamie Finn，投资组合经理
 
-Tim Reynders, 投资顾问
+Tim Reynders，投资顾问
 
 ### [PropertyCoin](https://propertycoin.re/en/)
 
@@ -283,9 +283,9 @@ PropertyCoin 是 Security tokens 如何改造现有市场的另一个例子。Pr
 
 **已募集资金：** 试图通过 STO 募集超过 5000 万美元
 
-**知名管理和顾问** Andrew Jewett Co-CEO, RBS securities 前房地产运营总监
+**知名管理和顾问** Andrew Jewett Co-CEO，RBS securities 前房地产运营总监
 
-Matt Miles Co-CEO, RBS securities 前房地产运营总监
+Matt Miles Co-CEO，RBS securities 前房地产运营总监
 
 ### [Siafunds](https://siafunds.tech/)
 
@@ -295,9 +295,9 @@ Sia 是一个基于区块链的分布式云存储平台，租户可以从主机�
 
 **已募集资金：** 进行中
 
-**管理团队：** David Vorick CEO, 核心程序员, 前 IBM 员工, 毕业于 Rensselaer Polytechnic Institute
+**管理团队：** David Vorick CEO，核心程序员，前 IBM 员工，毕业于 Rensselaer Polytechnic Institute
 
-Luke Champine, 联合创始人, 核心程序员, 毕业于 Rensselaer Polytechnic Institute
+Luke Champine，联合创始人，核心程序员，毕业于 Rensselaer Polytechnic Institute
 
 ### [Slice](https://slice.market/)
 
@@ -305,9 +305,9 @@ Luke Champine, 联合创始人, 核心程序员, 毕业于 Rensselaer Polytechni
 
 Slice 是一个跨国投资者的商业房地产（CRE）的投资平台。它为主要的房地产证券提供承销商、发行商和配售代理的服务。Slice 尾传统的房地产股权投资提供流动性的同时，也为高净值投资者创建投资组合多元化工具。Slice 的投资将为投资者提供两个选项：稳定的季度现金流动资产分配，还是大型高收益但少派息的高增值项目？授权投资者可以利用 Slice 的税收优惠结构将投资直接配置到机构级商业地产中。Slice 将 Bancor 协议与 Stellar 内置的去中心化交易所结合，确保 Slice 平台上发行的 CRE 支持的通证的高流动性。
 
-**已募集资金：** 200 万美金 (种子论) + 即将进行 STO
+**已募集资金：** 200 万美金（种子论）+ 即将进行 STO
 
-**管理团队：** Ari Shpanya, CEO; Tomer Ravid, CIO; Yevgeniy Spektor, CTO
+**管理团队：** Ari Shpanya，CEO；Tomer Ravid，CIO；Yevgeniy Spektor，CTO
 
 **顾问：** Eyal Herzog，Bancor 的产品架构师
 
@@ -315,13 +315,12 @@ Slice 是一个跨国投资者的商业房地产（CRE）的投资平台。它�
 
 一些需要法律监控的流程，如 KYC 或 AML 可以经由发行平台全程自动化。尽管如此，让优秀的律师来构造你的 Security token 是至关重要的。
 
-欲知最好的通证结构和律师， **继续阅读下一篇文章吧 [这里](https://medium.com/@tatianakoffman/4-security-token-structures-and-the-lawyers-to-help-you-execute-them-53c8a5129f49).**
+欲知最好的通证结构和律师，**继续阅读下一篇文章吧 [这里](https://medium.com/@tatianakoffman/4-security-token-structures-and-the-lawyers-to-help-you-execute-them-53c8a5129f49)。**
 
 ![](https://cdn-images-1.medium.com/max/800/1*mrWvjC9Kcbsi9Hz11Krshg.gif)
 
----
 
-_喜欢这篇文章吗？请在左方的 “clap” 按钮上点击 50 次，它就会被分享给更多的人了。_ [_推特联系我吧_](https://twitter.com/tatianakoffman) _，如果你有对文章的增补修正或反馈意见。_
+---
 
 > 如果发现译文存在错误或其他需要改进的地方，欢迎到 [掘金翻译计划 — 区块链分舵](https://github.com/xitu/blockchain-miner) 对译文进行修改并 PR，也可获得相应奖励积分。文章开头的 **本文永久链接** 即为本文在 GitHub 上的 MarkDown 链接。
 
