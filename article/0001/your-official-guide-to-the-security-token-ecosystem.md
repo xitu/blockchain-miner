@@ -3,7 +3,6 @@
 > * 译文出自：[掘金翻译计划 — 区块链分舵](https://github.com/xitu/blockchain-miner)
 > * 本文永久链接：[https://github.com/xitu/blockchain-miner/tree/master/article/0001/your-official-guide-to-the-security-token-ecosystem.md](https://github.com/xitu/blockchain-miner/tree/master/article/0001/your-official-guide-to-the-security-token-ecosystem.md)
 > * 译者：[StellaBauhinia](https://github.com/StellaBauhinia)
-> * 校对者：
 
 # Security Token 生态 — 项目指南
 
