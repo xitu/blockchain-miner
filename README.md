@@ -45,6 +45,11 @@
 * [2018 年 Security Token 发展现状及未来展望](https://juejin.im/post/5bab10c16fb9a05d2e1ba2ce) ([StellaBauhinia](https://github.com/StellaBauhinia) 翻译)
 * [ELI5：用简单的语言给小白解释什么是以太坊？](https://juejin.im/post/5bb070b16fb9a05ce02a8a26) ([mingxing47](https://github.com/mingxing47) 翻译)
 * [EthList：众包维护的以太坊阅读清单](https://juejin.im/post/5b9bd2f6f265da0af5030fed) ([StellaBauhinia](https://github.com/StellaBauhinia) 翻译)
+* [以太坊入门：互联网政府](https://juejin.im/post/5c03c68851882551236eaa82) ([newraina](https://github.com/newraina) 翻译)
+* [以太坊: 能帮我们把 Uber 换掉的非比特币加密货币](https://juejin.im/post/5bf3e32ee51d4532ff07a7de) ([noahziheng](https://github.com/noahziheng) 翻译)
+* [如何区分支付型代币，实用型代币，证券化代币](https://juejin.im/post/5bf53b8f51882517172700c8) ([mingxing47](https://github.com/mingxing47) 翻译)
+* [Security Token 生态 — 项目指南](https://juejin.im/post/5bf101daf265da616b104cc8) ([StellaBauhinia](https://github.com/StellaBauhinia) 翻译)
+* [什么是 Security Tokens（证券型代币）？](https://juejin.im/entry/5bb2244d5188255c7228594c/detail) ([llp0574](https://github.com/llp0574) 翻译)
 * [所有区块链译文>>](https://github.com/xitu/blockchain-miner/blob/master/blockchain.md)
 
 ### 投稿文章
