@@ -3,7 +3,7 @@
 > * 译文出自：[掘金翻译计划 — 区块链分舵](https://github.com/xitu/blockchain-miner)
 > * 本文永久链接：[https://github.com/xitu/blockchain-miner/tree/master/article/0001/us-judge-rules-ico-frauds-fall-under-securities-law.md](https://github.com/xitu/blockchain-miner/tree/master/article/0001/us-judge-rules-ico-frauds-fall-under-securities-law.md)
 > * 译者：[newraina](https://github.com/newraina)
-> * 校对者：
+> * 校对者：[LeviDing](https://leviding.com)
 
 # 美国证券法对 ICO 及相关 Fund 的最新动态
 
