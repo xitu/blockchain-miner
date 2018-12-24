@@ -1,3 +1,4 @@
+* [美国证券法对 ICO 及相关 Fund 的最新动态](https://juejin.im/post/5c1e03ae6fb9a049fb43a536) ([newraina](https://github.com/newraina) 翻译)
 * [以太坊入门：互联网政府](https://juejin.im/post/5c03c68851882551236eaa82) ([newraina](https://github.com/newraina) 翻译)
 * [以太坊: 能帮我们把 Uber 换掉的非比特币加密货币](https://juejin.im/post/5bf3e32ee51d4532ff07a7de) ([noahziheng](https://github.com/noahziheng) 翻译)
 * [如何区分支付型代币，实用型代币，证券化代币](https://juejin.im/post/5bf53b8f51882517172700c8) ([mingxing47](https://github.com/mingxing47) 翻译)
