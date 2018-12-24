@@ -46,6 +46,7 @@
 
 ### 区块链分舵翻译文章
 
+* [美国证券法对 ICO 及相关 Fund 的最新动态](https://juejin.im/post/5c1e03ae6fb9a049fb43a536) ([newraina](https://github.com/newraina) 翻译)
 * [什么是以太坊？以太坊初学者手把手教程](https://juejin.im/post/5ba850a36fb9a05d0b14369f) ([cdpath](https://github.com/cdpath) 翻译)
 * [2018 年 Security Token 发展现状及未来展望](https://juejin.im/post/5bab10c16fb9a05d2e1ba2ce) ([StellaBauhinia](https://github.com/StellaBauhinia) 翻译)
 * [ELI5：用简单的语言给小白解释什么是以太坊？](https://juejin.im/post/5bb070b16fb9a05ce02a8a26) ([mingxing47](https://github.com/mingxing47) 翻译)
@@ -60,6 +61,7 @@
 
 ### 翻译计划主舵历史文章
 
+* [以太坊入门指南](https://juejin.im/post/5c1080fbe51d452b307969a3) ([gs666](https://github.com/gs666) 翻译)
 * [使用 Web3 和 Vue.js 来创建你的第一个以太坊 dAPP（第一部分）](https://juejin.im/post/5aa7a8d2518825558805128d) ([foxxnuaa](https://github.com/foxxnuaa) 翻译)
 * [使用 Web3 和 Vue.js 来创建你的第一个以太坊 dAPP（第二部分）](https://juejin.im/post/5aba0870f265da23a2292245) ([L9m](https://github.com/L9m) 翻译)
 * [使用 Web3 和 Vue.js 来创建你的第一个以太坊 dAPP（第三部分）](https://juejin.im/post/5ac36e1f518825556a729c3f) ([sakila1012](https://github.com/sakila1012) 翻译)
