@@ -19,6 +19,7 @@
 ## 简介
 
 #### 以太坊的简单解释
+
 - [区块链视频演示 —— 区块链技术的视效演示](https://blockchaindemo.io)
 - [精简区块链命令行学习实操](https://github.com/daxeel/blockshell)
 - [虚拟货币演示 —— 数字货币技术的视效演示](https://coindemo.io)
@@ -28,11 +29,11 @@
 - [Joseph Lubin 对于构建去中心化应用的访谈](https://www.youtube.com/watch?v=MgLmY9oedTM)（视频）
 - [BBC 解释以太坊](https://www.youtube.com/watch?v=0X33lgMbvdI)（视频）
 - [以太坊上的技术难题](https://www.youtube.com/watch?v=WfULutvxvzY)（视频）
-- [什么是以太坊？](https://blockgeeks.com/guides/what-is-ethereum/)
-- [向小白解释：什么是以太坊？](https://www.reddit.com/r/ethereum/comments/60hhjm/eli5_what_is_ethereum/)
-- [以太坊：与比特币不同的、可以取代 Uber 服务的数字货币](http://mashable.com/2017/03/24/ethereum-bitcoin-explainer/)
-- [以太坊简介：互联网共治](https://media.consensys.net/introduction-to-ethereum-the-internets-government-35bdd25f572a#.5me0m455w)
-- [以太坊初学者入门](https://blog.coinbase.com/a-beginners-guide-to-ethereum-46dd486ceecf)
+- [什么是以太坊？以太坊初学者手把手教程](https://blockgeeks.com/guides/what-is-ethereum/) **「[译文](https://juejin.im/post/5ba850a36fb9a05d0b14369f)」**
+- [ELI5：用简单的语言给小白解释什么是以太坊？](https://www.reddit.com/r/ethereum/comments/60hhjm/eli5_what_is_ethereum/) **「[译文](https://juejin.im/post/5bb070b16fb9a05ce02a8a26)」**
+- [以太坊：与比特币不同的、可以取代 Uber 服务的数字货币](http://mashable.com/2017/03/24/ethereum-bitcoin-explainer/) **「[译文](https://juejin.im/post/5bf3e32ee51d4532ff07a7de)」**
+- [以太坊简介：互联网共治](https://media.consensys.net/introduction-to-ethereum-the-internets-government-35bdd25f572a#.5me0m455w) **「[译文](https://juejin.im/post/5c03c68851882551236eaa82)」**
+- [以太坊初学者入门](https://blog.coinbase.com/a-beginners-guide-to-ethereum-46dd486ceecf) **「[译文](https://juejin.im/post/5c1080fbe51d452b307969a3)」**
 - [什么是以太坊？](https://cointelegraph.com/ethereum-for-beginners/what-is-ethereum)
 - [足以用来理解以太坊的比特币知识](https://media.consensys.net/time-sure-does-fly-ed4518792679#.xclr74isu)
 - [以太坊：比特币加上一切](https://medium.com/@ConsenSys/ethereum-bitcoin-plus-everything-a506dc780106#.v7s0ganew)
